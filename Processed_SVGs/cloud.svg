@@ -4,6 +4,7 @@
 <svg version="1.1" id="Layer_1" xmlns:serif="http://www.serif.com/"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="612px" height="792px"
 	 viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
+<rect id="cloud" y="90" fill="none" width="612" height="612"/>
 <g id="cloud1" serif:id="cloud">
 	<path d="M182.131,339.671c-52.48,4.916-93.617,49.146-93.617,102.909c0,57.049,46.316,103.365,103.364,103.365h228.242
 		c57.048,0,103.364-46.316,103.364-103.365c0-57.048-46.316-103.364-103.364-103.364h-32.216
