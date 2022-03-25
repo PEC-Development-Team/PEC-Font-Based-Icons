@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "PECFontIcons";
+  src: url("../fonts/PECFontIcons.woff2?t=1648175911224") format("woff2"),
+  url("../fonts/PECFontIcons.woff?t=1648175911224") format("woff"),
+  url('../fonts/PECFontIcons.ttf?t=1648175911224') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('../fonts/PECFontIcons.svg?t=1648175911224#PECFontIcons') format('svg'); /* iOS 4.1- */
+}
+
+[class^="PECFontIcons-"], [class*=" PECFontIcons-"] {
+  font-family: 'PECFontIcons' !important;
+  /*font-size:16px;*/
+  font-size:5rem;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 100%;
+  vertical-align: middle;
+}
+
+
+.PECFontIcons-wind-deg:before { content: "\ea01"; }
