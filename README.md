@@ -3,7 +3,7 @@ Icons for PEC Applications
 
 uses https://github.com/MrRedBeard/svgtofont
 
-Node Project instructions
+## Node Project instructions
    npm init
    npm install -g pkg
    npm install https://github.com/MrRedBeard/svgtofont
@@ -17,7 +17,7 @@ Node Project instructions
    See index.html example in fonts folder usage
    node index.js
 
-Artwork
+## Artwork
    33.87mm x 33.87mm Artboard
    SVG resized and rotated to fit in that artboard
    Horizontal align center
