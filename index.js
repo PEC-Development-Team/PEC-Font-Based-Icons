@@ -5,7 +5,7 @@ const grunt = require('grunt');
 const pkg = grunt.file.readJSON('package.json')
 
 svgtofont({
-  src: path.resolve(process.cwd(), "src"), // svg path
+  src: path.resolve(process.cwd(), "svg"), // svg path
   dist: path.resolve(process.cwd(), "fonts"), // output path
   styleTemplates: path.resolve(process.cwd(), "styles"), // file templates path (optional)
   fontName: "PECFontIcons", // font name
