@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:1.25;"><rect id="sandstorm" x="2.642" y="0.999" width="125" height="125" style="fill:none;"/><g><path d="M40.592,67.584l49.416,0" style="fill:none;stroke:#010001;stroke-width:4.17px;"/><path d="M90.008,67.584c12.878,0 12.878,16.574 -0,16.574" style="fill:none;stroke:#010001;stroke-width:4.17px;"/></g><g><path d="M30.617,59.414l49.415,0" style="fill:none;stroke:#010001;stroke-width:4.17px;"/><path d="M80.032,42.841c12.879,0 12.879,16.573 0,16.573" style="fill:none;stroke:#010001;stroke-width:4.17px;"/></g><circle cx="55.733" cy="44.917" r="2.075" style="fill:#010001;"/><circle cx="47.524" cy="53.189" r="2.075" style="fill:#010001;"/><circle cx="72.065" cy="73.772" r="2.075" style="fill:#010001;"/><circle cx="63.994" cy="53.189" r="2.075" style="fill:#010001;"/><circle cx="47.524" cy="82.082" r="2.075" style="fill:#010001;"/><circle cx="63.994" cy="82.082" r="2.075" style="fill:#010001;"/><circle cx="32.692" cy="44.917" r="2.075" style="fill:#010001;"/><circle cx="82.616" cy="73.772" r="2.075" style="fill:#010001;"/><circle cx="74.545" cy="53.189" r="2.075" style="fill:#010001;"/><circle cx="93.04" cy="73.772" r="2.075" style="fill:#010001;"/><circle cx="97.591" cy="55.264" r="2.075" style="fill:#010001;"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:serif="http://www.serif.com/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="283.46px"
+	 height="283.46px" viewBox="0 0 283.46 283.46" enable-background="new 0 0 283.46 283.46" xml:space="preserve">
+<g>
+	<g>
+		<path fill="none" stroke="#010001" stroke-width="4.17" stroke-linecap="round" stroke-miterlimit="1.25" d="M88.2,150.636h107.75
+			"/>
+		<path fill="none" stroke="#010001" stroke-width="4.17" stroke-linecap="round" stroke-miterlimit="1.25" d="M195.951,150.636
+			c28.08,0,28.08,36.139,0,36.139"/>
+	</g>
+	<g>
+		<path fill="none" stroke="#010001" stroke-width="4.17" stroke-linecap="round" stroke-miterlimit="1.25" d="M66.45,132.822
+			h107.749"/>
+		<path fill="none" stroke="#010001" stroke-width="4.17" stroke-linecap="round" stroke-miterlimit="1.25" d="M174.199,96.685
+			c28.082,0,28.082,36.137,0,36.137"/>
+	</g>
+	<circle fill="#010001" cx="121.214" cy="101.212" r="4.524"/>
+	<circle fill="#010001" cx="103.315" cy="119.249" r="4.524"/>
+	<circle fill="#010001" cx="156.826" cy="164.129" r="4.524"/>
+	<circle fill="#010001" cx="139.228" cy="119.249" r="4.524"/>
+	<circle fill="#010001" cx="103.315" cy="182.249" r="4.524"/>
+	<circle fill="#010001" cx="139.228" cy="182.249" r="4.524"/>
+	<circle fill="#010001" cx="70.975" cy="101.212" r="4.524"/>
+	<circle fill="#010001" cx="179.832" cy="164.129" r="4.524"/>
+	<circle fill="#010001" cx="162.234" cy="119.249" r="4.524"/>
+	<circle fill="#010001" cx="202.562" cy="164.129" r="4.524"/>
+	<circle fill="#010001" cx="212.484" cy="123.773" r="4.524"/>
+</g>
+</svg>

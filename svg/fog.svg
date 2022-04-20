@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 130 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.07317;"><rect id="fog" x="3.946" y="0.007" width="125" height="125" style="fill:none;"/><path d="M24.52,66.089c1.048,-4.961 4.033,-9.212 8.124,-11.923c3.009,-1.994 6.616,-3.156 10.493,-3.156c-0,-10.502 8.526,-19.029 19.028,-19.029c10.502,0 19.029,8.527 19.029,19.029l8.561,-0c9.106,-0 16.726,6.41 18.592,14.96" style="fill:none;stroke:#000;stroke-width:4.17px;"/><g><path d="M19.698,80.78l77.683,-0" style="fill:none;stroke:#010001;stroke-width:4.17px;stroke-linejoin:miter;stroke-miterlimit:1.25;"/></g><g><path d="M32.929,89.067l77.683,-0" style="fill:none;stroke:#010001;stroke-width:4.17px;stroke-linejoin:miter;stroke-miterlimit:1.25;"/></g><g><path d="M27.592,72.39l77.683,0" style="fill:none;stroke:#010001;stroke-width:4.17px;stroke-linejoin:miter;stroke-miterlimit:1.25;"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:serif="http://www.serif.com/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="283.46px"
+	 height="283.46px" viewBox="0 0 283.46 283.46" enable-background="new 0 0 283.46 283.46" xml:space="preserve">
+<path fill="none" stroke="#000000" stroke-width="4.17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.0732" d="
+	M53.465,149.556c2.285-10.818,8.794-20.087,17.714-25.998c6.561-4.348,14.426-6.882,22.879-6.882
+	c0-22.899,18.59-41.492,41.49-41.492s41.492,18.593,41.492,41.492h18.667c19.854,0,36.47,13.977,40.539,32.62"/>
+<g>
+	<path fill="none" stroke="#010001" stroke-width="4.17" stroke-linecap="round" stroke-miterlimit="1.25" d="M42.951,181.589
+		h169.385"/>
+</g>
+<g>
+	<path fill="none" stroke="#010001" stroke-width="4.17" stroke-linecap="round" stroke-miterlimit="1.25" d="M71.8,199.658h169.385
+		"/>
+</g>
+<g>
+	<path fill="none" stroke="#010001" stroke-width="4.17" stroke-linecap="round" stroke-miterlimit="1.25" d="M60.163,163.294
+		h169.385"/>
+</g>
+</svg>
