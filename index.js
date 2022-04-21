@@ -8,7 +8,7 @@ svgtofont({
   src: path.resolve(process.cwd(), "svg"), // svg path
   dist: path.resolve(process.cwd(), "fonts"), // output path
   styleTemplates: path.resolve(process.cwd(), "styles"), // file templates path (optional)
-  fontName: "PECFontIcons", // font name
+  fontName: "pfi", // font name
   css: true, // Create CSS files.
   startUnicode: 0xea01, // unicode start number
   svgicons2svgfont: {
@@ -17,7 +17,7 @@ svgtofont({
   },
   // website = null, no demo html files
   website: {
-    title: "bluFontIcons",
+    title: "PEC Font Icons",
     // Must be a .svg format image.
     logo: path.resolve(process.cwd(), "svg", "git.svg"),
     version: pkg.version,
