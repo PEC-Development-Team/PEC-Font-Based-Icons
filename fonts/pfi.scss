@@ -1,8 +1,8 @@
 @font-face {font-family: "pfi";
-  src: url("pfi.woff2?t=1651782749589") format("woff2"),
-  url("pfi.woff?t=1651782749589") format("woff"),
-  url('pfi.ttf?t=1651782749589') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('pfi.svg?t=1651782749589#pfi') format('svg'); /* iOS 4.1- */
+  src: url("pfi.woff2?t=1651785720771") format("woff2"),
+  url("pfi.woff?t=1651785720771") format("woff"),
+  url('pfi.ttf?t=1651785720771') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('pfi.svg?t=1651785720771#pfi') format('svg'); /* iOS 4.1- */
 }
 
 [class^="pfi-"], [class*=" pfi-"] {
@@ -23,28 +23,28 @@
 .pfi-billeting-mgmt:before { content: "\ea05"; }
 .pfi-breakout:before { content: "\ea06"; }
 .pfi-bus:before { content: "\ea07"; }
-.pfi-cloud:before { content: "\ea08"; }
-.pfi-comment-box:before { content: "\ea09"; }
-.pfi-concord-menu:before { content: "\ea0a"; }
-.pfi-conferencing:before { content: "\ea0b"; }
-.pfi-course-catalog:before { content: "\ea0c"; }
-.pfi-course-mgmt:before { content: "\ea0d"; }
-.pfi-court-martial:before { content: "\ea0e"; }
-.pfi-dashboard:before { content: "\ea0f"; }
-.pfi-email:before { content: "\ea10"; }
-.pfi-eo:before { content: "\ea11"; }
-.pfi-event-registration:before { content: "\ea12"; }
-.pfi-exclamation:before { content: "\ea13"; }
-.pfi-express-checkin:before { content: "\ea14"; }
-.pfi-faq:before { content: "\ea15"; }
-.pfi-feedback:before { content: "\ea16"; }
-.pfi-fitness-consult:before { content: "\ea17"; }
-.pfi-gear:before { content: "\ea18"; }
-.pfi-hamburger:before { content: "\ea19"; }
-.pfi-help:before { content: "\ea1a"; }
-.pfi-history:before { content: "\ea1b"; }
-.pfi-home:before { content: "\ea1c"; }
-.pfi-housekeeping:before { content: "\ea1d"; }
+.pfi-comment-box:before { content: "\ea08"; }
+.pfi-concord-menu:before { content: "\ea09"; }
+.pfi-conferencing:before { content: "\ea0a"; }
+.pfi-course-catalog:before { content: "\ea0b"; }
+.pfi-course-mgmt:before { content: "\ea0c"; }
+.pfi-court-martial:before { content: "\ea0d"; }
+.pfi-dashboard:before { content: "\ea0e"; }
+.pfi-email:before { content: "\ea0f"; }
+.pfi-eo:before { content: "\ea10"; }
+.pfi-event-registration:before { content: "\ea11"; }
+.pfi-exclamation:before { content: "\ea12"; }
+.pfi-express-checkin:before { content: "\ea13"; }
+.pfi-faq:before { content: "\ea14"; }
+.pfi-feedback:before { content: "\ea15"; }
+.pfi-fitness-consult:before { content: "\ea16"; }
+.pfi-gear:before { content: "\ea17"; }
+.pfi-hamburger:before { content: "\ea18"; }
+.pfi-help:before { content: "\ea19"; }
+.pfi-history:before { content: "\ea1a"; }
+.pfi-home:before { content: "\ea1b"; }
+.pfi-housekeeping:before { content: "\ea1c"; }
+.pfi-HRRTC:before { content: "\ea1d"; }
 .pfi-i:before { content: "\ea1e"; }
 .pfi-ia-training:before { content: "\ea1f"; }
 .pfi-iam-mgmt:before { content: "\ea20"; }
@@ -134,28 +134,28 @@ $pfi-atrrs: "\ea04";
 $pfi-billeting-mgmt: "\ea05";
 $pfi-breakout: "\ea06";
 $pfi-bus: "\ea07";
-$pfi-cloud: "\ea08";
-$pfi-comment-box: "\ea09";
-$pfi-concord-menu: "\ea0a";
-$pfi-conferencing: "\ea0b";
-$pfi-course-catalog: "\ea0c";
-$pfi-course-mgmt: "\ea0d";
-$pfi-court-martial: "\ea0e";
-$pfi-dashboard: "\ea0f";
-$pfi-email: "\ea10";
-$pfi-eo: "\ea11";
-$pfi-event-registration: "\ea12";
-$pfi-exclamation: "\ea13";
-$pfi-express-checkin: "\ea14";
-$pfi-faq: "\ea15";
-$pfi-feedback: "\ea16";
-$pfi-fitness-consult: "\ea17";
-$pfi-gear: "\ea18";
-$pfi-hamburger: "\ea19";
-$pfi-help: "\ea1a";
-$pfi-history: "\ea1b";
-$pfi-home: "\ea1c";
-$pfi-housekeeping: "\ea1d";
+$pfi-comment-box: "\ea08";
+$pfi-concord-menu: "\ea09";
+$pfi-conferencing: "\ea0a";
+$pfi-course-catalog: "\ea0b";
+$pfi-course-mgmt: "\ea0c";
+$pfi-court-martial: "\ea0d";
+$pfi-dashboard: "\ea0e";
+$pfi-email: "\ea0f";
+$pfi-eo: "\ea10";
+$pfi-event-registration: "\ea11";
+$pfi-exclamation: "\ea12";
+$pfi-express-checkin: "\ea13";
+$pfi-faq: "\ea14";
+$pfi-feedback: "\ea15";
+$pfi-fitness-consult: "\ea16";
+$pfi-gear: "\ea17";
+$pfi-hamburger: "\ea18";
+$pfi-help: "\ea19";
+$pfi-history: "\ea1a";
+$pfi-home: "\ea1b";
+$pfi-housekeeping: "\ea1c";
+$pfi-HRRTC: "\ea1d";
 $pfi-i: "\ea1e";
 $pfi-ia-training: "\ea1f";
 $pfi-iam-mgmt: "\ea20";
