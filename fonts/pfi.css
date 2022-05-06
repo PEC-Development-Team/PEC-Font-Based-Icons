@@ -1,9 +1,9 @@
 @font-face {
   font-family: "pfi";
-  src: url("../fonts/pfi.woff2?t=1651872310235") format("woff2"),
-  url("../fonts/pfi.woff?t=1651872310235") format("woff"),
-  url('../fonts/pfi.ttf?t=1651872310235') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('../fonts/pfi.svg?t=1651872310235#pfi') format('svg'); /* iOS 4.1- */
+  src: url("../fonts/pfi.woff2?t=1651872440786") format("woff2"),
+  url("../fonts/pfi.woff?t=1651872440786") format("woff"),
+  url('../fonts/pfi.ttf?t=1651872440786') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('../fonts/pfi.svg?t=1651872440786#pfi') format('svg'); /* iOS 4.1- */
 }
 
 [class^="pfi-"], [class*=" pfi-"] {
