@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="30px" height="30px" viewBox="0 0 30 30" enable-background="new 0 0 30 30" xml:space="preserve">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M25.459,5.688c-2.354-2.696-5.76-4.243-9.34-4.243v12.402L25.459,5.688z
-	 M14.941,3.751c-6.85,0-12.402,5.552-12.402,12.401c0,6.846,5.557,12.402,12.402,12.402c6.845,0,12.402-5.557,12.402-12.402
-	c0-2.927-1.036-5.76-2.924-7.998l-9.478,7.998V3.751z"/>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="283.465px" height="283.465px" viewBox="-126.732 -126.732 283.465 283.465"
+	 enable-background="new -126.732 -126.732 283.465 283.465" xml:space="preserve">
+<path d="M122.72-80.418c-24.116-27.624-59.021-43.48-95.705-43.48V3.189L122.72-80.418z M14.941-100.267
+	c-70.193,0-127.082,56.894-127.082,127.077c0,70.147,56.944,127.087,127.082,127.087c70.143,0,127.083-56.949,127.083-127.087
+	c0-29.996-10.618-59.025-29.961-81.961L14.941,26.811V-100.267z"/>
 </svg>
