@@ -3,13 +3,6 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 <svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="283.46px" height="283.46px" viewBox="0 0 283.46 283.46" enable-background="new 0 0 283.46 283.46" xml:space="preserve">
-<g>
-	<rect x="22.165" y="21.087" fill="none" width="112.023" height="111.743"/>
-	<rect x="149.27" y="150.629" fill="none" width="112.024" height="111.742"/>
-	<rect x="22.165" y="150.629" fill="none" width="112.023" height="111.742"/>
-	<rect x="149.27" y="21.087" fill="none" width="112.024" height="111.743"/>
-	<path d="M7.084,6.007v271.445h269.291V6.007H7.084z M134.188,21.087v111.743H22.165V21.087H134.188z M22.165,262.372V150.629
-		h112.023v111.742H22.165L22.165,262.372z M261.294,262.372H149.27V150.629h112.024V262.372z M261.294,132.831H149.27V21.087
-		h112.024V132.831z"/>
-</g>
+<path d="M8.13,7.084v269.292H275.33V7.084H8.13z M28.592,130.18V27.545H131.5V130.18H28.592z M28.592,255.914V153.279H131.5v102.635
+	H28.592z M151.961,130.18V27.545H254.87V130.18H151.961z M151.961,255.914V153.279H254.87v102.635H151.961z"/>
 </svg>
