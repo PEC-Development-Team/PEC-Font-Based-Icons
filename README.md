@@ -1,5 +1,17 @@
 # PEC-Icons
-Icons for PEC Applications
+Icons built for PEC
+
+## Use
+```
+   <link rel="stylesheet" href="pfi.css" />
+   <link rel="stylesheet" href="pfi.js" />
+   
+   <i class="pfi-badge"></i>
+```
+
+## pfi.js
+pfi.js is an optional js file with a key value pair of hex values for each icon for use on things like HTML5 canvas.
+
 
 uses https://github.com/MrRedBeard/svgtofont
 
@@ -18,7 +30,7 @@ uses https://github.com/MrRedBeard/svgtofont
    - node index.js
 
 ## Artwork
-   - 33.87mm x 33.87mm Artboard
+   - 100mm x 100mm Artboard
    - SVG resized and rotated to fit in that artboard
    - Horizontal align center
    - Vertical align middle
