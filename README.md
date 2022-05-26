@@ -1,5 +1,8 @@
 # PEC-Icons
-Icons built for PEC
+Icons built for the National Guard Professional Education Center
+
+## Requests
+These icons are made freely available. If you want an icon that we do not currently have please submit a request via an issue.
 
 ## Use
 Go to the fonts folder here or the release version. Example html in index.html
