@@ -1,8 +1,12 @@
 # PEC-Icons
-Icons built for the National Guard Professional Education Center
+Icons built for the National Guard Professional Education Center but are made freely available to anyone who wants to use them.
 
 ## Requests
-These icons are made freely available. If you want an icon that we do not currently have please submit a request via an issue.
+   - These icons are made freely available. If you want an icon that we do not currently have please submit a request via an issue.
+   - If you experience any issues using the font based icons please let us know by submitting an issue.
+
+## Contributions
+Create a pull request. Please only original or open source art work. Only submit design files via the "Design Files" folder or svgs in the svgs folder. We will review your submission. The artboards should be 100mmx100mm (additional details at the bottom of the ReadMe).
 
 ## Use
 Go to the fonts folder here or the release version. Example html in index.html
@@ -31,7 +35,7 @@ uses https://github.com/MrRedBeard/svgtofont
    - Place SVGs in svg folder
    - Changed style location in index.js
    - Copy styles folder from svgtofont node package to root of project
-   - Modified styles and removed support for uneeded browsers
+   - Modified styles and removed support for un-needed browsers
    - npm install --save @uiw/react-github-corners
    - JavaScript, CSS & Fonts will be in fonts folder
    - See index.html example in fonts folder usage
