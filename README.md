@@ -2,6 +2,7 @@
 Icons built for PEC
 
 ## Use
+Go to the fonts folder here or the release version. Example html in index.html
 ```
    <link rel="stylesheet" href="pfi.css" />
    <link rel="stylesheet" href="pfi.js" />
