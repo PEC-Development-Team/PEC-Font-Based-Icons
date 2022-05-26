@@ -10,6 +10,10 @@ Go to the fonts folder here or the release version. Example html in index.html
    <i class="pfi-badge"></i>
 ```
 
+## Screenshots
+![Sample 1](https://raw.githubusercontent.com/PEC-Developement-Team/PEC-Icons/main/screen-shots/sample1.png)
+![Sample 2](https://raw.githubusercontent.com/PEC-Developement-Team/PEC-Icons/main/screen-shots/sample2.png)
+
 ## pfi.js
 pfi.js is an optional js file with a key value pair of hex values for each icon for use on things like HTML5 canvas.
 
