@@ -38,6 +38,7 @@ uses https://github.com/MrRedBeard/svgtofont
    - node index.js
 
 ## Artwork
+   - In addition to the svgs in the "svgs" folder art work (illustrator files etc) can be found in the "Design Files" folder on the repo
    - 100mm x 100mm Artboard
    - SVG resized and rotated to fit in that artboard
    - Horizontal align center
