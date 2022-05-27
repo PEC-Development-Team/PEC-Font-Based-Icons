@@ -10,6 +10,19 @@ Go to the fonts folder in the repo or in the root of the release version. Exampl
    <i class="pfi-badge"></i>
 ```
 
+## License
+PEC Icons use the MIT License and are completely free, open source, simple. You can use it for commercial projects, open source projects, etc.
+
+Icons — CC BY 4.0 License
+In the Font Awesome Free download, the CC BY 4.0 license applies to all icons packaged as .svg and .js files types.
+Fonts — SIL OFL 1.1 License
+In the Font Awesome Free download, the SIL OLF license applies to all icons packaged as web and desktop font files.
+Code — MIT License
+In the Font Awesome Free download, the MIT license applies to all non-font and non-icon files.
+Attribution is required by MIT, SIL OLF, and CC BY licenses. Downloaded Font Awesome Free files already contain embedded comments with sufficient attribution, so you shouldn't need to do anything additional when using these files normally.
+
+We've kept attribution comments terse, so we ask that you do not actively work to remove them from files, especially code. They're a great way for folks to learn about Font Awesome.
+
 ## Requests
    - These icons are made freely available. If you want an icon that we do not currently have please submit a request via an issue.
    - If you experience any issues using the font based icons please let us know by submitting an issue.
