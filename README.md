@@ -61,8 +61,6 @@ uses https://github.com/MrRedBeard/svgtofont
    - Horizontal align center
    - Vertical align middle
    - Square items mostly rounded
-   - Line width 4-6pts for most 
-   -    These do not show up in SVG fonts 
-   -       Illustrator - Object, Path, Outline Stroke
-   - Merge layers & objects
-   -    Illustrator - Pathfinder (Unite, Merge, Minus Front, Minus Back) based on need
+   - Black & White only
+   - Line width 6-8pts for most
+   - Lines will have to be converted to shapes, layers will be flattened and white will be cutouts. 
