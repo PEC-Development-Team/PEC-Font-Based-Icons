@@ -1,21 +1,21 @@
 # PEC-Icons
 Icons built for the National Guard Professional Education Center but are made freely available to anyone who wants to use them.
 
-## Requests
-   - These icons are made freely available. If you want an icon that we do not currently have please submit a request via an issue.
-   - If you experience any issues using the font based icons please let us know by submitting an issue.
-
-## Contributions
-Create a pull request. Please only original or open source art work. Only submit design files via the "Design Files" folder or svgs in the svgs folder. We will review your submission. The artboards should be 100mmx100mm (additional details at the bottom of the ReadMe).
-
 ## Use
-Go to the fonts folder here or the release version. Example html in index.html
+Go to the fonts folder in the repo or in the root of the release version. Example html in index.html. pfi.js is not required but is a useful key value pair to get the hex values by icon name for use on things like an html5 canvas.
 ```
    <link rel="stylesheet" href="pfi.css" />
    <link rel="stylesheet" href="pfi.js" />
    
    <i class="pfi-badge"></i>
 ```
+
+## Requests
+   - These icons are made freely available. If you want an icon that we do not currently have please submit a request via an issue.
+   - If you experience any issues using the font based icons please let us know by submitting an issue.
+
+## Contributions
+Create a pull request. Please only original or open source art work. Only submit design files via the "Design Files" folder or svgs in the svgs folder. We will review your submission. The artboards should be 100mmx100mm (additional details at the bottom of the ReadMe).
 
 ## Screenshots
 ![Sample 1](https://raw.githubusercontent.com/PEC-Developement-Team/PEC-Icons/main/screen-shots/sample1.png)
