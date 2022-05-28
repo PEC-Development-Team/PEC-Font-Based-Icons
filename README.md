@@ -1,5 +1,5 @@
 # PEC-Icons
-Icons built for the National Guard Professional Education Center but are made freely available to anyone who wants to use them.
+These icons were built for and by the National Guard Professional Education Center development team but are made freely available to anyone who wants to use them. We welcome contributions and feedback.
 
 ## Use
 Go to the fonts folder in the repo or in the root of the release version. Example html in index.html. pfi.js is not required but is a useful key value pair to get the hex values by icon name for use on things like an html5 canvas.
