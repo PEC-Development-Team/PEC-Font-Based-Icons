@@ -30,6 +30,10 @@ pfi.js is an optional js file with a key value pair of hex values for each icon 
 
 uses https://github.com/MrRedBeard/svgtofont
 
+## From The Repo Instructions
+   - npm install
+   - node index.js
+
 ## Node Project instructions
    - npm init
    - npm install -g pkg
