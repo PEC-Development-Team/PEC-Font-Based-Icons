@@ -38,7 +38,7 @@ uses https://github.com/MrRedBeard/svgtofont
    - npm init
    - npm install -g pkg
    - npm install https://github.com/MrRedBeard/svgtofont
-   - npm install grunt
+   - npm i -g grunt
    - Place SVGs in svg folder
    - Changed style location in index.js
    - Copy styles folder from svgtofont node package to root of project
