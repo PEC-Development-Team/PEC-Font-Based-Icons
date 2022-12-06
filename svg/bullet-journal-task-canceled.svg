@@ -3,15 +3,6 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="283.46px" height="283.46px" viewBox="0 0 283.46 283.46" enable-background="new 0 0 283.46 283.46" xml:space="preserve">
-<g>
-	<polygon fill="none" points="264.375,264.376 264.375,27.569 27.569,264.376 	"/>
-	<polygon fill="none" points="19.085,19.084 19.085,255.89 255.89,19.084 	"/>
-	<polygon fill="none" points="268.617,23.327 268.617,23.326 260.132,14.841 	"/>
-	<g>
-		<polygon fill="none" points="19.085,19.084 19.085,255.89 255.89,19.084 		"/>
-		<polygon fill="none" points="264.375,264.376 264.375,27.569 27.569,264.376 		"/>
-		<path d="M7.084,7.084v269.292h269.291V7.084H7.084z M19.085,19.084H255.89L19.085,255.89V19.084z M264.375,264.376H27.569
-			L264.375,27.569V264.376z"/>
-	</g>
-</g>
+<path d="M42.718,42.717v198.025h198.023V42.717H42.718z M51.543,51.542h174.135L51.543,225.678V51.542z M231.918,231.918H57.782
+	L231.918,57.781V231.918z"/>
 </svg>
