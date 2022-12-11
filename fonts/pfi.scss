@@ -1,8 +1,8 @@
 @font-face {font-family: "pfi";
-  src: url("pfi.woff2?t=1670295079008") format("woff2"),
-  url("pfi.woff?t=1670295079008") format("woff"),
-  url('pfi.ttf?t=1670295079008') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('pfi.svg?t=1670295079008#pfi') format('svg'); /* iOS 4.1- */
+  src: url("pfi.woff2?t=1670800609101") format("woff2"),
+  url("pfi.woff?t=1670800609101") format("woff"),
+  url('pfi.ttf?t=1670800609101') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('pfi.svg?t=1670800609101#pfi') format('svg'); /* iOS 4.1- */
 }
 
 [class^="pfi-"], [class*=" pfi-"] {
@@ -43,658 +43,761 @@
 .pfi-align-center:before { content: "\ea19"; }
 .pfi-align-left:before { content: "\ea1a"; }
 .pfi-align-right:before { content: "\ea1b"; }
-.pfi-android:before { content: "\ea1c"; }
-.pfi-apple:before { content: "\ea1d"; }
-.pfi-army-ag:before { content: "\ea1e"; }
-.pfi-army-air-defense-artillery:before { content: "\ea1f"; }
-.pfi-army-atrrs:before { content: "\ea20"; }
-.pfi-army-aviation:before { content: "\ea21"; }
-.pfi-army-chaplain:before { content: "\ea22"; }
-.pfi-army-dtms:before { content: "\ea23"; }
-.pfi-army-eo:before { content: "\ea24"; }
-.pfi-army-logo:before { content: "\ea25"; }
-.pfi-army-medical:before { content: "\ea26"; }
-.pfi-army-mi:before { content: "\ea27"; }
-.pfi-army-ngb-buddy-aid:before { content: "\ea28"; }
-.pfi-army-ngb-howie:before { content: "\ea29"; }
-.pfi-army-ngb:before { content: "\ea2a"; }
-.pfi-army-ordnance:before { content: "\ea2b"; }
-.pfi-army-public-affairs:before { content: "\ea2c"; }
-.pfi-army-rank-1sg:before { content: "\ea2d"; }
-.pfi-army-rank-bg:before { content: "\ea2e"; }
-.pfi-army-rank-col:before { content: "\ea2f"; }
-.pfi-army-rank-cpl:before { content: "\ea30"; }
-.pfi-army-rank-cpt:before { content: "\ea31"; }
-.pfi-army-rank-csm:before { content: "\ea32"; }
-.pfi-army-rank-cw2:before { content: "\ea33"; }
-.pfi-army-rank-cw3:before { content: "\ea34"; }
-.pfi-army-rank-cw4:before { content: "\ea35"; }
-.pfi-army-rank-cw5:before { content: "\ea36"; }
-.pfi-army-rank-gen:before { content: "\ea37"; }
-.pfi-army-rank-lt:before { content: "\ea38"; }
-.pfi-army-rank-ltc-maj:before { content: "\ea39"; }
-.pfi-army-rank-ltg:before { content: "\ea3a"; }
-.pfi-army-rank-mg:before { content: "\ea3b"; }
-.pfi-army-rank-msg:before { content: "\ea3c"; }
-.pfi-army-rank-pfc:before { content: "\ea3d"; }
-.pfi-army-rank-pvt:before { content: "\ea3e"; }
-.pfi-army-rank-sfc:before { content: "\ea3f"; }
-.pfi-army-rank-sgm:before { content: "\ea40"; }
-.pfi-army-rank-sgt:before { content: "\ea41"; }
-.pfi-army-rank-spc:before { content: "\ea42"; }
-.pfi-army-rank-ssg:before { content: "\ea43"; }
-.pfi-army-rank-w01:before { content: "\ea44"; }
-.pfi-army-sarc:before { content: "\ea45"; }
-.pfi-army-signal:before { content: "\ea46"; }
-.pfi-army-tradoc:before { content: "\ea47"; }
-.pfi-army:before { content: "\ea48"; }
-.pfi-arrow-down:before { content: "\ea49"; }
-.pfi-arrow-left:before { content: "\ea4a"; }
-.pfi-arrow-right:before { content: "\ea4b"; }
-.pfi-arrow-up:before { content: "\ea4c"; }
-.pfi-article:before { content: "\ea4d"; }
-.pfi-asterisk:before { content: "\ea4e"; }
-.pfi-audio-book:before { content: "\ea4f"; }
-.pfi-badge:before { content: "\ea50"; }
-.pfi-barcode:before { content: "\ea51"; }
-.pfi-battery-0:before { content: "\ea52"; }
-.pfi-battery-100:before { content: "\ea53"; }
-.pfi-battery-25:before { content: "\ea54"; }
-.pfi-battery-50:before { content: "\ea55"; }
-.pfi-battery-75:before { content: "\ea56"; }
-.pfi-bed:before { content: "\ea57"; }
-.pfi-bell-active:before { content: "\ea58"; }
-.pfi-bell:before { content: "\ea59"; }
-.pfi-billeting-mgmt:before { content: "\ea5a"; }
-.pfi-bluetooth:before { content: "\ea5b"; }
-.pfi-book-chapter:before { content: "\ea5c"; }
-.pfi-book-index:before { content: "\ea5d"; }
-.pfi-book-open-facing-away:before { content: "\ea5e"; }
-.pfi-book-open-facing-up:before { content: "\ea5f"; }
-.pfi-book-page:before { content: "\ea60"; }
-.pfi-book-table-of-contents:before { content: "\ea61"; }
-.pfi-book:before { content: "\ea62"; }
-.pfi-bookmark-empty:before { content: "\ea63"; }
-.pfi-bookmark-filled:before { content: "\ea64"; }
-.pfi-box-closed:before { content: "\ea65"; }
-.pfi-box-pack:before { content: "\ea66"; }
-.pfi-box-ship:before { content: "\ea67"; }
-.pfi-box-unpack:before { content: "\ea68"; }
-.pfi-box:before { content: "\ea69"; }
-.pfi-boxes:before { content: "\ea6a"; }
-.pfi-brain:before { content: "\ea6b"; }
-.pfi-breakout:before { content: "\ea6c"; }
-.pfi-bug:before { content: "\ea6d"; }
-.pfi-building:before { content: "\ea6e"; }
-.pfi-bullet-journal-appointment-canceled:before { content: "\ea6f"; }
-.pfi-bullet-journal-appointment-complete:before { content: "\ea70"; }
-.pfi-bullet-journal-appointment-migrated:before { content: "\ea71"; }
-.pfi-bullet-journal-appointment:before { content: "\ea72"; }
-.pfi-bullet-journal-event-canceled-2:before { content: "\ea73"; }
-.pfi-bullet-journal-event-canceled:before { content: "\ea74"; }
-.pfi-bullet-journal-event-complete:before { content: "\ea75"; }
-.pfi-bullet-journal-event-migrated:before { content: "\ea76"; }
-.pfi-bullet-journal-event-started:before { content: "\ea77"; }
-.pfi-bullet-journal-event:before { content: "\ea78"; }
-.pfi-bullet-journal-important-1:before { content: "\ea79"; }
-.pfi-bullet-journal-important-2:before { content: "\ea7a"; }
-.pfi-bullet-journal-important-done:before { content: "\ea7b"; }
-.pfi-bullet-journal-important:before { content: "\ea7c"; }
-.pfi-bullet-journal-migrate:before { content: "\ea7d"; }
-.pfi-bullet-journal-note:before { content: "\ea7e"; }
-.pfi-bullet-journal-question:before { content: "\ea7f"; }
-.pfi-bullet-journal-schedule-clock:before { content: "\ea80"; }
-.pfi-bullet-journal-schedule:before { content: "\ea81"; }
-.pfi-bullet-journal-task-canceled:before { content: "\ea82"; }
-.pfi-bullet-journal-task-complete:before { content: "\ea83"; }
-.pfi-bullet-journal-task-migrated:before { content: "\ea84"; }
-.pfi-bullet-journal-task-started:before { content: "\ea85"; }
-.pfi-bullet-journal-task:before { content: "\ea86"; }
-.pfi-bullet-list:before { content: "\ea87"; }
-.pfi-bullhorn:before { content: "\ea88"; }
-.pfi-bus:before { content: "\ea89"; }
-.pfi-calculator:before { content: "\ea8a"; }
-.pfi-calendar:before { content: "\ea8b"; }
-.pfi-camera-aperture:before { content: "\ea8c"; }
-.pfi-camera-video:before { content: "\ea8d"; }
-.pfi-camera:before { content: "\ea8e"; }
-.pfi-campus:before { content: "\ea8f"; }
-.pfi-cancel:before { content: "\ea90"; }
-.pfi-car:before { content: "\ea91"; }
-.pfi-cart:before { content: "\ea92"; }
-.pfi-certificate:before { content: "\ea93"; }
-.pfi-chart-bar-horizontal:before { content: "\ea94"; }
-.pfi-chart-bar:before { content: "\ea95"; }
-.pfi-chart-line:before { content: "\ea96"; }
-.pfi-chart-pie:before { content: "\ea97"; }
-.pfi-chart-venn-tri:before { content: "\ea98"; }
-.pfi-chart-venn:before { content: "\ea99"; }
-.pfi-check-circle:before { content: "\ea9a"; }
-.pfi-check:before { content: "\ea9b"; }
-.pfi-clipboard:before { content: "\ea9c"; }
-.pfi-clock:before { content: "\ea9d"; }
-.pfi-clone:before { content: "\ea9e"; }
-.pfi-code-file:before { content: "\ea9f"; }
-.pfi-comment-box:before { content: "\eaa0"; }
-.pfi-comment-left:before { content: "\eaa1"; }
-.pfi-comment-right:before { content: "\eaa2"; }
-.pfi-concord-menu:before { content: "\eaa3"; }
-.pfi-conferencing:before { content: "\eaa4"; }
-.pfi-course-catalog:before { content: "\eaa5"; }
-.pfi-course-mgmt:before { content: "\eaa6"; }
-.pfi-court-martial:before { content: "\eaa7"; }
-.pfi-covid:before { content: "\eaa8"; }
-.pfi-crop:before { content: "\eaa9"; }
-.pfi-cross:before { content: "\eaaa"; }
-.pfi-crosshairs:before { content: "\eaab"; }
-.pfi-cube-download:before { content: "\eaac"; }
-.pfi-cube-login:before { content: "\eaad"; }
-.pfi-cube-logout:before { content: "\eaae"; }
-.pfi-cube-share:before { content: "\eaaf"; }
-.pfi-cube-upload:before { content: "\eab0"; }
-.pfi-cyber:before { content: "\eab1"; }
-.pfi-cycle:before { content: "\eab2"; }
-.pfi-dashboard:before { content: "\eab3"; }
-.pfi-database:before { content: "\eab4"; }
-.pfi-debian:before { content: "\eab5"; }
-.pfi-diamond-empty:before { content: "\eab6"; }
-.pfi-diamond-filled:before { content: "\eab7"; }
-.pfi-disk:before { content: "\eab8"; }
-.pfi-dna:before { content: "\eab9"; }
-.pfi-document:before { content: "\eaba"; }
-.pfi-drafting-compass:before { content: "\eabb"; }
-.pfi-drinks:before { content: "\eabc"; }
-.pfi-drive:before { content: "\eabd"; }
-.pfi-drop:before { content: "\eabe"; }
-.pfi-email:before { content: "\eabf"; }
-.pfi-emoji-frown:before { content: "\eac0"; }
-.pfi-emoji-meh:before { content: "\eac1"; }
-.pfi-emoji-smile:before { content: "\eac2"; }
-.pfi-eraser:before { content: "\eac3"; }
-.pfi-event-registration:before { content: "\eac4"; }
-.pfi-event:before { content: "\eac5"; }
-.pfi-exclamation:before { content: "\eac6"; }
-.pfi-express-checkin:before { content: "\eac7"; }
-.pfi-eye-dropper:before { content: "\eac8"; }
-.pfi-eye:before { content: "\eac9"; }
-.pfi-faq:before { content: "\eaca"; }
-.pfi-feedback:before { content: "\eacb"; }
-.pfi-file:before { content: "\eacc"; }
-.pfi-film:before { content: "\eacd"; }
-.pfi-filter:before { content: "\eace"; }
-.pfi-fire-extinguisher:before { content: "\eacf"; }
-.pfi-fitness-calendar:before { content: "\ead0"; }
-.pfi-fitness-consult:before { content: "\ead1"; }
-.pfi-flag:before { content: "\ead2"; }
-.pfi-flame:before { content: "\ead3"; }
-.pfi-flask-meyers:before { content: "\ead4"; }
-.pfi-flask:before { content: "\ead5"; }
-.pfi-folder-closed:before { content: "\ead6"; }
-.pfi-folder-open:before { content: "\ead7"; }
-.pfi-form:before { content: "\ead8"; }
-.pfi-forum-mgmt:before { content: "\ead9"; }
-.pfi-forums:before { content: "\eada"; }
-.pfi-gear:before { content: "\eadb"; }
-.pfi-gears-2:before { content: "\eadc"; }
-.pfi-gears:before { content: "\eadd"; }
-.pfi-generic-app-1:before { content: "\eade"; }
-.pfi-generic-app-2:before { content: "\eadf"; }
-.pfi-generic-app-3:before { content: "\eae0"; }
-.pfi-git:before { content: "\eae1"; }
-.pfi-github:before { content: "\eae2"; }
-.pfi-graduation-cap:before { content: "\eae3"; }
-.pfi-grid:before { content: "\eae4"; }
-.pfi-gym:before { content: "\eae5"; }
-.pfi-hamburger:before { content: "\eae6"; }
-.pfi-headphones:before { content: "\eae7"; }
-.pfi-heart-beat:before { content: "\eae8"; }
-.pfi-heart:before { content: "\eae9"; }
-.pfi-helmet:before { content: "\eaea"; }
-.pfi-help:before { content: "\eaeb"; }
-.pfi-history:before { content: "\eaec"; }
-.pfi-home:before { content: "\eaed"; }
-.pfi-housekeeping:before { content: "\eaee"; }
-.pfi-human-performance:before { content: "\eaef"; }
-.pfi-i:before { content: "\eaf0"; }
-.pfi-iam-mgmt:before { content: "\eaf1"; }
-.pfi-icons:before { content: "\eaf2"; }
-.pfi-id-card:before { content: "\eaf3"; }
-.pfi-idea:before { content: "\eaf4"; }
-.pfi-image:before { content: "\eaf5"; }
-.pfi-inbox:before { content: "\eaf6"; }
-.pfi-info-circle:before { content: "\eaf7"; }
-.pfi-info:before { content: "\eaf8"; }
-.pfi-instance:before { content: "\eaf9"; }
-.pfi-instructor:before { content: "\eafa"; }
-.pfi-internet:before { content: "\eafb"; }
-.pfi-jolly-wrench:before { content: "\eafc"; }
-.pfi-knife:before { content: "\eafd"; }
-.pfi-knowledge-management:before { content: "\eafe"; }
-.pfi-laptop:before { content: "\eaff"; }
-.pfi-leadership:before { content: "\eb00"; }
-.pfi-leaf:before { content: "\eb01"; }
-.pfi-lessons-learned:before { content: "\eb02"; }
-.pfi-light-bulb-lit:before { content: "\eb03"; }
-.pfi-light-bulb:before { content: "\eb04"; }
-.pfi-link:before { content: "\eb05"; }
-.pfi-linux-dark:before { content: "\eb06"; }
-.pfi-linux:before { content: "\eb07"; }
-.pfi-little-dancing-man:before { content: "\eb08"; }
-.pfi-loading-0:before { content: "\eb09"; }
-.pfi-loading-10:before { content: "\eb0a"; }
-.pfi-loading-100:before { content: "\eb0b"; }
-.pfi-loading-20:before { content: "\eb0c"; }
-.pfi-loading-30:before { content: "\eb0d"; }
-.pfi-loading-40:before { content: "\eb0e"; }
-.pfi-loading-50:before { content: "\eb0f"; }
-.pfi-loading-60:before { content: "\eb10"; }
-.pfi-loading-70:before { content: "\eb11"; }
-.pfi-loading-80:before { content: "\eb12"; }
-.pfi-loading-90:before { content: "\eb13"; }
-.pfi-location:before { content: "\eb14"; }
-.pfi-lock-closed:before { content: "\eb15"; }
-.pfi-lock-open:before { content: "\eb16"; }
-.pfi-magnet:before { content: "\eb17"; }
-.pfi-magnify-zoom-in:before { content: "\eb18"; }
-.pfi-magnify-zoom-out:before { content: "\eb19"; }
-.pfi-magnify:before { content: "\eb1a"; }
-.pfi-management-2:before { content: "\eb1b"; }
-.pfi-management-3:before { content: "\eb1c"; }
-.pfi-management:before { content: "\eb1d"; }
-.pfi-map-trifold:before { content: "\eb1e"; }
-.pfi-map:before { content: "\eb1f"; }
-.pfi-math-divide:before { content: "\eb20"; }
-.pfi-math-equal:before { content: "\eb21"; }
-.pfi-math-greater-than:before { content: "\eb22"; }
-.pfi-math-less-than:before { content: "\eb23"; }
-.pfi-math-minus:before { content: "\eb24"; }
-.pfi-math-multiply:before { content: "\eb25"; }
-.pfi-math-percent:before { content: "\eb26"; }
-.pfi-math-plus:before { content: "\eb27"; }
-.pfi-math-square-root:before { content: "\eb28"; }
-.pfi-maximize:before { content: "\eb29"; }
-.pfi-meal:before { content: "\eb2a"; }
-.pfi-media-backward:before { content: "\eb2b"; }
-.pfi-media-forward:before { content: "\eb2c"; }
-.pfi-media-pause:before { content: "\eb2d"; }
-.pfi-media-play:before { content: "\eb2e"; }
-.pfi-media-skip-backward:before { content: "\eb2f"; }
-.pfi-media-skip-forward:before { content: "\eb30"; }
-.pfi-mgmt:before { content: "\eb31"; }
-.pfi-microphone-mute:before { content: "\eb32"; }
-.pfi-microphone:before { content: "\eb33"; }
-.pfi-microsoft:before { content: "\eb34"; }
-.pfi-minimize:before { content: "\eb35"; }
-.pfi-move:before { content: "\eb36"; }
-.pfi-ms-365:before { content: "\eb37"; }
-.pfi-ms-excel:before { content: "\eb38"; }
-.pfi-ms-one-drive:before { content: "\eb39"; }
-.pfi-ms-outlook:before { content: "\eb3a"; }
-.pfi-ms-powerpoint:before { content: "\eb3b"; }
-.pfi-ms-sharepoint:before { content: "\eb3c"; }
-.pfi-ms-teams:before { content: "\eb3d"; }
-.pfi-ms-word:before { content: "\eb3e"; }
-.pfi-mwr:before { content: "\eb3f"; }
-.pfi-na:before { content: "\eb40"; }
-.pfi-net-cable-modem:before { content: "\eb41"; }
-.pfi-net-firewall:before { content: "\eb42"; }
-.pfi-net-router:before { content: "\eb43"; }
-.pfi-net-switch:before { content: "\eb44"; }
-.pfi-net-wireless-access-point:before { content: "\eb45"; }
-.pfi-network-user-agreement:before { content: "\eb46"; }
-.pfi-noaa:before { content: "\eb47"; }
-.pfi-note-pad:before { content: "\eb48"; }
-.pfi-notes:before { content: "\eb49"; }
-.pfi-operations:before { content: "\eb4a"; }
-.pfi-organization:before { content: "\eb4b"; }
-.pfi-paperclip:before { content: "\eb4c"; }
-.pfi-parking-lot:before { content: "\eb4d"; }
-.pfi-pec-bn-ciab-ittc:before { content: "\eb4e"; }
-.pfi-pec-bn-rmtb-rmtc:before { content: "\eb4f"; }
-.pfi-pec-bn-sieb-iletc:before { content: "\eb50"; }
-.pfi-pec-bn-sldi-ortc:before { content: "\eb51"; }
-.pfi-pec-fsdb:before { content: "\eb52"; }
-.pfi-pec-logo:before { content: "\eb53"; }
-.pfi-pec-portal:before { content: "\eb54"; }
-.pfi-pec-qa:before { content: "\eb55"; }
-.pfi-pencil:before { content: "\eb56"; }
-.pfi-people-einstein:before { content: "\eb57"; }
-.pfi-people-feynman:before { content: "\eb58"; }
-.pfi-phone-roster:before { content: "\eb59"; }
-.pfi-phone:before { content: "\eb5a"; }
-.pfi-physics-alt:before { content: "\eb5b"; }
-.pfi-physics:before { content: "\eb5c"; }
-.pfi-pill-solid:before { content: "\eb5d"; }
-.pfi-pill-tab-left:before { content: "\eb5e"; }
-.pfi-pill-tab-right:before { content: "\eb5f"; }
-.pfi-pin:before { content: "\eb60"; }
-.pfi-pizza:before { content: "\eb61"; }
-.pfi-plug:before { content: "\eb62"; }
-.pfi-poc-workspace:before { content: "\eb63"; }
-.pfi-podcast:before { content: "\eb64"; }
-.pfi-podium-manned-book:before { content: "\eb65"; }
-.pfi-podium-manned:before { content: "\eb66"; }
-.pfi-podium:before { content: "\eb67"; }
-.pfi-pointer-hand-grab:before { content: "\eb68"; }
-.pfi-pointer-hand:before { content: "\eb69"; }
-.pfi-pointer-mouse:before { content: "\eb6a"; }
-.pfi-power:before { content: "\eb6b"; }
-.pfi-printer:before { content: "\eb6c"; }
-.pfi-process-bpmn-end:before { content: "\eb6d"; }
-.pfi-process-bpmn-event-alt:before { content: "\eb6e"; }
-.pfi-process-bpmn-event:before { content: "\eb6f"; }
-.pfi-process-bpmn-start:before { content: "\eb70"; }
-.pfi-process-bpmn-task:before { content: "\eb71"; }
-.pfi-process-bpmn-transaction:before { content: "\eb72"; }
-.pfi-process-data-flow-data-store-alt-1:before { content: "\eb73"; }
-.pfi-process-data-flow-data-store-alt-2:before { content: "\eb74"; }
-.pfi-process-data-flow-data-store:before { content: "\eb75"; }
-.pfi-process-data-flow-external-entity:before { content: "\eb76"; }
-.pfi-process-data-flow-process-circle:before { content: "\eb77"; }
-.pfi-process-data-flow-process-square:before { content: "\eb78"; }
-.pfi-process-erd:before { content: "\eb79"; }
-.pfi-process-flow-arrow:before { content: "\eb7a"; }
-.pfi-process-flow-comment:before { content: "\eb7b"; }
-.pfi-process-flow-connector:before { content: "\eb7c"; }
-.pfi-process-flow-data:before { content: "\eb7d"; }
-.pfi-process-flow-database:before { content: "\eb7e"; }
-.pfi-process-flow-decision:before { content: "\eb7f"; }
-.pfi-process-flow-delay:before { content: "\eb80"; }
-.pfi-process-flow-display:before { content: "\eb81"; }
-.pfi-process-flow-document:before { content: "\eb82"; }
-.pfi-process-flow-documents:before { content: "\eb83"; }
-.pfi-process-flow-hard-disk:before { content: "\eb84"; }
-.pfi-process-flow-internal-storage:before { content: "\eb85"; }
-.pfi-process-flow-manual-input:before { content: "\eb86"; }
-.pfi-process-flow-manual-operation:before { content: "\eb87"; }
-.pfi-process-flow-merge:before { content: "\eb88"; }
-.pfi-process-flow-note:before { content: "\eb89"; }
-.pfi-process-flow-off-page-link:before { content: "\eb8a"; }
-.pfi-process-flow-or:before { content: "\eb8b"; }
-.pfi-process-flow-paper-tape:before { content: "\eb8c"; }
-.pfi-process-flow-predefined-process:before { content: "\eb8d"; }
-.pfi-process-flow-preperation:before { content: "\eb8e"; }
-.pfi-process-flow-process:before { content: "\eb8f"; }
-.pfi-process-flow-stored-data:before { content: "\eb90"; }
-.pfi-process-flow-summing-junction:before { content: "\eb91"; }
-.pfi-process-flow-terminator:before { content: "\eb92"; }
-.pfi-process-uml-attribute:before { content: "\eb93"; }
-.pfi-process-uml-branch-merge:before { content: "\eb94"; }
-.pfi-process-uml-component:before { content: "\eb95"; }
-.pfi-process-uml-end:before { content: "\eb96"; }
-.pfi-process-uml-entity:before { content: "\eb97"; }
-.pfi-process-uml-multivalued-attribute:before { content: "\eb98"; }
-.pfi-process-uml-note:before { content: "\eb99"; }
-.pfi-process-uml-receive-signal:before { content: "\eb9a"; }
-.pfi-process-uml-relationship:before { content: "\eb9b"; }
-.pfi-process-uml-send-signal:before { content: "\eb9c"; }
-.pfi-process-uml-start:before { content: "\eb9d"; }
-.pfi-process-uml-weak-entity:before { content: "\eb9e"; }
-.pfi-process-uml-weak-relationship:before { content: "\eb9f"; }
-.pfi-profile-circle:before { content: "\eba0"; }
-.pfi-profile:before { content: "\eba1"; }
-.pfi-project-cycle:before { content: "\eba2"; }
-.pfi-project-mgmt:before { content: "\eba3"; }
-.pfi-project:before { content: "\eba4"; }
-.pfi-projector-screen:before { content: "\eba5"; }
-.pfi-property-book:before { content: "\eba6"; }
-.pfi-pulse-circle:before { content: "\eba7"; }
-.pfi-pulse:before { content: "\eba8"; }
-.pfi-puzzle-piece:before { content: "\eba9"; }
-.pfi-qr-code:before { content: "\ebaa"; }
-.pfi-question-circle:before { content: "\ebab"; }
-.pfi-question:before { content: "\ebac"; }
-.pfi-radiation-1:before { content: "\ebad"; }
-.pfi-radiation:before { content: "\ebae"; }
-.pfi-redo:before { content: "\ebaf"; }
-.pfi-refresh:before { content: "\ebb0"; }
-.pfi-registration-desk:before { content: "\ebb1"; }
-.pfi-religion-akan:before { content: "\ebb2"; }
-.pfi-religion-bahai:before { content: "\ebb3"; }
-.pfi-religion-buddhism:before { content: "\ebb4"; }
-.pfi-religion-celtic-neopaganism:before { content: "\ebb5"; }
-.pfi-religion-chinese-folk-religion:before { content: "\ebb6"; }
-.pfi-religion-christianity:before { content: "\ebb7"; }
-.pfi-religion-hellenism:before { content: "\ebb8"; }
-.pfi-religion-hinduism:before { content: "\ebb9"; }
-.pfi-religion-isese:before { content: "\ebba"; }
-.pfi-religion-islam:before { content: "\ebbb"; }
-.pfi-religion-jainism:before { content: "\ebbc"; }
-.pfi-religion-jewitchery:before { content: "\ebbd"; }
-.pfi-religion-judaism:before { content: "\ebbe"; }
-.pfi-religion-kemetism:before { content: "\ebbf"; }
-.pfi-religion-lds:before { content: "\ebc0"; }
-.pfi-religion-mexicayotl:before { content: "\ebc1"; }
-.pfi-religion-natib-qadish:before { content: "\ebc2"; }
-.pfi-religion-native-american-church:before { content: "\ebc3"; }
-.pfi-religion-neo-pagan:before { content: "\ebc4"; }
-.pfi-religion-norse:before { content: "\ebc5"; }
-.pfi-religion-satanism:before { content: "\ebc6"; }
-.pfi-religion-serer:before { content: "\ebc7"; }
-.pfi-religion-shinto:before { content: "\ebc8"; }
-.pfi-religion-sikhism:before { content: "\ebc9"; }
-.pfi-religion-slavic-native-faith:before { content: "\ebca"; }
-.pfi-religion-taoism-2:before { content: "\ebcb"; }
-.pfi-religion-taoism:before { content: "\ebcc"; }
-.pfi-religion-thelema:before { content: "\ebcd"; }
-.pfi-religion-unitarian-universalism:before { content: "\ebce"; }
-.pfi-religion-wicca:before { content: "\ebcf"; }
-.pfi-religion-zoroastrianism:before { content: "\ebd0"; }
-.pfi-reports:before { content: "\ebd1"; }
-.pfi-ribbon:before { content: "\ebd2"; }
-.pfi-road-cone:before { content: "\ebd3"; }
-.pfi-rocket:before { content: "\ebd4"; }
-.pfi-rooster:before { content: "\ebd5"; }
-.pfi-rss:before { content: "\ebd6"; }
-.pfi-ruck:before { content: "\ebd7"; }
-.pfi-scale:before { content: "\ebd8"; }
-.pfi-scissors:before { content: "\ebd9"; }
-.pfi-scroll-filled:before { content: "\ebda"; }
-.pfi-scroll:before { content: "\ebdb"; }
-.pfi-server:before { content: "\ebdc"; }
-.pfi-shape-circle-empty:before { content: "\ebdd"; }
-.pfi-shape-circle-filled:before { content: "\ebde"; }
-.pfi-shape-oval-empty:before { content: "\ebdf"; }
-.pfi-shape-oval-filled:before { content: "\ebe0"; }
-.pfi-shape-parallelogram-solid:before { content: "\ebe1"; }
-.pfi-shape-rectangle-empty:before { content: "\ebe2"; }
-.pfi-shape-rectangle-filled:before { content: "\ebe3"; }
-.pfi-shape-square-outline:before { content: "\ebe4"; }
-.pfi-shape-square:before { content: "\ebe5"; }
-.pfi-shape-triangle-down-empty:before { content: "\ebe6"; }
-.pfi-shape-triangle-down-solid:before { content: "\ebe7"; }
-.pfi-shape-triangle-left-empty:before { content: "\ebe8"; }
-.pfi-shape-triangle-left-solid:before { content: "\ebe9"; }
-.pfi-shape-triangle-right-empty:before { content: "\ebea"; }
-.pfi-shape-triangle-right-solid:before { content: "\ebeb"; }
-.pfi-shape-triangle-up-empty:before { content: "\ebec"; }
-.pfi-shape-triangle-up-solid:before { content: "\ebed"; }
-.pfi-share:before { content: "\ebee"; }
-.pfi-shield:before { content: "\ebef"; }
-.pfi-sights:before { content: "\ebf0"; }
-.pfi-signal:before { content: "\ebf1"; }
-.pfi-signature:before { content: "\ebf2"; }
-.pfi-social-facebook:before { content: "\ebf3"; }
-.pfi-social-instagram:before { content: "\ebf4"; }
-.pfi-social-linkedin:before { content: "\ebf5"; }
-.pfi-social-reddit:before { content: "\ebf6"; }
-.pfi-social-serverfault:before { content: "\ebf7"; }
-.pfi-social-stackoverflow:before { content: "\ebf8"; }
-.pfi-social-tiktok:before { content: "\ebf9"; }
-.pfi-social-tumbler:before { content: "\ebfa"; }
-.pfi-social-twitter:before { content: "\ebfb"; }
-.pfi-social-youtube:before { content: "\ebfc"; }
-.pfi-sop:before { content: "\ebfd"; }
-.pfi-speaker-off:before { content: "\ebfe"; }
-.pfi-speaker-on:before { content: "\ebff"; }
-.pfi-spinner-0:before { content: "\ec00"; }
-.pfi-spinner-1:before { content: "\ec01"; }
-.pfi-spinner-2:before { content: "\ec02"; }
-.pfi-spinner-3:before { content: "\ec03"; }
-.pfi-spinner-4:before { content: "\ec04"; }
-.pfi-spinner-5:before { content: "\ec05"; }
-.pfi-spinner-6:before { content: "\ec06"; }
-.pfi-spinner-7:before { content: "\ec07"; }
-.pfi-sport-baseball:before { content: "\ec08"; }
-.pfi-sport-basketball:before { content: "\ec09"; }
-.pfi-sport-football:before { content: "\ec0a"; }
-.pfi-sport-golf-ball:before { content: "\ec0b"; }
-.pfi-sport-tennis-ball:before { content: "\ec0c"; }
-.pfi-sport-volleyball:before { content: "\ec0d"; }
-.pfi-stamp:before { content: "\ec0e"; }
-.pfi-star-empty:before { content: "\ec0f"; }
-.pfi-star-filled:before { content: "\ec10"; }
-.pfi-star-half:before { content: "\ec11"; }
-.pfi-state-ak:before { content: "\ec12"; }
-.pfi-state-al:before { content: "\ec13"; }
-.pfi-state-ar:before { content: "\ec14"; }
-.pfi-state-az:before { content: "\ec15"; }
-.pfi-state-ca:before { content: "\ec16"; }
-.pfi-state-co:before { content: "\ec17"; }
-.pfi-state-ct:before { content: "\ec18"; }
-.pfi-state-dc:before { content: "\ec19"; }
-.pfi-state-de:before { content: "\ec1a"; }
-.pfi-state-fl:before { content: "\ec1b"; }
-.pfi-state-ga:before { content: "\ec1c"; }
-.pfi-state-hi:before { content: "\ec1d"; }
-.pfi-state-ia:before { content: "\ec1e"; }
-.pfi-state-id:before { content: "\ec1f"; }
-.pfi-state-il:before { content: "\ec20"; }
-.pfi-state-in:before { content: "\ec21"; }
-.pfi-state-ks:before { content: "\ec22"; }
-.pfi-state-ky:before { content: "\ec23"; }
-.pfi-state-la:before { content: "\ec24"; }
-.pfi-state-ma:before { content: "\ec25"; }
-.pfi-state-md:before { content: "\ec26"; }
-.pfi-state-me:before { content: "\ec27"; }
-.pfi-state-mi:before { content: "\ec28"; }
-.pfi-state-mn:before { content: "\ec29"; }
-.pfi-state-mo:before { content: "\ec2a"; }
-.pfi-state-ms:before { content: "\ec2b"; }
-.pfi-state-mt:before { content: "\ec2c"; }
-.pfi-state-nc:before { content: "\ec2d"; }
-.pfi-state-nd:before { content: "\ec2e"; }
-.pfi-state-ne:before { content: "\ec2f"; }
-.pfi-state-nh:before { content: "\ec30"; }
-.pfi-state-nj:before { content: "\ec31"; }
-.pfi-state-nm:before { content: "\ec32"; }
-.pfi-state-nv:before { content: "\ec33"; }
-.pfi-state-ny:before { content: "\ec34"; }
-.pfi-state-oh:before { content: "\ec35"; }
-.pfi-state-ok:before { content: "\ec36"; }
-.pfi-state-or:before { content: "\ec37"; }
-.pfi-state-pa:before { content: "\ec38"; }
-.pfi-state-pr:before { content: "\ec39"; }
-.pfi-state-ri:before { content: "\ec3a"; }
-.pfi-state-sc:before { content: "\ec3b"; }
-.pfi-state-sd:before { content: "\ec3c"; }
-.pfi-state-tn:before { content: "\ec3d"; }
-.pfi-state-tx:before { content: "\ec3e"; }
-.pfi-state-ut:before { content: "\ec3f"; }
-.pfi-state-va:before { content: "\ec40"; }
-.pfi-state-vt:before { content: "\ec41"; }
-.pfi-state-wa:before { content: "\ec42"; }
-.pfi-state-wi:before { content: "\ec43"; }
-.pfi-state-wv:before { content: "\ec44"; }
-.pfi-state-wy:before { content: "\ec45"; }
-.pfi-sticky-note:before { content: "\ec46"; }
-.pfi-stop-light:before { content: "\ec47"; }
-.pfi-stop-sign:before { content: "\ec48"; }
-.pfi-strategy:before { content: "\ec49"; }
-.pfi-support:before { content: "\ec4a"; }
-.pfi-survey:before { content: "\ec4b"; }
-.pfi-svn-tortoise:before { content: "\ec4c"; }
-.pfi-sw-rebel-alliance:before { content: "\ec4d"; }
-.pfi-sw-republic:before { content: "\ec4e"; }
-.pfi-tag:before { content: "\ec4f"; }
-.pfi-tags:before { content: "\ec50"; }
-.pfi-target:before { content: "\ec51"; }
-.pfi-task-assign:before { content: "\ec52"; }
-.pfi-task-mgmt:before { content: "\ec53"; }
-.pfi-task:before { content: "\ec54"; }
-.pfi-terminal:before { content: "\ec55"; }
-.pfi-testing:before { content: "\ec56"; }
-.pfi-thumb-down-empty:before { content: "\ec57"; }
-.pfi-thumb-down-filled:before { content: "\ec58"; }
-.pfi-thumb-up-empty:before { content: "\ec59"; }
-.pfi-thumb-up-filled:before { content: "\ec5a"; }
-.pfi-thumbtack:before { content: "\ec5b"; }
-.pfi-timeline:before { content: "\ec5c"; }
-.pfi-torch:before { content: "\ec5d"; }
-.pfi-training-mgmt:before { content: "\ec5e"; }
-.pfi-trash:before { content: "\ec5f"; }
-.pfi-trogdor:before { content: "\ec60"; }
-.pfi-trophy:before { content: "\ec61"; }
-.pfi-ubuntu:before { content: "\ec62"; }
-.pfi-undo:before { content: "\ec63"; }
-.pfi-usage-stats:before { content: "\ec64"; }
-.pfi-usb:before { content: "\ec65"; }
-.pfi-vmware:before { content: "\ec66"; }
-.pfi-welcome-letter:before { content: "\ec67"; }
-.pfi-wifi:before { content: "\ec68"; }
-.pfi-wiki:before { content: "\ec69"; }
-.pfi-wikimedia:before { content: "\ec6a"; }
-.pfi-windoz:before { content: "\ec6b"; }
-.pfi-world-globe:before { content: "\ec6c"; }
-.pfi-wrench:before { content: "\ec6d"; }
-.pfi-wx-cloud:before { content: "\ec6e"; }
-.pfi-wx-cloudy-gusts:before { content: "\ec6f"; }
-.pfi-wx-cloudy-windy:before { content: "\ec70"; }
-.pfi-wx-cloudy:before { content: "\ec71"; }
-.pfi-wx-dust:before { content: "\ec72"; }
-.pfi-wx-fire:before { content: "\ec73"; }
-.pfi-wx-fog:before { content: "\ec74"; }
-.pfi-wx-gale-warning:before { content: "\ec75"; }
-.pfi-wx-hail:before { content: "\ec76"; }
-.pfi-wx-hot:before { content: "\ec77"; }
-.pfi-wx-humidity:before { content: "\ec78"; }
-.pfi-wx-hurricane-warning:before { content: "\ec79"; }
-.pfi-wx-hurricane:before { content: "\ec7a"; }
-.pfi-wx-lightning:before { content: "\ec7b"; }
-.pfi-wx-lightningstorm:before { content: "\ec7c"; }
-.pfi-wx-rain-mix:before { content: "\ec7d"; }
-.pfi-wx-rain:before { content: "\ec7e"; }
-.pfi-wx-sandstorm:before { content: "\ec7f"; }
-.pfi-wx-showers:before { content: "\ec80"; }
-.pfi-wx-sleet:before { content: "\ec81"; }
-.pfi-wx-small-craft-warning:before { content: "\ec82"; }
-.pfi-wx-smog:before { content: "\ec83"; }
-.pfi-wx-smoke:before { content: "\ec84"; }
-.pfi-wx-snow-wind:before { content: "\ec85"; }
-.pfi-wx-snow:before { content: "\ec86"; }
-.pfi-wx-snowflake-cold:before { content: "\ec87"; }
-.pfi-wx-solar-eclipse:before { content: "\ec88"; }
-.pfi-wx-sprinkle:before { content: "\ec89"; }
-.pfi-wx-storm-showers:before { content: "\ec8a"; }
-.pfi-wx-storm-warning:before { content: "\ec8b"; }
-.pfi-wx-strong-wind:before { content: "\ec8c"; }
-.pfi-wx-sunrise:before { content: "\ec8d"; }
-.pfi-wx-sunset:before { content: "\ec8e"; }
-.pfi-wx-thermometer-0:before { content: "\ec8f"; }
-.pfi-wx-thermometer-100:before { content: "\ec90"; }
-.pfi-wx-thermometer-25:before { content: "\ec91"; }
-.pfi-wx-thermometer-50:before { content: "\ec92"; }
-.pfi-wx-thermometer-75:before { content: "\ec93"; }
-.pfi-wx-thunderstorm:before { content: "\ec94"; }
-.pfi-wx-tornado:before { content: "\ec95"; }
-.pfi-wx-tsunami:before { content: "\ec96"; }
-.pfi-wx-wind-beufort-0:before { content: "\ec97"; }
-.pfi-wx-wind-beufort-1:before { content: "\ec98"; }
-.pfi-wx-wind-beufort-10:before { content: "\ec99"; }
-.pfi-wx-wind-beufort-11:before { content: "\ec9a"; }
-.pfi-wx-wind-beufort-12:before { content: "\ec9b"; }
-.pfi-wx-wind-beufort-2:before { content: "\ec9c"; }
-.pfi-wx-wind-beufort-3:before { content: "\ec9d"; }
-.pfi-wx-wind-beufort-4:before { content: "\ec9e"; }
-.pfi-wx-wind-beufort-5:before { content: "\ec9f"; }
-.pfi-wx-wind-beufort-6:before { content: "\eca0"; }
-.pfi-wx-wind-beufort-7:before { content: "\eca1"; }
-.pfi-wx-wind-beufort-8:before { content: "\eca2"; }
-.pfi-wx-wind-beufort-9:before { content: "\eca3"; }
-.pfi-wx-wind-deg:before { content: "\eca4"; }
-.pfi-wx-wind-rain:before { content: "\eca5"; }
-.pfi-wx-windy:before { content: "\eca6"; }
-.pfi-X:before { content: "\eca7"; }
+.pfi-amd-alt:before { content: "\ea1c"; }
+.pfi-amd:before { content: "\ea1d"; }
+.pfi-andrew-bunnie-huang:before { content: "\ea1e"; }
+.pfi-android:before { content: "\ea1f"; }
+.pfi-apache-cordova:before { content: "\ea20"; }
+.pfi-apache-server-feather:before { content: "\ea21"; }
+.pfi-app-store-alt-1:before { content: "\ea22"; }
+.pfi-app-store-alt-2:before { content: "\ea23"; }
+.pfi-app-store-alt-3:before { content: "\ea24"; }
+.pfi-app-store-google-play:before { content: "\ea25"; }
+.pfi-app-store-ios:before { content: "\ea26"; }
+.pfi-app-store:before { content: "\ea27"; }
+.pfi-apple:before { content: "\ea28"; }
+.pfi-archaeology:before { content: "\ea29"; }
+.pfi-arduino-alt:before { content: "\ea2a"; }
+.pfi-arduino:before { content: "\ea2b"; }
+.pfi-army-ag:before { content: "\ea2c"; }
+.pfi-army-air-defense-artillery:before { content: "\ea2d"; }
+.pfi-army-atrrs:before { content: "\ea2e"; }
+.pfi-army-aviation:before { content: "\ea2f"; }
+.pfi-army-chaplain:before { content: "\ea30"; }
+.pfi-army-dtms:before { content: "\ea31"; }
+.pfi-army-eo:before { content: "\ea32"; }
+.pfi-army-logo:before { content: "\ea33"; }
+.pfi-army-medical:before { content: "\ea34"; }
+.pfi-army-mi:before { content: "\ea35"; }
+.pfi-army-ngb-buddy-aid:before { content: "\ea36"; }
+.pfi-army-ngb-howie:before { content: "\ea37"; }
+.pfi-army-ngb:before { content: "\ea38"; }
+.pfi-army-ordnance:before { content: "\ea39"; }
+.pfi-army-public-affairs:before { content: "\ea3a"; }
+.pfi-army-rank-1sg:before { content: "\ea3b"; }
+.pfi-army-rank-bg:before { content: "\ea3c"; }
+.pfi-army-rank-col:before { content: "\ea3d"; }
+.pfi-army-rank-cpl:before { content: "\ea3e"; }
+.pfi-army-rank-cpt:before { content: "\ea3f"; }
+.pfi-army-rank-csm:before { content: "\ea40"; }
+.pfi-army-rank-cw2:before { content: "\ea41"; }
+.pfi-army-rank-cw3:before { content: "\ea42"; }
+.pfi-army-rank-cw4:before { content: "\ea43"; }
+.pfi-army-rank-cw5:before { content: "\ea44"; }
+.pfi-army-rank-gen:before { content: "\ea45"; }
+.pfi-army-rank-lt:before { content: "\ea46"; }
+.pfi-army-rank-ltc-maj:before { content: "\ea47"; }
+.pfi-army-rank-ltg:before { content: "\ea48"; }
+.pfi-army-rank-mg:before { content: "\ea49"; }
+.pfi-army-rank-msg:before { content: "\ea4a"; }
+.pfi-army-rank-pfc:before { content: "\ea4b"; }
+.pfi-army-rank-pvt:before { content: "\ea4c"; }
+.pfi-army-rank-sfc:before { content: "\ea4d"; }
+.pfi-army-rank-sgm:before { content: "\ea4e"; }
+.pfi-army-rank-sgt:before { content: "\ea4f"; }
+.pfi-army-rank-spc:before { content: "\ea50"; }
+.pfi-army-rank-ssg:before { content: "\ea51"; }
+.pfi-army-rank-w01:before { content: "\ea52"; }
+.pfi-army-sarc:before { content: "\ea53"; }
+.pfi-army-signal:before { content: "\ea54"; }
+.pfi-army-tradoc:before { content: "\ea55"; }
+.pfi-army:before { content: "\ea56"; }
+.pfi-arrow-down:before { content: "\ea57"; }
+.pfi-arrow-left:before { content: "\ea58"; }
+.pfi-arrow-right:before { content: "\ea59"; }
+.pfi-arrow-up:before { content: "\ea5a"; }
+.pfi-article:before { content: "\ea5b"; }
+.pfi-asterisk:before { content: "\ea5c"; }
+.pfi-atari:before { content: "\ea5d"; }
+.pfi-audio-book:before { content: "\ea5e"; }
+.pfi-badge:before { content: "\ea5f"; }
+.pfi-barcode:before { content: "\ea60"; }
+.pfi-battery-0:before { content: "\ea61"; }
+.pfi-battery-100:before { content: "\ea62"; }
+.pfi-battery-25:before { content: "\ea63"; }
+.pfi-battery-50:before { content: "\ea64"; }
+.pfi-battery-75:before { content: "\ea65"; }
+.pfi-bed:before { content: "\ea66"; }
+.pfi-bell-active:before { content: "\ea67"; }
+.pfi-bell:before { content: "\ea68"; }
+.pfi-billeting-mgmt:before { content: "\ea69"; }
+.pfi-bluetooth:before { content: "\ea6a"; }
+.pfi-book-chapter:before { content: "\ea6b"; }
+.pfi-book-index:before { content: "\ea6c"; }
+.pfi-book-open-facing-away:before { content: "\ea6d"; }
+.pfi-book-open-facing-up:before { content: "\ea6e"; }
+.pfi-book-page:before { content: "\ea6f"; }
+.pfi-book-table-of-contents:before { content: "\ea70"; }
+.pfi-book:before { content: "\ea71"; }
+.pfi-bookmark-empty:before { content: "\ea72"; }
+.pfi-bookmark-filled:before { content: "\ea73"; }
+.pfi-bookshelf-1:before { content: "\ea74"; }
+.pfi-bookshelf-2:before { content: "\ea75"; }
+.pfi-bootstrap:before { content: "\ea76"; }
+.pfi-bow-tie:before { content: "\ea77"; }
+.pfi-bow:before { content: "\ea78"; }
+.pfi-box-closed:before { content: "\ea79"; }
+.pfi-box-pack:before { content: "\ea7a"; }
+.pfi-box-ship:before { content: "\ea7b"; }
+.pfi-box-unpack:before { content: "\ea7c"; }
+.pfi-box:before { content: "\ea7d"; }
+.pfi-boxes:before { content: "\ea7e"; }
+.pfi-brain:before { content: "\ea7f"; }
+.pfi-breakout:before { content: "\ea80"; }
+.pfi-bug:before { content: "\ea81"; }
+.pfi-building:before { content: "\ea82"; }
+.pfi-bullet-journal-appointment-canceled:before { content: "\ea83"; }
+.pfi-bullet-journal-appointment-complete:before { content: "\ea84"; }
+.pfi-bullet-journal-appointment-migrated:before { content: "\ea85"; }
+.pfi-bullet-journal-appointment:before { content: "\ea86"; }
+.pfi-bullet-journal-event-canceled-2:before { content: "\ea87"; }
+.pfi-bullet-journal-event-canceled:before { content: "\ea88"; }
+.pfi-bullet-journal-event-complete:before { content: "\ea89"; }
+.pfi-bullet-journal-event-migrated:before { content: "\ea8a"; }
+.pfi-bullet-journal-event-started:before { content: "\ea8b"; }
+.pfi-bullet-journal-event:before { content: "\ea8c"; }
+.pfi-bullet-journal-important-1:before { content: "\ea8d"; }
+.pfi-bullet-journal-important-2:before { content: "\ea8e"; }
+.pfi-bullet-journal-important-done:before { content: "\ea8f"; }
+.pfi-bullet-journal-important:before { content: "\ea90"; }
+.pfi-bullet-journal-migrate:before { content: "\ea91"; }
+.pfi-bullet-journal-note:before { content: "\ea92"; }
+.pfi-bullet-journal-question:before { content: "\ea93"; }
+.pfi-bullet-journal-schedule-clock:before { content: "\ea94"; }
+.pfi-bullet-journal-schedule:before { content: "\ea95"; }
+.pfi-bullet-journal-task-canceled:before { content: "\ea96"; }
+.pfi-bullet-journal-task-complete:before { content: "\ea97"; }
+.pfi-bullet-journal-task-migrated:before { content: "\ea98"; }
+.pfi-bullet-journal-task-started:before { content: "\ea99"; }
+.pfi-bullet-journal-task:before { content: "\ea9a"; }
+.pfi-bullet-list:before { content: "\ea9b"; }
+.pfi-bullhorn:before { content: "\ea9c"; }
+.pfi-bus:before { content: "\ea9d"; }
+.pfi-calculator:before { content: "\ea9e"; }
+.pfi-calendar:before { content: "\ea9f"; }
+.pfi-camera-aperture:before { content: "\eaa0"; }
+.pfi-camera-video:before { content: "\eaa1"; }
+.pfi-camera:before { content: "\eaa2"; }
+.pfi-campus:before { content: "\eaa3"; }
+.pfi-cancel:before { content: "\eaa4"; }
+.pfi-car:before { content: "\eaa5"; }
+.pfi-cart:before { content: "\eaa6"; }
+.pfi-certificate:before { content: "\eaa7"; }
+.pfi-chart-bar-horizontal:before { content: "\eaa8"; }
+.pfi-chart-bar:before { content: "\eaa9"; }
+.pfi-chart-line:before { content: "\eaaa"; }
+.pfi-chart-pie:before { content: "\eaab"; }
+.pfi-chart-venn-tri:before { content: "\eaac"; }
+.pfi-chart-venn:before { content: "\eaad"; }
+.pfi-check-circle:before { content: "\eaae"; }
+.pfi-check:before { content: "\eaaf"; }
+.pfi-clipboard:before { content: "\eab0"; }
+.pfi-clock:before { content: "\eab1"; }
+.pfi-clone:before { content: "\eab2"; }
+.pfi-code-file:before { content: "\eab3"; }
+.pfi-comment-box:before { content: "\eab4"; }
+.pfi-comment-left:before { content: "\eab5"; }
+.pfi-comment-right:before { content: "\eab6"; }
+.pfi-commodore-64:before { content: "\eab7"; }
+.pfi-commodore:before { content: "\eab8"; }
+.pfi-concord-menu:before { content: "\eab9"; }
+.pfi-conferencing:before { content: "\eaba"; }
+.pfi-course-catalog:before { content: "\eabb"; }
+.pfi-course-mgmt:before { content: "\eabc"; }
+.pfi-court-martial:before { content: "\eabd"; }
+.pfi-covid:before { content: "\eabe"; }
+.pfi-crop:before { content: "\eabf"; }
+.pfi-cross:before { content: "\eac0"; }
+.pfi-crosshairs:before { content: "\eac1"; }
+.pfi-cube-download:before { content: "\eac2"; }
+.pfi-cube-login:before { content: "\eac3"; }
+.pfi-cube-logout:before { content: "\eac4"; }
+.pfi-cube-share:before { content: "\eac5"; }
+.pfi-cube-upload:before { content: "\eac6"; }
+.pfi-cyber:before { content: "\eac7"; }
+.pfi-cycle:before { content: "\eac8"; }
+.pfi-dashboard:before { content: "\eac9"; }
+.pfi-database:before { content: "\eaca"; }
+.pfi-debian:before { content: "\eacb"; }
+.pfi-diamond-empty:before { content: "\eacc"; }
+.pfi-diamond-filled:before { content: "\eacd"; }
+.pfi-disk:before { content: "\eace"; }
+.pfi-dna:before { content: "\eacf"; }
+.pfi-docker:before { content: "\ead0"; }
+.pfi-document:before { content: "\ead1"; }
+.pfi-drafting-compass:before { content: "\ead2"; }
+.pfi-drinks:before { content: "\ead3"; }
+.pfi-drive:before { content: "\ead4"; }
+.pfi-drop:before { content: "\ead5"; }
+.pfi-duckduckgo:before { content: "\ead6"; }
+.pfi-elastic:before { content: "\ead7"; }
+.pfi-email:before { content: "\ead8"; }
+.pfi-emoji-frown:before { content: "\ead9"; }
+.pfi-emoji-meh:before { content: "\eada"; }
+.pfi-emoji-smile:before { content: "\eadb"; }
+.pfi-eraser:before { content: "\eadc"; }
+.pfi-event-registration:before { content: "\eadd"; }
+.pfi-event:before { content: "\eade"; }
+.pfi-exclamation:before { content: "\eadf"; }
+.pfi-express-checkin:before { content: "\eae0"; }
+.pfi-extension-1:before { content: "\eae1"; }
+.pfi-extension-2:before { content: "\eae2"; }
+.pfi-extension-3:before { content: "\eae3"; }
+.pfi-eye-dropper:before { content: "\eae4"; }
+.pfi-eye:before { content: "\eae5"; }
+.pfi-f-droid:before { content: "\eae6"; }
+.pfi-faq:before { content: "\eae7"; }
+.pfi-fedora:before { content: "\eae8"; }
+.pfi-feedback:before { content: "\eae9"; }
+.pfi-file:before { content: "\eaea"; }
+.pfi-film:before { content: "\eaeb"; }
+.pfi-filter:before { content: "\eaec"; }
+.pfi-fire-extinguisher:before { content: "\eaed"; }
+.pfi-fitness-calendar:before { content: "\eaee"; }
+.pfi-fitness-consult:before { content: "\eaef"; }
+.pfi-flag:before { content: "\eaf0"; }
+.pfi-flame:before { content: "\eaf1"; }
+.pfi-flame2:before { content: "\eaf2"; }
+.pfi-flask-meyers:before { content: "\eaf3"; }
+.pfi-flask:before { content: "\eaf4"; }
+.pfi-folder-closed:before { content: "\eaf5"; }
+.pfi-folder-open:before { content: "\eaf6"; }
+.pfi-footnote-arabic:before { content: "\eaf7"; }
+.pfi-form:before { content: "\eaf8"; }
+.pfi-forum-mgmt:before { content: "\eaf9"; }
+.pfi-forums:before { content: "\eafa"; }
+.pfi-gear:before { content: "\eafb"; }
+.pfi-gears-2:before { content: "\eafc"; }
+.pfi-gears:before { content: "\eafd"; }
+.pfi-generic-app-1:before { content: "\eafe"; }
+.pfi-generic-app-2:before { content: "\eaff"; }
+.pfi-generic-app-3:before { content: "\eb00"; }
+.pfi-generic-app-4:before { content: "\eb01"; }
+.pfi-git:before { content: "\eb02"; }
+.pfi-github:before { content: "\eb03"; }
+.pfi-google:before { content: "\eb04"; }
+.pfi-graduation-cap:before { content: "\eb05"; }
+.pfi-grammer:before { content: "\eb06"; }
+.pfi-grid:before { content: "\eb07"; }
+.pfi-guitar-pick:before { content: "\eb08"; }
+.pfi-gym:before { content: "\eb09"; }
+.pfi-hacker-news:before { content: "\eb0a"; }
+.pfi-hamburger:before { content: "\eb0b"; }
+.pfi-headphones:before { content: "\eb0c"; }
+.pfi-heart-beat:before { content: "\eb0d"; }
+.pfi-heart:before { content: "\eb0e"; }
+.pfi-helmet:before { content: "\eb0f"; }
+.pfi-help:before { content: "\eb10"; }
+.pfi-hex-hive-1:before { content: "\eb11"; }
+.pfi-hex-hive-2:before { content: "\eb12"; }
+.pfi-hex-hive-3:before { content: "\eb13"; }
+.pfi-hex-hive-4:before { content: "\eb14"; }
+.pfi-hex-hive-5:before { content: "\eb15"; }
+.pfi-hex-hive-6:before { content: "\eb16"; }
+.pfi-highlight:before { content: "\eb17"; }
+.pfi-history:before { content: "\eb18"; }
+.pfi-home:before { content: "\eb19"; }
+.pfi-housekeeping:before { content: "\eb1a"; }
+.pfi-human-performance:before { content: "\eb1b"; }
+.pfi-humble-bundle-1:before { content: "\eb1c"; }
+.pfi-humble-bundle-2:before { content: "\eb1d"; }
+.pfi-humble-bundle-3:before { content: "\eb1e"; }
+.pfi-humble-bundle-4:before { content: "\eb1f"; }
+.pfi-i:before { content: "\eb20"; }
+.pfi-iam-mgmt:before { content: "\eb21"; }
+.pfi-ibm:before { content: "\eb22"; }
+.pfi-icons:before { content: "\eb23"; }
+.pfi-id-card:before { content: "\eb24"; }
+.pfi-idea:before { content: "\eb25"; }
+.pfi-image:before { content: "\eb26"; }
+.pfi-inbox:before { content: "\eb27"; }
+.pfi-info-circle:before { content: "\eb28"; }
+.pfi-info:before { content: "\eb29"; }
+.pfi-instance:before { content: "\eb2a"; }
+.pfi-instructables:before { content: "\eb2b"; }
+.pfi-instructor:before { content: "\eb2c"; }
+.pfi-intel-logo:before { content: "\eb2d"; }
+.pfi-internet:before { content: "\eb2e"; }
+.pfi-jolly-wrench:before { content: "\eb2f"; }
+.pfi-knife:before { content: "\eb30"; }
+.pfi-knowledge-management:before { content: "\eb31"; }
+.pfi-laptop:before { content: "\eb32"; }
+.pfi-leadership:before { content: "\eb33"; }
+.pfi-leaf:before { content: "\eb34"; }
+.pfi-lessons-learned:before { content: "\eb35"; }
+.pfi-library:before { content: "\eb36"; }
+.pfi-light-bulb-lit:before { content: "\eb37"; }
+.pfi-light-bulb:before { content: "\eb38"; }
+.pfi-link:before { content: "\eb39"; }
+.pfi-linux-dark:before { content: "\eb3a"; }
+.pfi-linux:before { content: "\eb3b"; }
+.pfi-little-dancing-man:before { content: "\eb3c"; }
+.pfi-loading-0:before { content: "\eb3d"; }
+.pfi-loading-10:before { content: "\eb3e"; }
+.pfi-loading-100:before { content: "\eb3f"; }
+.pfi-loading-20:before { content: "\eb40"; }
+.pfi-loading-30:before { content: "\eb41"; }
+.pfi-loading-40:before { content: "\eb42"; }
+.pfi-loading-50:before { content: "\eb43"; }
+.pfi-loading-60:before { content: "\eb44"; }
+.pfi-loading-70:before { content: "\eb45"; }
+.pfi-loading-80:before { content: "\eb46"; }
+.pfi-loading-90:before { content: "\eb47"; }
+.pfi-location:before { content: "\eb48"; }
+.pfi-lock-closed:before { content: "\eb49"; }
+.pfi-lock-open:before { content: "\eb4a"; }
+.pfi-magnet:before { content: "\eb4b"; }
+.pfi-magnify-zoom-in:before { content: "\eb4c"; }
+.pfi-magnify-zoom-out:before { content: "\eb4d"; }
+.pfi-magnify:before { content: "\eb4e"; }
+.pfi-make:before { content: "\eb4f"; }
+.pfi-management-2:before { content: "\eb50"; }
+.pfi-management-3:before { content: "\eb51"; }
+.pfi-management:before { content: "\eb52"; }
+.pfi-map-trifold:before { content: "\eb53"; }
+.pfi-map:before { content: "\eb54"; }
+.pfi-math-divide:before { content: "\eb55"; }
+.pfi-math-equal:before { content: "\eb56"; }
+.pfi-math-greater-than:before { content: "\eb57"; }
+.pfi-math-less-than:before { content: "\eb58"; }
+.pfi-math-minus:before { content: "\eb59"; }
+.pfi-math-multiply:before { content: "\eb5a"; }
+.pfi-math-percent:before { content: "\eb5b"; }
+.pfi-math-plus:before { content: "\eb5c"; }
+.pfi-math-square-root:before { content: "\eb5d"; }
+.pfi-maximize:before { content: "\eb5e"; }
+.pfi-meal:before { content: "\eb5f"; }
+.pfi-media-backward:before { content: "\eb60"; }
+.pfi-media-forward:before { content: "\eb61"; }
+.pfi-media-pause:before { content: "\eb62"; }
+.pfi-media-play:before { content: "\eb63"; }
+.pfi-media-skip-backward:before { content: "\eb64"; }
+.pfi-media-skip-forward:before { content: "\eb65"; }
+.pfi-mem-מ:before { content: "\eb66"; }
+.pfi-mgmt:before { content: "\eb67"; }
+.pfi-microphone-mute:before { content: "\eb68"; }
+.pfi-microphone:before { content: "\eb69"; }
+.pfi-microsoft:before { content: "\eb6a"; }
+.pfi-minimize:before { content: "\eb6b"; }
+.pfi-mit:before { content: "\eb6c"; }
+.pfi-mongodb:before { content: "\eb6d"; }
+.pfi-move:before { content: "\eb6e"; }
+.pfi-ms-365:before { content: "\eb6f"; }
+.pfi-ms-excel:before { content: "\eb70"; }
+.pfi-ms-one-drive:before { content: "\eb71"; }
+.pfi-ms-outlook:before { content: "\eb72"; }
+.pfi-ms-powerpoint:before { content: "\eb73"; }
+.pfi-ms-sharepoint:before { content: "\eb74"; }
+.pfi-ms-teams:before { content: "\eb75"; }
+.pfi-ms-word:before { content: "\eb76"; }
+.pfi-musical-note-bass-clef:before { content: "\eb77"; }
+.pfi-musical-note-beamed-eighth:before { content: "\eb78"; }
+.pfi-musical-note-eighth:before { content: "\eb79"; }
+.pfi-musical-note-flat:before { content: "\eb7a"; }
+.pfi-musical-note-half:before { content: "\eb7b"; }
+.pfi-musical-note-quarter:before { content: "\eb7c"; }
+.pfi-musical-note-sharp:before { content: "\eb7d"; }
+.pfi-musical-note-treble-clef:before { content: "\eb7e"; }
+.pfi-musical-note-whole:before { content: "\eb7f"; }
+.pfi-mwr:before { content: "\eb80"; }
+.pfi-na:before { content: "\eb81"; }
+.pfi-net-cable-modem:before { content: "\eb82"; }
+.pfi-net-firewall:before { content: "\eb83"; }
+.pfi-net-router:before { content: "\eb84"; }
+.pfi-net-switch:before { content: "\eb85"; }
+.pfi-net-wireless-access-point:before { content: "\eb86"; }
+.pfi-network-user-agreement:before { content: "\eb87"; }
+.pfi-nginx:before { content: "\eb88"; }
+.pfi-noaa:before { content: "\eb89"; }
+.pfi-nodejs-alt:before { content: "\eb8a"; }
+.pfi-nodejs:before { content: "\eb8b"; }
+.pfi-note-pad:before { content: "\eb8c"; }
+.pfi-notes:before { content: "\eb8d"; }
+.pfi-npm:before { content: "\eb8e"; }
+.pfi-openai:before { content: "\eb8f"; }
+.pfi-operations:before { content: "\eb90"; }
+.pfi-organization:before { content: "\eb91"; }
+.pfi-paleography:before { content: "\eb92"; }
+.pfi-paperclip:before { content: "\eb93"; }
+.pfi-parking-lot:before { content: "\eb94"; }
+.pfi-pec-bn-ciab-ittc:before { content: "\eb95"; }
+.pfi-pec-bn-rmtb-rmtc:before { content: "\eb96"; }
+.pfi-pec-bn-sieb-iletc:before { content: "\eb97"; }
+.pfi-pec-bn-sldi-ortc:before { content: "\eb98"; }
+.pfi-pec-fsdb:before { content: "\eb99"; }
+.pfi-pec-logo:before { content: "\eb9a"; }
+.pfi-pec-portal:before { content: "\eb9b"; }
+.pfi-pec-qa:before { content: "\eb9c"; }
+.pfi-pencil:before { content: "\eb9d"; }
+.pfi-people-einstein:before { content: "\eb9e"; }
+.pfi-people-feynman:before { content: "\eb9f"; }
+.pfi-pepper-chili:before { content: "\eba0"; }
+.pfi-pepper-jalapeno:before { content: "\eba1"; }
+.pfi-phone-roster:before { content: "\eba2"; }
+.pfi-phone:before { content: "\eba3"; }
+.pfi-physics-alt:before { content: "\eba4"; }
+.pfi-physics:before { content: "\eba5"; }
+.pfi-pick-axe:before { content: "\eba6"; }
+.pfi-pill-solid:before { content: "\eba7"; }
+.pfi-pill-tab-left:before { content: "\eba8"; }
+.pfi-pill-tab-right:before { content: "\eba9"; }
+.pfi-pin:before { content: "\ebaa"; }
+.pfi-pizza:before { content: "\ebab"; }
+.pfi-plug:before { content: "\ebac"; }
+.pfi-poc-workspace:before { content: "\ebad"; }
+.pfi-podcast:before { content: "\ebae"; }
+.pfi-podium-manned-book:before { content: "\ebaf"; }
+.pfi-podium-manned:before { content: "\ebb0"; }
+.pfi-podium:before { content: "\ebb1"; }
+.pfi-pointer-hand-grab:before { content: "\ebb2"; }
+.pfi-pointer-hand:before { content: "\ebb3"; }
+.pfi-pointer-mouse:before { content: "\ebb4"; }
+.pfi-power:before { content: "\ebb5"; }
+.pfi-printer:before { content: "\ebb6"; }
+.pfi-process-bpmn-end:before { content: "\ebb7"; }
+.pfi-process-bpmn-event-alt:before { content: "\ebb8"; }
+.pfi-process-bpmn-event:before { content: "\ebb9"; }
+.pfi-process-bpmn-start:before { content: "\ebba"; }
+.pfi-process-bpmn-task:before { content: "\ebbb"; }
+.pfi-process-bpmn-transaction:before { content: "\ebbc"; }
+.pfi-process-data-flow-data-store-alt-1:before { content: "\ebbd"; }
+.pfi-process-data-flow-data-store-alt-2:before { content: "\ebbe"; }
+.pfi-process-data-flow-data-store:before { content: "\ebbf"; }
+.pfi-process-data-flow-external-entity:before { content: "\ebc0"; }
+.pfi-process-data-flow-process-circle:before { content: "\ebc1"; }
+.pfi-process-data-flow-process-square:before { content: "\ebc2"; }
+.pfi-process-erd:before { content: "\ebc3"; }
+.pfi-process-flow-arrow:before { content: "\ebc4"; }
+.pfi-process-flow-comment:before { content: "\ebc5"; }
+.pfi-process-flow-connector:before { content: "\ebc6"; }
+.pfi-process-flow-data:before { content: "\ebc7"; }
+.pfi-process-flow-database:before { content: "\ebc8"; }
+.pfi-process-flow-decision:before { content: "\ebc9"; }
+.pfi-process-flow-delay:before { content: "\ebca"; }
+.pfi-process-flow-display:before { content: "\ebcb"; }
+.pfi-process-flow-document:before { content: "\ebcc"; }
+.pfi-process-flow-documents:before { content: "\ebcd"; }
+.pfi-process-flow-hard-disk:before { content: "\ebce"; }
+.pfi-process-flow-internal-storage:before { content: "\ebcf"; }
+.pfi-process-flow-manual-input:before { content: "\ebd0"; }
+.pfi-process-flow-manual-operation:before { content: "\ebd1"; }
+.pfi-process-flow-merge:before { content: "\ebd2"; }
+.pfi-process-flow-note:before { content: "\ebd3"; }
+.pfi-process-flow-off-page-link:before { content: "\ebd4"; }
+.pfi-process-flow-or:before { content: "\ebd5"; }
+.pfi-process-flow-paper-tape:before { content: "\ebd6"; }
+.pfi-process-flow-predefined-process:before { content: "\ebd7"; }
+.pfi-process-flow-preperation:before { content: "\ebd8"; }
+.pfi-process-flow-process:before { content: "\ebd9"; }
+.pfi-process-flow-stored-data:before { content: "\ebda"; }
+.pfi-process-flow-summing-junction:before { content: "\ebdb"; }
+.pfi-process-flow-terminator:before { content: "\ebdc"; }
+.pfi-process-uml-attribute:before { content: "\ebdd"; }
+.pfi-process-uml-branch-merge:before { content: "\ebde"; }
+.pfi-process-uml-component:before { content: "\ebdf"; }
+.pfi-process-uml-end:before { content: "\ebe0"; }
+.pfi-process-uml-entity:before { content: "\ebe1"; }
+.pfi-process-uml-multivalued-attribute:before { content: "\ebe2"; }
+.pfi-process-uml-note:before { content: "\ebe3"; }
+.pfi-process-uml-receive-signal:before { content: "\ebe4"; }
+.pfi-process-uml-relationship:before { content: "\ebe5"; }
+.pfi-process-uml-send-signal:before { content: "\ebe6"; }
+.pfi-process-uml-start:before { content: "\ebe7"; }
+.pfi-process-uml-weak-entity:before { content: "\ebe8"; }
+.pfi-process-uml-weak-relationship:before { content: "\ebe9"; }
+.pfi-profile-circle:before { content: "\ebea"; }
+.pfi-profile:before { content: "\ebeb"; }
+.pfi-programming-c-plus-plus:before { content: "\ebec"; }
+.pfi-programming-c-sharp:before { content: "\ebed"; }
+.pfi-programming-go:before { content: "\ebee"; }
+.pfi-programming-javascript:before { content: "\ebef"; }
+.pfi-programming-php:before { content: "\ebf0"; }
+.pfi-programming-python:before { content: "\ebf1"; }
+.pfi-project-cycle:before { content: "\ebf2"; }
+.pfi-project-mgmt:before { content: "\ebf3"; }
+.pfi-project:before { content: "\ebf4"; }
+.pfi-projector-screen:before { content: "\ebf5"; }
+.pfi-property-book:before { content: "\ebf6"; }
+.pfi-pulse-circle:before { content: "\ebf7"; }
+.pfi-pulse:before { content: "\ebf8"; }
+.pfi-puzzle-piece:before { content: "\ebf9"; }
+.pfi-qr-code-pec:before { content: "\ebfa"; }
+.pfi-qr-code:before { content: "\ebfb"; }
+.pfi-question-circle:before { content: "\ebfc"; }
+.pfi-question:before { content: "\ebfd"; }
+.pfi-radiation-1:before { content: "\ebfe"; }
+.pfi-radiation:before { content: "\ebff"; }
+.pfi-raspberry-pi:before { content: "\ec00"; }
+.pfi-red-hat:before { content: "\ec01"; }
+.pfi-redo:before { content: "\ec02"; }
+.pfi-refresh:before { content: "\ec03"; }
+.pfi-registration-desk:before { content: "\ec04"; }
+.pfi-religion-akan:before { content: "\ec05"; }
+.pfi-religion-bahai:before { content: "\ec06"; }
+.pfi-religion-buddhism:before { content: "\ec07"; }
+.pfi-religion-celtic-neopaganism:before { content: "\ec08"; }
+.pfi-religion-chinese-folk-religion:before { content: "\ec09"; }
+.pfi-religion-christianity:before { content: "\ec0a"; }
+.pfi-religion-hellenism:before { content: "\ec0b"; }
+.pfi-religion-hinduism:before { content: "\ec0c"; }
+.pfi-religion-isese:before { content: "\ec0d"; }
+.pfi-religion-islam:before { content: "\ec0e"; }
+.pfi-religion-jainism:before { content: "\ec0f"; }
+.pfi-religion-jewitchery:before { content: "\ec10"; }
+.pfi-religion-judaism:before { content: "\ec11"; }
+.pfi-religion-kemetism:before { content: "\ec12"; }
+.pfi-religion-lds:before { content: "\ec13"; }
+.pfi-religion-mexicayotl:before { content: "\ec14"; }
+.pfi-religion-natib-qadish:before { content: "\ec15"; }
+.pfi-religion-native-american-church:before { content: "\ec16"; }
+.pfi-religion-neo-pagan:before { content: "\ec17"; }
+.pfi-religion-norse:before { content: "\ec18"; }
+.pfi-religion-satanism:before { content: "\ec19"; }
+.pfi-religion-serer:before { content: "\ec1a"; }
+.pfi-religion-shinto:before { content: "\ec1b"; }
+.pfi-religion-sikhism:before { content: "\ec1c"; }
+.pfi-religion-slavic-native-faith:before { content: "\ec1d"; }
+.pfi-religion-taoism-2:before { content: "\ec1e"; }
+.pfi-religion-taoism:before { content: "\ec1f"; }
+.pfi-religion-thelema:before { content: "\ec20"; }
+.pfi-religion-unitarian-universalism:before { content: "\ec21"; }
+.pfi-religion-wicca:before { content: "\ec22"; }
+.pfi-religion-zoroastrianism:before { content: "\ec23"; }
+.pfi-reports:before { content: "\ec24"; }
+.pfi-retro-logo-badge-1:before { content: "\ec25"; }
+.pfi-retro-logo-badge-2:before { content: "\ec26"; }
+.pfi-retro-logo-badge-3:before { content: "\ec27"; }
+.pfi-retro-logo-badge-4:before { content: "\ec28"; }
+.pfi-retro-logo-circle-1:before { content: "\ec29"; }
+.pfi-retro-logo-ribbon-1:before { content: "\ec2a"; }
+.pfi-retro-logo-ribbon-2:before { content: "\ec2b"; }
+.pfi-retro-logo-ribbon-3:before { content: "\ec2c"; }
+.pfi-retro-logo-ribbon-ends:before { content: "\ec2d"; }
+.pfi-ribbon:before { content: "\ec2e"; }
+.pfi-road-cone:before { content: "\ec2f"; }
+.pfi-rocket:before { content: "\ec30"; }
+.pfi-rooster:before { content: "\ec31"; }
+.pfi-rss:before { content: "\ec32"; }
+.pfi-ruck:before { content: "\ec33"; }
+.pfi-sauce:before { content: "\ec34"; }
+.pfi-scale:before { content: "\ec35"; }
+.pfi-scissors:before { content: "\ec36"; }
+.pfi-scroll-filled-alt:before { content: "\ec37"; }
+.pfi-scroll-filled:before { content: "\ec38"; }
+.pfi-scroll-horizontal:before { content: "\ec39"; }
+.pfi-scroll-vertical:before { content: "\ec3a"; }
+.pfi-scroll:before { content: "\ec3b"; }
+.pfi-server:before { content: "\ec3c"; }
+.pfi-shape-circle-empty:before { content: "\ec3d"; }
+.pfi-shape-circle-filled:before { content: "\ec3e"; }
+.pfi-shape-oval-empty:before { content: "\ec3f"; }
+.pfi-shape-oval-filled:before { content: "\ec40"; }
+.pfi-shape-parallelogram-solid:before { content: "\ec41"; }
+.pfi-shape-rectangle-empty:before { content: "\ec42"; }
+.pfi-shape-rectangle-filled:before { content: "\ec43"; }
+.pfi-shape-square-outline:before { content: "\ec44"; }
+.pfi-shape-square:before { content: "\ec45"; }
+.pfi-shape-triangle-down-empty:before { content: "\ec46"; }
+.pfi-shape-triangle-down-solid:before { content: "\ec47"; }
+.pfi-shape-triangle-left-empty:before { content: "\ec48"; }
+.pfi-shape-triangle-left-solid:before { content: "\ec49"; }
+.pfi-shape-triangle-right-empty:before { content: "\ec4a"; }
+.pfi-shape-triangle-right-solid:before { content: "\ec4b"; }
+.pfi-shape-triangle-up-empty:before { content: "\ec4c"; }
+.pfi-shape-triangle-up-solid:before { content: "\ec4d"; }
+.pfi-share:before { content: "\ec4e"; }
+.pfi-shield:before { content: "\ec4f"; }
+.pfi-shopping-cart:before { content: "\ec50"; }
+.pfi-shovel:before { content: "\ec51"; }
+.pfi-sights:before { content: "\ec52"; }
+.pfi-signal:before { content: "\ec53"; }
+.pfi-signature:before { content: "\ec54"; }
+.pfi-social-facebook:before { content: "\ec55"; }
+.pfi-social-instagram:before { content: "\ec56"; }
+.pfi-social-linkedin:before { content: "\ec57"; }
+.pfi-social-reddit:before { content: "\ec58"; }
+.pfi-social-serverfault:before { content: "\ec59"; }
+.pfi-social-stackoverflow:before { content: "\ec5a"; }
+.pfi-social-tiktok:before { content: "\ec5b"; }
+.pfi-social-tumbler:before { content: "\ec5c"; }
+.pfi-social-twitter:before { content: "\ec5d"; }
+.pfi-social-youtube:before { content: "\ec5e"; }
+.pfi-sop:before { content: "\ec5f"; }
+.pfi-speaker-off:before { content: "\ec60"; }
+.pfi-speaker-on:before { content: "\ec61"; }
+.pfi-spinner-0:before { content: "\ec62"; }
+.pfi-spinner-1:before { content: "\ec63"; }
+.pfi-spinner-2:before { content: "\ec64"; }
+.pfi-spinner-3:before { content: "\ec65"; }
+.pfi-spinner-4:before { content: "\ec66"; }
+.pfi-spinner-5:before { content: "\ec67"; }
+.pfi-spinner-6:before { content: "\ec68"; }
+.pfi-spinner-7:before { content: "\ec69"; }
+.pfi-sport-baseball:before { content: "\ec6a"; }
+.pfi-sport-basketball:before { content: "\ec6b"; }
+.pfi-sport-football:before { content: "\ec6c"; }
+.pfi-sport-golf-ball:before { content: "\ec6d"; }
+.pfi-sport-tennis-ball:before { content: "\ec6e"; }
+.pfi-sport-volleyball:before { content: "\ec6f"; }
+.pfi-squirrel:before { content: "\ec70"; }
+.pfi-stamp:before { content: "\ec71"; }
+.pfi-star-empty:before { content: "\ec72"; }
+.pfi-star-filled:before { content: "\ec73"; }
+.pfi-star-half:before { content: "\ec74"; }
+.pfi-state-ak:before { content: "\ec75"; }
+.pfi-state-al:before { content: "\ec76"; }
+.pfi-state-ar:before { content: "\ec77"; }
+.pfi-state-az:before { content: "\ec78"; }
+.pfi-state-ca:before { content: "\ec79"; }
+.pfi-state-co:before { content: "\ec7a"; }
+.pfi-state-ct:before { content: "\ec7b"; }
+.pfi-state-dc:before { content: "\ec7c"; }
+.pfi-state-de:before { content: "\ec7d"; }
+.pfi-state-fl:before { content: "\ec7e"; }
+.pfi-state-ga:before { content: "\ec7f"; }
+.pfi-state-hi:before { content: "\ec80"; }
+.pfi-state-ia:before { content: "\ec81"; }
+.pfi-state-id:before { content: "\ec82"; }
+.pfi-state-il:before { content: "\ec83"; }
+.pfi-state-in:before { content: "\ec84"; }
+.pfi-state-ks:before { content: "\ec85"; }
+.pfi-state-ky:before { content: "\ec86"; }
+.pfi-state-la:before { content: "\ec87"; }
+.pfi-state-ma:before { content: "\ec88"; }
+.pfi-state-md:before { content: "\ec89"; }
+.pfi-state-me:before { content: "\ec8a"; }
+.pfi-state-mi:before { content: "\ec8b"; }
+.pfi-state-mn:before { content: "\ec8c"; }
+.pfi-state-mo:before { content: "\ec8d"; }
+.pfi-state-ms:before { content: "\ec8e"; }
+.pfi-state-mt:before { content: "\ec8f"; }
+.pfi-state-nc:before { content: "\ec90"; }
+.pfi-state-nd:before { content: "\ec91"; }
+.pfi-state-ne:before { content: "\ec92"; }
+.pfi-state-nh:before { content: "\ec93"; }
+.pfi-state-nj:before { content: "\ec94"; }
+.pfi-state-nm:before { content: "\ec95"; }
+.pfi-state-nv:before { content: "\ec96"; }
+.pfi-state-ny:before { content: "\ec97"; }
+.pfi-state-oh:before { content: "\ec98"; }
+.pfi-state-ok:before { content: "\ec99"; }
+.pfi-state-or:before { content: "\ec9a"; }
+.pfi-state-pa:before { content: "\ec9b"; }
+.pfi-state-pr:before { content: "\ec9c"; }
+.pfi-state-ri:before { content: "\ec9d"; }
+.pfi-state-sc:before { content: "\ec9e"; }
+.pfi-state-sd:before { content: "\ec9f"; }
+.pfi-state-tn:before { content: "\eca0"; }
+.pfi-state-tx:before { content: "\eca1"; }
+.pfi-state-ut:before { content: "\eca2"; }
+.pfi-state-va:before { content: "\eca3"; }
+.pfi-state-vt:before { content: "\eca4"; }
+.pfi-state-wa:before { content: "\eca5"; }
+.pfi-state-wi:before { content: "\eca6"; }
+.pfi-state-wv:before { content: "\eca7"; }
+.pfi-state-wy:before { content: "\eca8"; }
+.pfi-sticky-note:before { content: "\eca9"; }
+.pfi-stop-light:before { content: "\ecaa"; }
+.pfi-stop-sign:before { content: "\ecab"; }
+.pfi-strategy:before { content: "\ecac"; }
+.pfi-support:before { content: "\ecad"; }
+.pfi-survey:before { content: "\ecae"; }
+.pfi-svn-tortoise:before { content: "\ecaf"; }
+.pfi-sw-rebel-alliance:before { content: "\ecb0"; }
+.pfi-sw-republic:before { content: "\ecb1"; }
+.pfi-tag:before { content: "\ecb2"; }
+.pfi-tags:before { content: "\ecb3"; }
+.pfi-target:before { content: "\ecb4"; }
+.pfi-task-assign:before { content: "\ecb5"; }
+.pfi-task-mgmt:before { content: "\ecb6"; }
+.pfi-task:before { content: "\ecb7"; }
+.pfi-terminal:before { content: "\ecb8"; }
+.pfi-testing:before { content: "\ecb9"; }
+.pfi-thumb-down-empty:before { content: "\ecba"; }
+.pfi-thumb-down-filled:before { content: "\ecbb"; }
+.pfi-thumb-up-empty:before { content: "\ecbc"; }
+.pfi-thumb-up-filled:before { content: "\ecbd"; }
+.pfi-thumbtack:before { content: "\ecbe"; }
+.pfi-tie:before { content: "\ecbf"; }
+.pfi-timeline:before { content: "\ecc0"; }
+.pfi-torch:before { content: "\ecc1"; }
+.pfi-training-mgmt:before { content: "\ecc2"; }
+.pfi-trash:before { content: "\ecc3"; }
+.pfi-trogdor:before { content: "\ecc4"; }
+.pfi-trophy:before { content: "\ecc5"; }
+.pfi-ubuntu:before { content: "\ecc6"; }
+.pfi-undo:before { content: "\ecc7"; }
+.pfi-usage-stats:before { content: "\ecc8"; }
+.pfi-usb:before { content: "\ecc9"; }
+.pfi-vmware:before { content: "\ecca"; }
+.pfi-webpack:before { content: "\eccb"; }
+.pfi-welcome-letter:before { content: "\eccc"; }
+.pfi-wifi:before { content: "\eccd"; }
+.pfi-wiki:before { content: "\ecce"; }
+.pfi-wikimedia:before { content: "\eccf"; }
+.pfi-windoz:before { content: "\ecd0"; }
+.pfi-wordpress:before { content: "\ecd1"; }
+.pfi-world-globe:before { content: "\ecd2"; }
+.pfi-wrench:before { content: "\ecd3"; }
+.pfi-wx-cloud:before { content: "\ecd4"; }
+.pfi-wx-cloudy-gusts:before { content: "\ecd5"; }
+.pfi-wx-cloudy-windy:before { content: "\ecd6"; }
+.pfi-wx-cloudy:before { content: "\ecd7"; }
+.pfi-wx-dust:before { content: "\ecd8"; }
+.pfi-wx-fire:before { content: "\ecd9"; }
+.pfi-wx-fog:before { content: "\ecda"; }
+.pfi-wx-gale-warning:before { content: "\ecdb"; }
+.pfi-wx-hail:before { content: "\ecdc"; }
+.pfi-wx-hot:before { content: "\ecdd"; }
+.pfi-wx-humidity:before { content: "\ecde"; }
+.pfi-wx-hurricane-warning:before { content: "\ecdf"; }
+.pfi-wx-hurricane:before { content: "\ece0"; }
+.pfi-wx-lightning:before { content: "\ece1"; }
+.pfi-wx-lightningstorm:before { content: "\ece2"; }
+.pfi-wx-rain-mix:before { content: "\ece3"; }
+.pfi-wx-rain:before { content: "\ece4"; }
+.pfi-wx-sandstorm:before { content: "\ece5"; }
+.pfi-wx-showers:before { content: "\ece6"; }
+.pfi-wx-sleet:before { content: "\ece7"; }
+.pfi-wx-small-craft-warning:before { content: "\ece8"; }
+.pfi-wx-smog:before { content: "\ece9"; }
+.pfi-wx-smoke:before { content: "\ecea"; }
+.pfi-wx-snow-wind:before { content: "\eceb"; }
+.pfi-wx-snow:before { content: "\ecec"; }
+.pfi-wx-snowflake-cold:before { content: "\eced"; }
+.pfi-wx-solar-eclipse:before { content: "\ecee"; }
+.pfi-wx-sprinkle:before { content: "\ecef"; }
+.pfi-wx-storm-showers:before { content: "\ecf0"; }
+.pfi-wx-storm-warning:before { content: "\ecf1"; }
+.pfi-wx-strong-wind:before { content: "\ecf2"; }
+.pfi-wx-sunrise:before { content: "\ecf3"; }
+.pfi-wx-sunset:before { content: "\ecf4"; }
+.pfi-wx-thermometer-0:before { content: "\ecf5"; }
+.pfi-wx-thermometer-100:before { content: "\ecf6"; }
+.pfi-wx-thermometer-25:before { content: "\ecf7"; }
+.pfi-wx-thermometer-50:before { content: "\ecf8"; }
+.pfi-wx-thermometer-75:before { content: "\ecf9"; }
+.pfi-wx-thunderstorm:before { content: "\ecfa"; }
+.pfi-wx-tornado:before { content: "\ecfb"; }
+.pfi-wx-tsunami:before { content: "\ecfc"; }
+.pfi-wx-wind-beufort-0:before { content: "\ecfd"; }
+.pfi-wx-wind-beufort-1:before { content: "\ecfe"; }
+.pfi-wx-wind-beufort-10:before { content: "\ecff"; }
+.pfi-wx-wind-beufort-11:before { content: "\ed00"; }
+.pfi-wx-wind-beufort-12:before { content: "\ed01"; }
+.pfi-wx-wind-beufort-2:before { content: "\ed02"; }
+.pfi-wx-wind-beufort-3:before { content: "\ed03"; }
+.pfi-wx-wind-beufort-4:before { content: "\ed04"; }
+.pfi-wx-wind-beufort-5:before { content: "\ed05"; }
+.pfi-wx-wind-beufort-6:before { content: "\ed06"; }
+.pfi-wx-wind-beufort-7:before { content: "\ed07"; }
+.pfi-wx-wind-beufort-8:before { content: "\ed08"; }
+.pfi-wx-wind-beufort-9:before { content: "\ed09"; }
+.pfi-wx-wind-deg:before { content: "\ed0a"; }
+.pfi-wx-wind-rain:before { content: "\ed0b"; }
+.pfi-wx-windy:before { content: "\ed0c"; }
+.pfi-X:before { content: "\ed0d"; }
+.pfi-y-combinator:before { content: "\ed0e"; }
 
 $pfi-accountability: "\ea01";
 $pfi-address-book-alt: "\ea02";
@@ -723,656 +826,759 @@ $pfi-alert-triangle: "\ea18";
 $pfi-align-center: "\ea19";
 $pfi-align-left: "\ea1a";
 $pfi-align-right: "\ea1b";
-$pfi-android: "\ea1c";
-$pfi-apple: "\ea1d";
-$pfi-army-ag: "\ea1e";
-$pfi-army-air-defense-artillery: "\ea1f";
-$pfi-army-atrrs: "\ea20";
-$pfi-army-aviation: "\ea21";
-$pfi-army-chaplain: "\ea22";
-$pfi-army-dtms: "\ea23";
-$pfi-army-eo: "\ea24";
-$pfi-army-logo: "\ea25";
-$pfi-army-medical: "\ea26";
-$pfi-army-mi: "\ea27";
-$pfi-army-ngb-buddy-aid: "\ea28";
-$pfi-army-ngb-howie: "\ea29";
-$pfi-army-ngb: "\ea2a";
-$pfi-army-ordnance: "\ea2b";
-$pfi-army-public-affairs: "\ea2c";
-$pfi-army-rank-1sg: "\ea2d";
-$pfi-army-rank-bg: "\ea2e";
-$pfi-army-rank-col: "\ea2f";
-$pfi-army-rank-cpl: "\ea30";
-$pfi-army-rank-cpt: "\ea31";
-$pfi-army-rank-csm: "\ea32";
-$pfi-army-rank-cw2: "\ea33";
-$pfi-army-rank-cw3: "\ea34";
-$pfi-army-rank-cw4: "\ea35";
-$pfi-army-rank-cw5: "\ea36";
-$pfi-army-rank-gen: "\ea37";
-$pfi-army-rank-lt: "\ea38";
-$pfi-army-rank-ltc-maj: "\ea39";
-$pfi-army-rank-ltg: "\ea3a";
-$pfi-army-rank-mg: "\ea3b";
-$pfi-army-rank-msg: "\ea3c";
-$pfi-army-rank-pfc: "\ea3d";
-$pfi-army-rank-pvt: "\ea3e";
-$pfi-army-rank-sfc: "\ea3f";
-$pfi-army-rank-sgm: "\ea40";
-$pfi-army-rank-sgt: "\ea41";
-$pfi-army-rank-spc: "\ea42";
-$pfi-army-rank-ssg: "\ea43";
-$pfi-army-rank-w01: "\ea44";
-$pfi-army-sarc: "\ea45";
-$pfi-army-signal: "\ea46";
-$pfi-army-tradoc: "\ea47";
-$pfi-army: "\ea48";
-$pfi-arrow-down: "\ea49";
-$pfi-arrow-left: "\ea4a";
-$pfi-arrow-right: "\ea4b";
-$pfi-arrow-up: "\ea4c";
-$pfi-article: "\ea4d";
-$pfi-asterisk: "\ea4e";
-$pfi-audio-book: "\ea4f";
-$pfi-badge: "\ea50";
-$pfi-barcode: "\ea51";
-$pfi-battery-0: "\ea52";
-$pfi-battery-100: "\ea53";
-$pfi-battery-25: "\ea54";
-$pfi-battery-50: "\ea55";
-$pfi-battery-75: "\ea56";
-$pfi-bed: "\ea57";
-$pfi-bell-active: "\ea58";
-$pfi-bell: "\ea59";
-$pfi-billeting-mgmt: "\ea5a";
-$pfi-bluetooth: "\ea5b";
-$pfi-book-chapter: "\ea5c";
-$pfi-book-index: "\ea5d";
-$pfi-book-open-facing-away: "\ea5e";
-$pfi-book-open-facing-up: "\ea5f";
-$pfi-book-page: "\ea60";
-$pfi-book-table-of-contents: "\ea61";
-$pfi-book: "\ea62";
-$pfi-bookmark-empty: "\ea63";
-$pfi-bookmark-filled: "\ea64";
-$pfi-box-closed: "\ea65";
-$pfi-box-pack: "\ea66";
-$pfi-box-ship: "\ea67";
-$pfi-box-unpack: "\ea68";
-$pfi-box: "\ea69";
-$pfi-boxes: "\ea6a";
-$pfi-brain: "\ea6b";
-$pfi-breakout: "\ea6c";
-$pfi-bug: "\ea6d";
-$pfi-building: "\ea6e";
-$pfi-bullet-journal-appointment-canceled: "\ea6f";
-$pfi-bullet-journal-appointment-complete: "\ea70";
-$pfi-bullet-journal-appointment-migrated: "\ea71";
-$pfi-bullet-journal-appointment: "\ea72";
-$pfi-bullet-journal-event-canceled-2: "\ea73";
-$pfi-bullet-journal-event-canceled: "\ea74";
-$pfi-bullet-journal-event-complete: "\ea75";
-$pfi-bullet-journal-event-migrated: "\ea76";
-$pfi-bullet-journal-event-started: "\ea77";
-$pfi-bullet-journal-event: "\ea78";
-$pfi-bullet-journal-important-1: "\ea79";
-$pfi-bullet-journal-important-2: "\ea7a";
-$pfi-bullet-journal-important-done: "\ea7b";
-$pfi-bullet-journal-important: "\ea7c";
-$pfi-bullet-journal-migrate: "\ea7d";
-$pfi-bullet-journal-note: "\ea7e";
-$pfi-bullet-journal-question: "\ea7f";
-$pfi-bullet-journal-schedule-clock: "\ea80";
-$pfi-bullet-journal-schedule: "\ea81";
-$pfi-bullet-journal-task-canceled: "\ea82";
-$pfi-bullet-journal-task-complete: "\ea83";
-$pfi-bullet-journal-task-migrated: "\ea84";
-$pfi-bullet-journal-task-started: "\ea85";
-$pfi-bullet-journal-task: "\ea86";
-$pfi-bullet-list: "\ea87";
-$pfi-bullhorn: "\ea88";
-$pfi-bus: "\ea89";
-$pfi-calculator: "\ea8a";
-$pfi-calendar: "\ea8b";
-$pfi-camera-aperture: "\ea8c";
-$pfi-camera-video: "\ea8d";
-$pfi-camera: "\ea8e";
-$pfi-campus: "\ea8f";
-$pfi-cancel: "\ea90";
-$pfi-car: "\ea91";
-$pfi-cart: "\ea92";
-$pfi-certificate: "\ea93";
-$pfi-chart-bar-horizontal: "\ea94";
-$pfi-chart-bar: "\ea95";
-$pfi-chart-line: "\ea96";
-$pfi-chart-pie: "\ea97";
-$pfi-chart-venn-tri: "\ea98";
-$pfi-chart-venn: "\ea99";
-$pfi-check-circle: "\ea9a";
-$pfi-check: "\ea9b";
-$pfi-clipboard: "\ea9c";
-$pfi-clock: "\ea9d";
-$pfi-clone: "\ea9e";
-$pfi-code-file: "\ea9f";
-$pfi-comment-box: "\eaa0";
-$pfi-comment-left: "\eaa1";
-$pfi-comment-right: "\eaa2";
-$pfi-concord-menu: "\eaa3";
-$pfi-conferencing: "\eaa4";
-$pfi-course-catalog: "\eaa5";
-$pfi-course-mgmt: "\eaa6";
-$pfi-court-martial: "\eaa7";
-$pfi-covid: "\eaa8";
-$pfi-crop: "\eaa9";
-$pfi-cross: "\eaaa";
-$pfi-crosshairs: "\eaab";
-$pfi-cube-download: "\eaac";
-$pfi-cube-login: "\eaad";
-$pfi-cube-logout: "\eaae";
-$pfi-cube-share: "\eaaf";
-$pfi-cube-upload: "\eab0";
-$pfi-cyber: "\eab1";
-$pfi-cycle: "\eab2";
-$pfi-dashboard: "\eab3";
-$pfi-database: "\eab4";
-$pfi-debian: "\eab5";
-$pfi-diamond-empty: "\eab6";
-$pfi-diamond-filled: "\eab7";
-$pfi-disk: "\eab8";
-$pfi-dna: "\eab9";
-$pfi-document: "\eaba";
-$pfi-drafting-compass: "\eabb";
-$pfi-drinks: "\eabc";
-$pfi-drive: "\eabd";
-$pfi-drop: "\eabe";
-$pfi-email: "\eabf";
-$pfi-emoji-frown: "\eac0";
-$pfi-emoji-meh: "\eac1";
-$pfi-emoji-smile: "\eac2";
-$pfi-eraser: "\eac3";
-$pfi-event-registration: "\eac4";
-$pfi-event: "\eac5";
-$pfi-exclamation: "\eac6";
-$pfi-express-checkin: "\eac7";
-$pfi-eye-dropper: "\eac8";
-$pfi-eye: "\eac9";
-$pfi-faq: "\eaca";
-$pfi-feedback: "\eacb";
-$pfi-file: "\eacc";
-$pfi-film: "\eacd";
-$pfi-filter: "\eace";
-$pfi-fire-extinguisher: "\eacf";
-$pfi-fitness-calendar: "\ead0";
-$pfi-fitness-consult: "\ead1";
-$pfi-flag: "\ead2";
-$pfi-flame: "\ead3";
-$pfi-flask-meyers: "\ead4";
-$pfi-flask: "\ead5";
-$pfi-folder-closed: "\ead6";
-$pfi-folder-open: "\ead7";
-$pfi-form: "\ead8";
-$pfi-forum-mgmt: "\ead9";
-$pfi-forums: "\eada";
-$pfi-gear: "\eadb";
-$pfi-gears-2: "\eadc";
-$pfi-gears: "\eadd";
-$pfi-generic-app-1: "\eade";
-$pfi-generic-app-2: "\eadf";
-$pfi-generic-app-3: "\eae0";
-$pfi-git: "\eae1";
-$pfi-github: "\eae2";
-$pfi-graduation-cap: "\eae3";
-$pfi-grid: "\eae4";
-$pfi-gym: "\eae5";
-$pfi-hamburger: "\eae6";
-$pfi-headphones: "\eae7";
-$pfi-heart-beat: "\eae8";
-$pfi-heart: "\eae9";
-$pfi-helmet: "\eaea";
-$pfi-help: "\eaeb";
-$pfi-history: "\eaec";
-$pfi-home: "\eaed";
-$pfi-housekeeping: "\eaee";
-$pfi-human-performance: "\eaef";
-$pfi-i: "\eaf0";
-$pfi-iam-mgmt: "\eaf1";
-$pfi-icons: "\eaf2";
-$pfi-id-card: "\eaf3";
-$pfi-idea: "\eaf4";
-$pfi-image: "\eaf5";
-$pfi-inbox: "\eaf6";
-$pfi-info-circle: "\eaf7";
-$pfi-info: "\eaf8";
-$pfi-instance: "\eaf9";
-$pfi-instructor: "\eafa";
-$pfi-internet: "\eafb";
-$pfi-jolly-wrench: "\eafc";
-$pfi-knife: "\eafd";
-$pfi-knowledge-management: "\eafe";
-$pfi-laptop: "\eaff";
-$pfi-leadership: "\eb00";
-$pfi-leaf: "\eb01";
-$pfi-lessons-learned: "\eb02";
-$pfi-light-bulb-lit: "\eb03";
-$pfi-light-bulb: "\eb04";
-$pfi-link: "\eb05";
-$pfi-linux-dark: "\eb06";
-$pfi-linux: "\eb07";
-$pfi-little-dancing-man: "\eb08";
-$pfi-loading-0: "\eb09";
-$pfi-loading-10: "\eb0a";
-$pfi-loading-100: "\eb0b";
-$pfi-loading-20: "\eb0c";
-$pfi-loading-30: "\eb0d";
-$pfi-loading-40: "\eb0e";
-$pfi-loading-50: "\eb0f";
-$pfi-loading-60: "\eb10";
-$pfi-loading-70: "\eb11";
-$pfi-loading-80: "\eb12";
-$pfi-loading-90: "\eb13";
-$pfi-location: "\eb14";
-$pfi-lock-closed: "\eb15";
-$pfi-lock-open: "\eb16";
-$pfi-magnet: "\eb17";
-$pfi-magnify-zoom-in: "\eb18";
-$pfi-magnify-zoom-out: "\eb19";
-$pfi-magnify: "\eb1a";
-$pfi-management-2: "\eb1b";
-$pfi-management-3: "\eb1c";
-$pfi-management: "\eb1d";
-$pfi-map-trifold: "\eb1e";
-$pfi-map: "\eb1f";
-$pfi-math-divide: "\eb20";
-$pfi-math-equal: "\eb21";
-$pfi-math-greater-than: "\eb22";
-$pfi-math-less-than: "\eb23";
-$pfi-math-minus: "\eb24";
-$pfi-math-multiply: "\eb25";
-$pfi-math-percent: "\eb26";
-$pfi-math-plus: "\eb27";
-$pfi-math-square-root: "\eb28";
-$pfi-maximize: "\eb29";
-$pfi-meal: "\eb2a";
-$pfi-media-backward: "\eb2b";
-$pfi-media-forward: "\eb2c";
-$pfi-media-pause: "\eb2d";
-$pfi-media-play: "\eb2e";
-$pfi-media-skip-backward: "\eb2f";
-$pfi-media-skip-forward: "\eb30";
-$pfi-mgmt: "\eb31";
-$pfi-microphone-mute: "\eb32";
-$pfi-microphone: "\eb33";
-$pfi-microsoft: "\eb34";
-$pfi-minimize: "\eb35";
-$pfi-move: "\eb36";
-$pfi-ms-365: "\eb37";
-$pfi-ms-excel: "\eb38";
-$pfi-ms-one-drive: "\eb39";
-$pfi-ms-outlook: "\eb3a";
-$pfi-ms-powerpoint: "\eb3b";
-$pfi-ms-sharepoint: "\eb3c";
-$pfi-ms-teams: "\eb3d";
-$pfi-ms-word: "\eb3e";
-$pfi-mwr: "\eb3f";
-$pfi-na: "\eb40";
-$pfi-net-cable-modem: "\eb41";
-$pfi-net-firewall: "\eb42";
-$pfi-net-router: "\eb43";
-$pfi-net-switch: "\eb44";
-$pfi-net-wireless-access-point: "\eb45";
-$pfi-network-user-agreement: "\eb46";
-$pfi-noaa: "\eb47";
-$pfi-note-pad: "\eb48";
-$pfi-notes: "\eb49";
-$pfi-operations: "\eb4a";
-$pfi-organization: "\eb4b";
-$pfi-paperclip: "\eb4c";
-$pfi-parking-lot: "\eb4d";
-$pfi-pec-bn-ciab-ittc: "\eb4e";
-$pfi-pec-bn-rmtb-rmtc: "\eb4f";
-$pfi-pec-bn-sieb-iletc: "\eb50";
-$pfi-pec-bn-sldi-ortc: "\eb51";
-$pfi-pec-fsdb: "\eb52";
-$pfi-pec-logo: "\eb53";
-$pfi-pec-portal: "\eb54";
-$pfi-pec-qa: "\eb55";
-$pfi-pencil: "\eb56";
-$pfi-people-einstein: "\eb57";
-$pfi-people-feynman: "\eb58";
-$pfi-phone-roster: "\eb59";
-$pfi-phone: "\eb5a";
-$pfi-physics-alt: "\eb5b";
-$pfi-physics: "\eb5c";
-$pfi-pill-solid: "\eb5d";
-$pfi-pill-tab-left: "\eb5e";
-$pfi-pill-tab-right: "\eb5f";
-$pfi-pin: "\eb60";
-$pfi-pizza: "\eb61";
-$pfi-plug: "\eb62";
-$pfi-poc-workspace: "\eb63";
-$pfi-podcast: "\eb64";
-$pfi-podium-manned-book: "\eb65";
-$pfi-podium-manned: "\eb66";
-$pfi-podium: "\eb67";
-$pfi-pointer-hand-grab: "\eb68";
-$pfi-pointer-hand: "\eb69";
-$pfi-pointer-mouse: "\eb6a";
-$pfi-power: "\eb6b";
-$pfi-printer: "\eb6c";
-$pfi-process-bpmn-end: "\eb6d";
-$pfi-process-bpmn-event-alt: "\eb6e";
-$pfi-process-bpmn-event: "\eb6f";
-$pfi-process-bpmn-start: "\eb70";
-$pfi-process-bpmn-task: "\eb71";
-$pfi-process-bpmn-transaction: "\eb72";
-$pfi-process-data-flow-data-store-alt-1: "\eb73";
-$pfi-process-data-flow-data-store-alt-2: "\eb74";
-$pfi-process-data-flow-data-store: "\eb75";
-$pfi-process-data-flow-external-entity: "\eb76";
-$pfi-process-data-flow-process-circle: "\eb77";
-$pfi-process-data-flow-process-square: "\eb78";
-$pfi-process-erd: "\eb79";
-$pfi-process-flow-arrow: "\eb7a";
-$pfi-process-flow-comment: "\eb7b";
-$pfi-process-flow-connector: "\eb7c";
-$pfi-process-flow-data: "\eb7d";
-$pfi-process-flow-database: "\eb7e";
-$pfi-process-flow-decision: "\eb7f";
-$pfi-process-flow-delay: "\eb80";
-$pfi-process-flow-display: "\eb81";
-$pfi-process-flow-document: "\eb82";
-$pfi-process-flow-documents: "\eb83";
-$pfi-process-flow-hard-disk: "\eb84";
-$pfi-process-flow-internal-storage: "\eb85";
-$pfi-process-flow-manual-input: "\eb86";
-$pfi-process-flow-manual-operation: "\eb87";
-$pfi-process-flow-merge: "\eb88";
-$pfi-process-flow-note: "\eb89";
-$pfi-process-flow-off-page-link: "\eb8a";
-$pfi-process-flow-or: "\eb8b";
-$pfi-process-flow-paper-tape: "\eb8c";
-$pfi-process-flow-predefined-process: "\eb8d";
-$pfi-process-flow-preperation: "\eb8e";
-$pfi-process-flow-process: "\eb8f";
-$pfi-process-flow-stored-data: "\eb90";
-$pfi-process-flow-summing-junction: "\eb91";
-$pfi-process-flow-terminator: "\eb92";
-$pfi-process-uml-attribute: "\eb93";
-$pfi-process-uml-branch-merge: "\eb94";
-$pfi-process-uml-component: "\eb95";
-$pfi-process-uml-end: "\eb96";
-$pfi-process-uml-entity: "\eb97";
-$pfi-process-uml-multivalued-attribute: "\eb98";
-$pfi-process-uml-note: "\eb99";
-$pfi-process-uml-receive-signal: "\eb9a";
-$pfi-process-uml-relationship: "\eb9b";
-$pfi-process-uml-send-signal: "\eb9c";
-$pfi-process-uml-start: "\eb9d";
-$pfi-process-uml-weak-entity: "\eb9e";
-$pfi-process-uml-weak-relationship: "\eb9f";
-$pfi-profile-circle: "\eba0";
-$pfi-profile: "\eba1";
-$pfi-project-cycle: "\eba2";
-$pfi-project-mgmt: "\eba3";
-$pfi-project: "\eba4";
-$pfi-projector-screen: "\eba5";
-$pfi-property-book: "\eba6";
-$pfi-pulse-circle: "\eba7";
-$pfi-pulse: "\eba8";
-$pfi-puzzle-piece: "\eba9";
-$pfi-qr-code: "\ebaa";
-$pfi-question-circle: "\ebab";
-$pfi-question: "\ebac";
-$pfi-radiation-1: "\ebad";
-$pfi-radiation: "\ebae";
-$pfi-redo: "\ebaf";
-$pfi-refresh: "\ebb0";
-$pfi-registration-desk: "\ebb1";
-$pfi-religion-akan: "\ebb2";
-$pfi-religion-bahai: "\ebb3";
-$pfi-religion-buddhism: "\ebb4";
-$pfi-religion-celtic-neopaganism: "\ebb5";
-$pfi-religion-chinese-folk-religion: "\ebb6";
-$pfi-religion-christianity: "\ebb7";
-$pfi-religion-hellenism: "\ebb8";
-$pfi-religion-hinduism: "\ebb9";
-$pfi-religion-isese: "\ebba";
-$pfi-religion-islam: "\ebbb";
-$pfi-religion-jainism: "\ebbc";
-$pfi-religion-jewitchery: "\ebbd";
-$pfi-religion-judaism: "\ebbe";
-$pfi-religion-kemetism: "\ebbf";
-$pfi-religion-lds: "\ebc0";
-$pfi-religion-mexicayotl: "\ebc1";
-$pfi-religion-natib-qadish: "\ebc2";
-$pfi-religion-native-american-church: "\ebc3";
-$pfi-religion-neo-pagan: "\ebc4";
-$pfi-religion-norse: "\ebc5";
-$pfi-religion-satanism: "\ebc6";
-$pfi-religion-serer: "\ebc7";
-$pfi-religion-shinto: "\ebc8";
-$pfi-religion-sikhism: "\ebc9";
-$pfi-religion-slavic-native-faith: "\ebca";
-$pfi-religion-taoism-2: "\ebcb";
-$pfi-religion-taoism: "\ebcc";
-$pfi-religion-thelema: "\ebcd";
-$pfi-religion-unitarian-universalism: "\ebce";
-$pfi-religion-wicca: "\ebcf";
-$pfi-religion-zoroastrianism: "\ebd0";
-$pfi-reports: "\ebd1";
-$pfi-ribbon: "\ebd2";
-$pfi-road-cone: "\ebd3";
-$pfi-rocket: "\ebd4";
-$pfi-rooster: "\ebd5";
-$pfi-rss: "\ebd6";
-$pfi-ruck: "\ebd7";
-$pfi-scale: "\ebd8";
-$pfi-scissors: "\ebd9";
-$pfi-scroll-filled: "\ebda";
-$pfi-scroll: "\ebdb";
-$pfi-server: "\ebdc";
-$pfi-shape-circle-empty: "\ebdd";
-$pfi-shape-circle-filled: "\ebde";
-$pfi-shape-oval-empty: "\ebdf";
-$pfi-shape-oval-filled: "\ebe0";
-$pfi-shape-parallelogram-solid: "\ebe1";
-$pfi-shape-rectangle-empty: "\ebe2";
-$pfi-shape-rectangle-filled: "\ebe3";
-$pfi-shape-square-outline: "\ebe4";
-$pfi-shape-square: "\ebe5";
-$pfi-shape-triangle-down-empty: "\ebe6";
-$pfi-shape-triangle-down-solid: "\ebe7";
-$pfi-shape-triangle-left-empty: "\ebe8";
-$pfi-shape-triangle-left-solid: "\ebe9";
-$pfi-shape-triangle-right-empty: "\ebea";
-$pfi-shape-triangle-right-solid: "\ebeb";
-$pfi-shape-triangle-up-empty: "\ebec";
-$pfi-shape-triangle-up-solid: "\ebed";
-$pfi-share: "\ebee";
-$pfi-shield: "\ebef";
-$pfi-sights: "\ebf0";
-$pfi-signal: "\ebf1";
-$pfi-signature: "\ebf2";
-$pfi-social-facebook: "\ebf3";
-$pfi-social-instagram: "\ebf4";
-$pfi-social-linkedin: "\ebf5";
-$pfi-social-reddit: "\ebf6";
-$pfi-social-serverfault: "\ebf7";
-$pfi-social-stackoverflow: "\ebf8";
-$pfi-social-tiktok: "\ebf9";
-$pfi-social-tumbler: "\ebfa";
-$pfi-social-twitter: "\ebfb";
-$pfi-social-youtube: "\ebfc";
-$pfi-sop: "\ebfd";
-$pfi-speaker-off: "\ebfe";
-$pfi-speaker-on: "\ebff";
-$pfi-spinner-0: "\ec00";
-$pfi-spinner-1: "\ec01";
-$pfi-spinner-2: "\ec02";
-$pfi-spinner-3: "\ec03";
-$pfi-spinner-4: "\ec04";
-$pfi-spinner-5: "\ec05";
-$pfi-spinner-6: "\ec06";
-$pfi-spinner-7: "\ec07";
-$pfi-sport-baseball: "\ec08";
-$pfi-sport-basketball: "\ec09";
-$pfi-sport-football: "\ec0a";
-$pfi-sport-golf-ball: "\ec0b";
-$pfi-sport-tennis-ball: "\ec0c";
-$pfi-sport-volleyball: "\ec0d";
-$pfi-stamp: "\ec0e";
-$pfi-star-empty: "\ec0f";
-$pfi-star-filled: "\ec10";
-$pfi-star-half: "\ec11";
-$pfi-state-ak: "\ec12";
-$pfi-state-al: "\ec13";
-$pfi-state-ar: "\ec14";
-$pfi-state-az: "\ec15";
-$pfi-state-ca: "\ec16";
-$pfi-state-co: "\ec17";
-$pfi-state-ct: "\ec18";
-$pfi-state-dc: "\ec19";
-$pfi-state-de: "\ec1a";
-$pfi-state-fl: "\ec1b";
-$pfi-state-ga: "\ec1c";
-$pfi-state-hi: "\ec1d";
-$pfi-state-ia: "\ec1e";
-$pfi-state-id: "\ec1f";
-$pfi-state-il: "\ec20";
-$pfi-state-in: "\ec21";
-$pfi-state-ks: "\ec22";
-$pfi-state-ky: "\ec23";
-$pfi-state-la: "\ec24";
-$pfi-state-ma: "\ec25";
-$pfi-state-md: "\ec26";
-$pfi-state-me: "\ec27";
-$pfi-state-mi: "\ec28";
-$pfi-state-mn: "\ec29";
-$pfi-state-mo: "\ec2a";
-$pfi-state-ms: "\ec2b";
-$pfi-state-mt: "\ec2c";
-$pfi-state-nc: "\ec2d";
-$pfi-state-nd: "\ec2e";
-$pfi-state-ne: "\ec2f";
-$pfi-state-nh: "\ec30";
-$pfi-state-nj: "\ec31";
-$pfi-state-nm: "\ec32";
-$pfi-state-nv: "\ec33";
-$pfi-state-ny: "\ec34";
-$pfi-state-oh: "\ec35";
-$pfi-state-ok: "\ec36";
-$pfi-state-or: "\ec37";
-$pfi-state-pa: "\ec38";
-$pfi-state-pr: "\ec39";
-$pfi-state-ri: "\ec3a";
-$pfi-state-sc: "\ec3b";
-$pfi-state-sd: "\ec3c";
-$pfi-state-tn: "\ec3d";
-$pfi-state-tx: "\ec3e";
-$pfi-state-ut: "\ec3f";
-$pfi-state-va: "\ec40";
-$pfi-state-vt: "\ec41";
-$pfi-state-wa: "\ec42";
-$pfi-state-wi: "\ec43";
-$pfi-state-wv: "\ec44";
-$pfi-state-wy: "\ec45";
-$pfi-sticky-note: "\ec46";
-$pfi-stop-light: "\ec47";
-$pfi-stop-sign: "\ec48";
-$pfi-strategy: "\ec49";
-$pfi-support: "\ec4a";
-$pfi-survey: "\ec4b";
-$pfi-svn-tortoise: "\ec4c";
-$pfi-sw-rebel-alliance: "\ec4d";
-$pfi-sw-republic: "\ec4e";
-$pfi-tag: "\ec4f";
-$pfi-tags: "\ec50";
-$pfi-target: "\ec51";
-$pfi-task-assign: "\ec52";
-$pfi-task-mgmt: "\ec53";
-$pfi-task: "\ec54";
-$pfi-terminal: "\ec55";
-$pfi-testing: "\ec56";
-$pfi-thumb-down-empty: "\ec57";
-$pfi-thumb-down-filled: "\ec58";
-$pfi-thumb-up-empty: "\ec59";
-$pfi-thumb-up-filled: "\ec5a";
-$pfi-thumbtack: "\ec5b";
-$pfi-timeline: "\ec5c";
-$pfi-torch: "\ec5d";
-$pfi-training-mgmt: "\ec5e";
-$pfi-trash: "\ec5f";
-$pfi-trogdor: "\ec60";
-$pfi-trophy: "\ec61";
-$pfi-ubuntu: "\ec62";
-$pfi-undo: "\ec63";
-$pfi-usage-stats: "\ec64";
-$pfi-usb: "\ec65";
-$pfi-vmware: "\ec66";
-$pfi-welcome-letter: "\ec67";
-$pfi-wifi: "\ec68";
-$pfi-wiki: "\ec69";
-$pfi-wikimedia: "\ec6a";
-$pfi-windoz: "\ec6b";
-$pfi-world-globe: "\ec6c";
-$pfi-wrench: "\ec6d";
-$pfi-wx-cloud: "\ec6e";
-$pfi-wx-cloudy-gusts: "\ec6f";
-$pfi-wx-cloudy-windy: "\ec70";
-$pfi-wx-cloudy: "\ec71";
-$pfi-wx-dust: "\ec72";
-$pfi-wx-fire: "\ec73";
-$pfi-wx-fog: "\ec74";
-$pfi-wx-gale-warning: "\ec75";
-$pfi-wx-hail: "\ec76";
-$pfi-wx-hot: "\ec77";
-$pfi-wx-humidity: "\ec78";
-$pfi-wx-hurricane-warning: "\ec79";
-$pfi-wx-hurricane: "\ec7a";
-$pfi-wx-lightning: "\ec7b";
-$pfi-wx-lightningstorm: "\ec7c";
-$pfi-wx-rain-mix: "\ec7d";
-$pfi-wx-rain: "\ec7e";
-$pfi-wx-sandstorm: "\ec7f";
-$pfi-wx-showers: "\ec80";
-$pfi-wx-sleet: "\ec81";
-$pfi-wx-small-craft-warning: "\ec82";
-$pfi-wx-smog: "\ec83";
-$pfi-wx-smoke: "\ec84";
-$pfi-wx-snow-wind: "\ec85";
-$pfi-wx-snow: "\ec86";
-$pfi-wx-snowflake-cold: "\ec87";
-$pfi-wx-solar-eclipse: "\ec88";
-$pfi-wx-sprinkle: "\ec89";
-$pfi-wx-storm-showers: "\ec8a";
-$pfi-wx-storm-warning: "\ec8b";
-$pfi-wx-strong-wind: "\ec8c";
-$pfi-wx-sunrise: "\ec8d";
-$pfi-wx-sunset: "\ec8e";
-$pfi-wx-thermometer-0: "\ec8f";
-$pfi-wx-thermometer-100: "\ec90";
-$pfi-wx-thermometer-25: "\ec91";
-$pfi-wx-thermometer-50: "\ec92";
-$pfi-wx-thermometer-75: "\ec93";
-$pfi-wx-thunderstorm: "\ec94";
-$pfi-wx-tornado: "\ec95";
-$pfi-wx-tsunami: "\ec96";
-$pfi-wx-wind-beufort-0: "\ec97";
-$pfi-wx-wind-beufort-1: "\ec98";
-$pfi-wx-wind-beufort-10: "\ec99";
-$pfi-wx-wind-beufort-11: "\ec9a";
-$pfi-wx-wind-beufort-12: "\ec9b";
-$pfi-wx-wind-beufort-2: "\ec9c";
-$pfi-wx-wind-beufort-3: "\ec9d";
-$pfi-wx-wind-beufort-4: "\ec9e";
-$pfi-wx-wind-beufort-5: "\ec9f";
-$pfi-wx-wind-beufort-6: "\eca0";
-$pfi-wx-wind-beufort-7: "\eca1";
-$pfi-wx-wind-beufort-8: "\eca2";
-$pfi-wx-wind-beufort-9: "\eca3";
-$pfi-wx-wind-deg: "\eca4";
-$pfi-wx-wind-rain: "\eca5";
-$pfi-wx-windy: "\eca6";
-$pfi-X: "\eca7";
+$pfi-amd-alt: "\ea1c";
+$pfi-amd: "\ea1d";
+$pfi-andrew-bunnie-huang: "\ea1e";
+$pfi-android: "\ea1f";
+$pfi-apache-cordova: "\ea20";
+$pfi-apache-server-feather: "\ea21";
+$pfi-app-store-alt-1: "\ea22";
+$pfi-app-store-alt-2: "\ea23";
+$pfi-app-store-alt-3: "\ea24";
+$pfi-app-store-google-play: "\ea25";
+$pfi-app-store-ios: "\ea26";
+$pfi-app-store: "\ea27";
+$pfi-apple: "\ea28";
+$pfi-archaeology: "\ea29";
+$pfi-arduino-alt: "\ea2a";
+$pfi-arduino: "\ea2b";
+$pfi-army-ag: "\ea2c";
+$pfi-army-air-defense-artillery: "\ea2d";
+$pfi-army-atrrs: "\ea2e";
+$pfi-army-aviation: "\ea2f";
+$pfi-army-chaplain: "\ea30";
+$pfi-army-dtms: "\ea31";
+$pfi-army-eo: "\ea32";
+$pfi-army-logo: "\ea33";
+$pfi-army-medical: "\ea34";
+$pfi-army-mi: "\ea35";
+$pfi-army-ngb-buddy-aid: "\ea36";
+$pfi-army-ngb-howie: "\ea37";
+$pfi-army-ngb: "\ea38";
+$pfi-army-ordnance: "\ea39";
+$pfi-army-public-affairs: "\ea3a";
+$pfi-army-rank-1sg: "\ea3b";
+$pfi-army-rank-bg: "\ea3c";
+$pfi-army-rank-col: "\ea3d";
+$pfi-army-rank-cpl: "\ea3e";
+$pfi-army-rank-cpt: "\ea3f";
+$pfi-army-rank-csm: "\ea40";
+$pfi-army-rank-cw2: "\ea41";
+$pfi-army-rank-cw3: "\ea42";
+$pfi-army-rank-cw4: "\ea43";
+$pfi-army-rank-cw5: "\ea44";
+$pfi-army-rank-gen: "\ea45";
+$pfi-army-rank-lt: "\ea46";
+$pfi-army-rank-ltc-maj: "\ea47";
+$pfi-army-rank-ltg: "\ea48";
+$pfi-army-rank-mg: "\ea49";
+$pfi-army-rank-msg: "\ea4a";
+$pfi-army-rank-pfc: "\ea4b";
+$pfi-army-rank-pvt: "\ea4c";
+$pfi-army-rank-sfc: "\ea4d";
+$pfi-army-rank-sgm: "\ea4e";
+$pfi-army-rank-sgt: "\ea4f";
+$pfi-army-rank-spc: "\ea50";
+$pfi-army-rank-ssg: "\ea51";
+$pfi-army-rank-w01: "\ea52";
+$pfi-army-sarc: "\ea53";
+$pfi-army-signal: "\ea54";
+$pfi-army-tradoc: "\ea55";
+$pfi-army: "\ea56";
+$pfi-arrow-down: "\ea57";
+$pfi-arrow-left: "\ea58";
+$pfi-arrow-right: "\ea59";
+$pfi-arrow-up: "\ea5a";
+$pfi-article: "\ea5b";
+$pfi-asterisk: "\ea5c";
+$pfi-atari: "\ea5d";
+$pfi-audio-book: "\ea5e";
+$pfi-badge: "\ea5f";
+$pfi-barcode: "\ea60";
+$pfi-battery-0: "\ea61";
+$pfi-battery-100: "\ea62";
+$pfi-battery-25: "\ea63";
+$pfi-battery-50: "\ea64";
+$pfi-battery-75: "\ea65";
+$pfi-bed: "\ea66";
+$pfi-bell-active: "\ea67";
+$pfi-bell: "\ea68";
+$pfi-billeting-mgmt: "\ea69";
+$pfi-bluetooth: "\ea6a";
+$pfi-book-chapter: "\ea6b";
+$pfi-book-index: "\ea6c";
+$pfi-book-open-facing-away: "\ea6d";
+$pfi-book-open-facing-up: "\ea6e";
+$pfi-book-page: "\ea6f";
+$pfi-book-table-of-contents: "\ea70";
+$pfi-book: "\ea71";
+$pfi-bookmark-empty: "\ea72";
+$pfi-bookmark-filled: "\ea73";
+$pfi-bookshelf-1: "\ea74";
+$pfi-bookshelf-2: "\ea75";
+$pfi-bootstrap: "\ea76";
+$pfi-bow-tie: "\ea77";
+$pfi-bow: "\ea78";
+$pfi-box-closed: "\ea79";
+$pfi-box-pack: "\ea7a";
+$pfi-box-ship: "\ea7b";
+$pfi-box-unpack: "\ea7c";
+$pfi-box: "\ea7d";
+$pfi-boxes: "\ea7e";
+$pfi-brain: "\ea7f";
+$pfi-breakout: "\ea80";
+$pfi-bug: "\ea81";
+$pfi-building: "\ea82";
+$pfi-bullet-journal-appointment-canceled: "\ea83";
+$pfi-bullet-journal-appointment-complete: "\ea84";
+$pfi-bullet-journal-appointment-migrated: "\ea85";
+$pfi-bullet-journal-appointment: "\ea86";
+$pfi-bullet-journal-event-canceled-2: "\ea87";
+$pfi-bullet-journal-event-canceled: "\ea88";
+$pfi-bullet-journal-event-complete: "\ea89";
+$pfi-bullet-journal-event-migrated: "\ea8a";
+$pfi-bullet-journal-event-started: "\ea8b";
+$pfi-bullet-journal-event: "\ea8c";
+$pfi-bullet-journal-important-1: "\ea8d";
+$pfi-bullet-journal-important-2: "\ea8e";
+$pfi-bullet-journal-important-done: "\ea8f";
+$pfi-bullet-journal-important: "\ea90";
+$pfi-bullet-journal-migrate: "\ea91";
+$pfi-bullet-journal-note: "\ea92";
+$pfi-bullet-journal-question: "\ea93";
+$pfi-bullet-journal-schedule-clock: "\ea94";
+$pfi-bullet-journal-schedule: "\ea95";
+$pfi-bullet-journal-task-canceled: "\ea96";
+$pfi-bullet-journal-task-complete: "\ea97";
+$pfi-bullet-journal-task-migrated: "\ea98";
+$pfi-bullet-journal-task-started: "\ea99";
+$pfi-bullet-journal-task: "\ea9a";
+$pfi-bullet-list: "\ea9b";
+$pfi-bullhorn: "\ea9c";
+$pfi-bus: "\ea9d";
+$pfi-calculator: "\ea9e";
+$pfi-calendar: "\ea9f";
+$pfi-camera-aperture: "\eaa0";
+$pfi-camera-video: "\eaa1";
+$pfi-camera: "\eaa2";
+$pfi-campus: "\eaa3";
+$pfi-cancel: "\eaa4";
+$pfi-car: "\eaa5";
+$pfi-cart: "\eaa6";
+$pfi-certificate: "\eaa7";
+$pfi-chart-bar-horizontal: "\eaa8";
+$pfi-chart-bar: "\eaa9";
+$pfi-chart-line: "\eaaa";
+$pfi-chart-pie: "\eaab";
+$pfi-chart-venn-tri: "\eaac";
+$pfi-chart-venn: "\eaad";
+$pfi-check-circle: "\eaae";
+$pfi-check: "\eaaf";
+$pfi-clipboard: "\eab0";
+$pfi-clock: "\eab1";
+$pfi-clone: "\eab2";
+$pfi-code-file: "\eab3";
+$pfi-comment-box: "\eab4";
+$pfi-comment-left: "\eab5";
+$pfi-comment-right: "\eab6";
+$pfi-commodore-64: "\eab7";
+$pfi-commodore: "\eab8";
+$pfi-concord-menu: "\eab9";
+$pfi-conferencing: "\eaba";
+$pfi-course-catalog: "\eabb";
+$pfi-course-mgmt: "\eabc";
+$pfi-court-martial: "\eabd";
+$pfi-covid: "\eabe";
+$pfi-crop: "\eabf";
+$pfi-cross: "\eac0";
+$pfi-crosshairs: "\eac1";
+$pfi-cube-download: "\eac2";
+$pfi-cube-login: "\eac3";
+$pfi-cube-logout: "\eac4";
+$pfi-cube-share: "\eac5";
+$pfi-cube-upload: "\eac6";
+$pfi-cyber: "\eac7";
+$pfi-cycle: "\eac8";
+$pfi-dashboard: "\eac9";
+$pfi-database: "\eaca";
+$pfi-debian: "\eacb";
+$pfi-diamond-empty: "\eacc";
+$pfi-diamond-filled: "\eacd";
+$pfi-disk: "\eace";
+$pfi-dna: "\eacf";
+$pfi-docker: "\ead0";
+$pfi-document: "\ead1";
+$pfi-drafting-compass: "\ead2";
+$pfi-drinks: "\ead3";
+$pfi-drive: "\ead4";
+$pfi-drop: "\ead5";
+$pfi-duckduckgo: "\ead6";
+$pfi-elastic: "\ead7";
+$pfi-email: "\ead8";
+$pfi-emoji-frown: "\ead9";
+$pfi-emoji-meh: "\eada";
+$pfi-emoji-smile: "\eadb";
+$pfi-eraser: "\eadc";
+$pfi-event-registration: "\eadd";
+$pfi-event: "\eade";
+$pfi-exclamation: "\eadf";
+$pfi-express-checkin: "\eae0";
+$pfi-extension-1: "\eae1";
+$pfi-extension-2: "\eae2";
+$pfi-extension-3: "\eae3";
+$pfi-eye-dropper: "\eae4";
+$pfi-eye: "\eae5";
+$pfi-f-droid: "\eae6";
+$pfi-faq: "\eae7";
+$pfi-fedora: "\eae8";
+$pfi-feedback: "\eae9";
+$pfi-file: "\eaea";
+$pfi-film: "\eaeb";
+$pfi-filter: "\eaec";
+$pfi-fire-extinguisher: "\eaed";
+$pfi-fitness-calendar: "\eaee";
+$pfi-fitness-consult: "\eaef";
+$pfi-flag: "\eaf0";
+$pfi-flame: "\eaf1";
+$pfi-flame2: "\eaf2";
+$pfi-flask-meyers: "\eaf3";
+$pfi-flask: "\eaf4";
+$pfi-folder-closed: "\eaf5";
+$pfi-folder-open: "\eaf6";
+$pfi-footnote-arabic: "\eaf7";
+$pfi-form: "\eaf8";
+$pfi-forum-mgmt: "\eaf9";
+$pfi-forums: "\eafa";
+$pfi-gear: "\eafb";
+$pfi-gears-2: "\eafc";
+$pfi-gears: "\eafd";
+$pfi-generic-app-1: "\eafe";
+$pfi-generic-app-2: "\eaff";
+$pfi-generic-app-3: "\eb00";
+$pfi-generic-app-4: "\eb01";
+$pfi-git: "\eb02";
+$pfi-github: "\eb03";
+$pfi-google: "\eb04";
+$pfi-graduation-cap: "\eb05";
+$pfi-grammer: "\eb06";
+$pfi-grid: "\eb07";
+$pfi-guitar-pick: "\eb08";
+$pfi-gym: "\eb09";
+$pfi-hacker-news: "\eb0a";
+$pfi-hamburger: "\eb0b";
+$pfi-headphones: "\eb0c";
+$pfi-heart-beat: "\eb0d";
+$pfi-heart: "\eb0e";
+$pfi-helmet: "\eb0f";
+$pfi-help: "\eb10";
+$pfi-hex-hive-1: "\eb11";
+$pfi-hex-hive-2: "\eb12";
+$pfi-hex-hive-3: "\eb13";
+$pfi-hex-hive-4: "\eb14";
+$pfi-hex-hive-5: "\eb15";
+$pfi-hex-hive-6: "\eb16";
+$pfi-highlight: "\eb17";
+$pfi-history: "\eb18";
+$pfi-home: "\eb19";
+$pfi-housekeeping: "\eb1a";
+$pfi-human-performance: "\eb1b";
+$pfi-humble-bundle-1: "\eb1c";
+$pfi-humble-bundle-2: "\eb1d";
+$pfi-humble-bundle-3: "\eb1e";
+$pfi-humble-bundle-4: "\eb1f";
+$pfi-i: "\eb20";
+$pfi-iam-mgmt: "\eb21";
+$pfi-ibm: "\eb22";
+$pfi-icons: "\eb23";
+$pfi-id-card: "\eb24";
+$pfi-idea: "\eb25";
+$pfi-image: "\eb26";
+$pfi-inbox: "\eb27";
+$pfi-info-circle: "\eb28";
+$pfi-info: "\eb29";
+$pfi-instance: "\eb2a";
+$pfi-instructables: "\eb2b";
+$pfi-instructor: "\eb2c";
+$pfi-intel-logo: "\eb2d";
+$pfi-internet: "\eb2e";
+$pfi-jolly-wrench: "\eb2f";
+$pfi-knife: "\eb30";
+$pfi-knowledge-management: "\eb31";
+$pfi-laptop: "\eb32";
+$pfi-leadership: "\eb33";
+$pfi-leaf: "\eb34";
+$pfi-lessons-learned: "\eb35";
+$pfi-library: "\eb36";
+$pfi-light-bulb-lit: "\eb37";
+$pfi-light-bulb: "\eb38";
+$pfi-link: "\eb39";
+$pfi-linux-dark: "\eb3a";
+$pfi-linux: "\eb3b";
+$pfi-little-dancing-man: "\eb3c";
+$pfi-loading-0: "\eb3d";
+$pfi-loading-10: "\eb3e";
+$pfi-loading-100: "\eb3f";
+$pfi-loading-20: "\eb40";
+$pfi-loading-30: "\eb41";
+$pfi-loading-40: "\eb42";
+$pfi-loading-50: "\eb43";
+$pfi-loading-60: "\eb44";
+$pfi-loading-70: "\eb45";
+$pfi-loading-80: "\eb46";
+$pfi-loading-90: "\eb47";
+$pfi-location: "\eb48";
+$pfi-lock-closed: "\eb49";
+$pfi-lock-open: "\eb4a";
+$pfi-magnet: "\eb4b";
+$pfi-magnify-zoom-in: "\eb4c";
+$pfi-magnify-zoom-out: "\eb4d";
+$pfi-magnify: "\eb4e";
+$pfi-make: "\eb4f";
+$pfi-management-2: "\eb50";
+$pfi-management-3: "\eb51";
+$pfi-management: "\eb52";
+$pfi-map-trifold: "\eb53";
+$pfi-map: "\eb54";
+$pfi-math-divide: "\eb55";
+$pfi-math-equal: "\eb56";
+$pfi-math-greater-than: "\eb57";
+$pfi-math-less-than: "\eb58";
+$pfi-math-minus: "\eb59";
+$pfi-math-multiply: "\eb5a";
+$pfi-math-percent: "\eb5b";
+$pfi-math-plus: "\eb5c";
+$pfi-math-square-root: "\eb5d";
+$pfi-maximize: "\eb5e";
+$pfi-meal: "\eb5f";
+$pfi-media-backward: "\eb60";
+$pfi-media-forward: "\eb61";
+$pfi-media-pause: "\eb62";
+$pfi-media-play: "\eb63";
+$pfi-media-skip-backward: "\eb64";
+$pfi-media-skip-forward: "\eb65";
+$pfi-mem-מ: "\eb66";
+$pfi-mgmt: "\eb67";
+$pfi-microphone-mute: "\eb68";
+$pfi-microphone: "\eb69";
+$pfi-microsoft: "\eb6a";
+$pfi-minimize: "\eb6b";
+$pfi-mit: "\eb6c";
+$pfi-mongodb: "\eb6d";
+$pfi-move: "\eb6e";
+$pfi-ms-365: "\eb6f";
+$pfi-ms-excel: "\eb70";
+$pfi-ms-one-drive: "\eb71";
+$pfi-ms-outlook: "\eb72";
+$pfi-ms-powerpoint: "\eb73";
+$pfi-ms-sharepoint: "\eb74";
+$pfi-ms-teams: "\eb75";
+$pfi-ms-word: "\eb76";
+$pfi-musical-note-bass-clef: "\eb77";
+$pfi-musical-note-beamed-eighth: "\eb78";
+$pfi-musical-note-eighth: "\eb79";
+$pfi-musical-note-flat: "\eb7a";
+$pfi-musical-note-half: "\eb7b";
+$pfi-musical-note-quarter: "\eb7c";
+$pfi-musical-note-sharp: "\eb7d";
+$pfi-musical-note-treble-clef: "\eb7e";
+$pfi-musical-note-whole: "\eb7f";
+$pfi-mwr: "\eb80";
+$pfi-na: "\eb81";
+$pfi-net-cable-modem: "\eb82";
+$pfi-net-firewall: "\eb83";
+$pfi-net-router: "\eb84";
+$pfi-net-switch: "\eb85";
+$pfi-net-wireless-access-point: "\eb86";
+$pfi-network-user-agreement: "\eb87";
+$pfi-nginx: "\eb88";
+$pfi-noaa: "\eb89";
+$pfi-nodejs-alt: "\eb8a";
+$pfi-nodejs: "\eb8b";
+$pfi-note-pad: "\eb8c";
+$pfi-notes: "\eb8d";
+$pfi-npm: "\eb8e";
+$pfi-openai: "\eb8f";
+$pfi-operations: "\eb90";
+$pfi-organization: "\eb91";
+$pfi-paleography: "\eb92";
+$pfi-paperclip: "\eb93";
+$pfi-parking-lot: "\eb94";
+$pfi-pec-bn-ciab-ittc: "\eb95";
+$pfi-pec-bn-rmtb-rmtc: "\eb96";
+$pfi-pec-bn-sieb-iletc: "\eb97";
+$pfi-pec-bn-sldi-ortc: "\eb98";
+$pfi-pec-fsdb: "\eb99";
+$pfi-pec-logo: "\eb9a";
+$pfi-pec-portal: "\eb9b";
+$pfi-pec-qa: "\eb9c";
+$pfi-pencil: "\eb9d";
+$pfi-people-einstein: "\eb9e";
+$pfi-people-feynman: "\eb9f";
+$pfi-pepper-chili: "\eba0";
+$pfi-pepper-jalapeno: "\eba1";
+$pfi-phone-roster: "\eba2";
+$pfi-phone: "\eba3";
+$pfi-physics-alt: "\eba4";
+$pfi-physics: "\eba5";
+$pfi-pick-axe: "\eba6";
+$pfi-pill-solid: "\eba7";
+$pfi-pill-tab-left: "\eba8";
+$pfi-pill-tab-right: "\eba9";
+$pfi-pin: "\ebaa";
+$pfi-pizza: "\ebab";
+$pfi-plug: "\ebac";
+$pfi-poc-workspace: "\ebad";
+$pfi-podcast: "\ebae";
+$pfi-podium-manned-book: "\ebaf";
+$pfi-podium-manned: "\ebb0";
+$pfi-podium: "\ebb1";
+$pfi-pointer-hand-grab: "\ebb2";
+$pfi-pointer-hand: "\ebb3";
+$pfi-pointer-mouse: "\ebb4";
+$pfi-power: "\ebb5";
+$pfi-printer: "\ebb6";
+$pfi-process-bpmn-end: "\ebb7";
+$pfi-process-bpmn-event-alt: "\ebb8";
+$pfi-process-bpmn-event: "\ebb9";
+$pfi-process-bpmn-start: "\ebba";
+$pfi-process-bpmn-task: "\ebbb";
+$pfi-process-bpmn-transaction: "\ebbc";
+$pfi-process-data-flow-data-store-alt-1: "\ebbd";
+$pfi-process-data-flow-data-store-alt-2: "\ebbe";
+$pfi-process-data-flow-data-store: "\ebbf";
+$pfi-process-data-flow-external-entity: "\ebc0";
+$pfi-process-data-flow-process-circle: "\ebc1";
+$pfi-process-data-flow-process-square: "\ebc2";
+$pfi-process-erd: "\ebc3";
+$pfi-process-flow-arrow: "\ebc4";
+$pfi-process-flow-comment: "\ebc5";
+$pfi-process-flow-connector: "\ebc6";
+$pfi-process-flow-data: "\ebc7";
+$pfi-process-flow-database: "\ebc8";
+$pfi-process-flow-decision: "\ebc9";
+$pfi-process-flow-delay: "\ebca";
+$pfi-process-flow-display: "\ebcb";
+$pfi-process-flow-document: "\ebcc";
+$pfi-process-flow-documents: "\ebcd";
+$pfi-process-flow-hard-disk: "\ebce";
+$pfi-process-flow-internal-storage: "\ebcf";
+$pfi-process-flow-manual-input: "\ebd0";
+$pfi-process-flow-manual-operation: "\ebd1";
+$pfi-process-flow-merge: "\ebd2";
+$pfi-process-flow-note: "\ebd3";
+$pfi-process-flow-off-page-link: "\ebd4";
+$pfi-process-flow-or: "\ebd5";
+$pfi-process-flow-paper-tape: "\ebd6";
+$pfi-process-flow-predefined-process: "\ebd7";
+$pfi-process-flow-preperation: "\ebd8";
+$pfi-process-flow-process: "\ebd9";
+$pfi-process-flow-stored-data: "\ebda";
+$pfi-process-flow-summing-junction: "\ebdb";
+$pfi-process-flow-terminator: "\ebdc";
+$pfi-process-uml-attribute: "\ebdd";
+$pfi-process-uml-branch-merge: "\ebde";
+$pfi-process-uml-component: "\ebdf";
+$pfi-process-uml-end: "\ebe0";
+$pfi-process-uml-entity: "\ebe1";
+$pfi-process-uml-multivalued-attribute: "\ebe2";
+$pfi-process-uml-note: "\ebe3";
+$pfi-process-uml-receive-signal: "\ebe4";
+$pfi-process-uml-relationship: "\ebe5";
+$pfi-process-uml-send-signal: "\ebe6";
+$pfi-process-uml-start: "\ebe7";
+$pfi-process-uml-weak-entity: "\ebe8";
+$pfi-process-uml-weak-relationship: "\ebe9";
+$pfi-profile-circle: "\ebea";
+$pfi-profile: "\ebeb";
+$pfi-programming-c-plus-plus: "\ebec";
+$pfi-programming-c-sharp: "\ebed";
+$pfi-programming-go: "\ebee";
+$pfi-programming-javascript: "\ebef";
+$pfi-programming-php: "\ebf0";
+$pfi-programming-python: "\ebf1";
+$pfi-project-cycle: "\ebf2";
+$pfi-project-mgmt: "\ebf3";
+$pfi-project: "\ebf4";
+$pfi-projector-screen: "\ebf5";
+$pfi-property-book: "\ebf6";
+$pfi-pulse-circle: "\ebf7";
+$pfi-pulse: "\ebf8";
+$pfi-puzzle-piece: "\ebf9";
+$pfi-qr-code-pec: "\ebfa";
+$pfi-qr-code: "\ebfb";
+$pfi-question-circle: "\ebfc";
+$pfi-question: "\ebfd";
+$pfi-radiation-1: "\ebfe";
+$pfi-radiation: "\ebff";
+$pfi-raspberry-pi: "\ec00";
+$pfi-red-hat: "\ec01";
+$pfi-redo: "\ec02";
+$pfi-refresh: "\ec03";
+$pfi-registration-desk: "\ec04";
+$pfi-religion-akan: "\ec05";
+$pfi-religion-bahai: "\ec06";
+$pfi-religion-buddhism: "\ec07";
+$pfi-religion-celtic-neopaganism: "\ec08";
+$pfi-religion-chinese-folk-religion: "\ec09";
+$pfi-religion-christianity: "\ec0a";
+$pfi-religion-hellenism: "\ec0b";
+$pfi-religion-hinduism: "\ec0c";
+$pfi-religion-isese: "\ec0d";
+$pfi-religion-islam: "\ec0e";
+$pfi-religion-jainism: "\ec0f";
+$pfi-religion-jewitchery: "\ec10";
+$pfi-religion-judaism: "\ec11";
+$pfi-religion-kemetism: "\ec12";
+$pfi-religion-lds: "\ec13";
+$pfi-religion-mexicayotl: "\ec14";
+$pfi-religion-natib-qadish: "\ec15";
+$pfi-religion-native-american-church: "\ec16";
+$pfi-religion-neo-pagan: "\ec17";
+$pfi-religion-norse: "\ec18";
+$pfi-religion-satanism: "\ec19";
+$pfi-religion-serer: "\ec1a";
+$pfi-religion-shinto: "\ec1b";
+$pfi-religion-sikhism: "\ec1c";
+$pfi-religion-slavic-native-faith: "\ec1d";
+$pfi-religion-taoism-2: "\ec1e";
+$pfi-religion-taoism: "\ec1f";
+$pfi-religion-thelema: "\ec20";
+$pfi-religion-unitarian-universalism: "\ec21";
+$pfi-religion-wicca: "\ec22";
+$pfi-religion-zoroastrianism: "\ec23";
+$pfi-reports: "\ec24";
+$pfi-retro-logo-badge-1: "\ec25";
+$pfi-retro-logo-badge-2: "\ec26";
+$pfi-retro-logo-badge-3: "\ec27";
+$pfi-retro-logo-badge-4: "\ec28";
+$pfi-retro-logo-circle-1: "\ec29";
+$pfi-retro-logo-ribbon-1: "\ec2a";
+$pfi-retro-logo-ribbon-2: "\ec2b";
+$pfi-retro-logo-ribbon-3: "\ec2c";
+$pfi-retro-logo-ribbon-ends: "\ec2d";
+$pfi-ribbon: "\ec2e";
+$pfi-road-cone: "\ec2f";
+$pfi-rocket: "\ec30";
+$pfi-rooster: "\ec31";
+$pfi-rss: "\ec32";
+$pfi-ruck: "\ec33";
+$pfi-sauce: "\ec34";
+$pfi-scale: "\ec35";
+$pfi-scissors: "\ec36";
+$pfi-scroll-filled-alt: "\ec37";
+$pfi-scroll-filled: "\ec38";
+$pfi-scroll-horizontal: "\ec39";
+$pfi-scroll-vertical: "\ec3a";
+$pfi-scroll: "\ec3b";
+$pfi-server: "\ec3c";
+$pfi-shape-circle-empty: "\ec3d";
+$pfi-shape-circle-filled: "\ec3e";
+$pfi-shape-oval-empty: "\ec3f";
+$pfi-shape-oval-filled: "\ec40";
+$pfi-shape-parallelogram-solid: "\ec41";
+$pfi-shape-rectangle-empty: "\ec42";
+$pfi-shape-rectangle-filled: "\ec43";
+$pfi-shape-square-outline: "\ec44";
+$pfi-shape-square: "\ec45";
+$pfi-shape-triangle-down-empty: "\ec46";
+$pfi-shape-triangle-down-solid: "\ec47";
+$pfi-shape-triangle-left-empty: "\ec48";
+$pfi-shape-triangle-left-solid: "\ec49";
+$pfi-shape-triangle-right-empty: "\ec4a";
+$pfi-shape-triangle-right-solid: "\ec4b";
+$pfi-shape-triangle-up-empty: "\ec4c";
+$pfi-shape-triangle-up-solid: "\ec4d";
+$pfi-share: "\ec4e";
+$pfi-shield: "\ec4f";
+$pfi-shopping-cart: "\ec50";
+$pfi-shovel: "\ec51";
+$pfi-sights: "\ec52";
+$pfi-signal: "\ec53";
+$pfi-signature: "\ec54";
+$pfi-social-facebook: "\ec55";
+$pfi-social-instagram: "\ec56";
+$pfi-social-linkedin: "\ec57";
+$pfi-social-reddit: "\ec58";
+$pfi-social-serverfault: "\ec59";
+$pfi-social-stackoverflow: "\ec5a";
+$pfi-social-tiktok: "\ec5b";
+$pfi-social-tumbler: "\ec5c";
+$pfi-social-twitter: "\ec5d";
+$pfi-social-youtube: "\ec5e";
+$pfi-sop: "\ec5f";
+$pfi-speaker-off: "\ec60";
+$pfi-speaker-on: "\ec61";
+$pfi-spinner-0: "\ec62";
+$pfi-spinner-1: "\ec63";
+$pfi-spinner-2: "\ec64";
+$pfi-spinner-3: "\ec65";
+$pfi-spinner-4: "\ec66";
+$pfi-spinner-5: "\ec67";
+$pfi-spinner-6: "\ec68";
+$pfi-spinner-7: "\ec69";
+$pfi-sport-baseball: "\ec6a";
+$pfi-sport-basketball: "\ec6b";
+$pfi-sport-football: "\ec6c";
+$pfi-sport-golf-ball: "\ec6d";
+$pfi-sport-tennis-ball: "\ec6e";
+$pfi-sport-volleyball: "\ec6f";
+$pfi-squirrel: "\ec70";
+$pfi-stamp: "\ec71";
+$pfi-star-empty: "\ec72";
+$pfi-star-filled: "\ec73";
+$pfi-star-half: "\ec74";
+$pfi-state-ak: "\ec75";
+$pfi-state-al: "\ec76";
+$pfi-state-ar: "\ec77";
+$pfi-state-az: "\ec78";
+$pfi-state-ca: "\ec79";
+$pfi-state-co: "\ec7a";
+$pfi-state-ct: "\ec7b";
+$pfi-state-dc: "\ec7c";
+$pfi-state-de: "\ec7d";
+$pfi-state-fl: "\ec7e";
+$pfi-state-ga: "\ec7f";
+$pfi-state-hi: "\ec80";
+$pfi-state-ia: "\ec81";
+$pfi-state-id: "\ec82";
+$pfi-state-il: "\ec83";
+$pfi-state-in: "\ec84";
+$pfi-state-ks: "\ec85";
+$pfi-state-ky: "\ec86";
+$pfi-state-la: "\ec87";
+$pfi-state-ma: "\ec88";
+$pfi-state-md: "\ec89";
+$pfi-state-me: "\ec8a";
+$pfi-state-mi: "\ec8b";
+$pfi-state-mn: "\ec8c";
+$pfi-state-mo: "\ec8d";
+$pfi-state-ms: "\ec8e";
+$pfi-state-mt: "\ec8f";
+$pfi-state-nc: "\ec90";
+$pfi-state-nd: "\ec91";
+$pfi-state-ne: "\ec92";
+$pfi-state-nh: "\ec93";
+$pfi-state-nj: "\ec94";
+$pfi-state-nm: "\ec95";
+$pfi-state-nv: "\ec96";
+$pfi-state-ny: "\ec97";
+$pfi-state-oh: "\ec98";
+$pfi-state-ok: "\ec99";
+$pfi-state-or: "\ec9a";
+$pfi-state-pa: "\ec9b";
+$pfi-state-pr: "\ec9c";
+$pfi-state-ri: "\ec9d";
+$pfi-state-sc: "\ec9e";
+$pfi-state-sd: "\ec9f";
+$pfi-state-tn: "\eca0";
+$pfi-state-tx: "\eca1";
+$pfi-state-ut: "\eca2";
+$pfi-state-va: "\eca3";
+$pfi-state-vt: "\eca4";
+$pfi-state-wa: "\eca5";
+$pfi-state-wi: "\eca6";
+$pfi-state-wv: "\eca7";
+$pfi-state-wy: "\eca8";
+$pfi-sticky-note: "\eca9";
+$pfi-stop-light: "\ecaa";
+$pfi-stop-sign: "\ecab";
+$pfi-strategy: "\ecac";
+$pfi-support: "\ecad";
+$pfi-survey: "\ecae";
+$pfi-svn-tortoise: "\ecaf";
+$pfi-sw-rebel-alliance: "\ecb0";
+$pfi-sw-republic: "\ecb1";
+$pfi-tag: "\ecb2";
+$pfi-tags: "\ecb3";
+$pfi-target: "\ecb4";
+$pfi-task-assign: "\ecb5";
+$pfi-task-mgmt: "\ecb6";
+$pfi-task: "\ecb7";
+$pfi-terminal: "\ecb8";
+$pfi-testing: "\ecb9";
+$pfi-thumb-down-empty: "\ecba";
+$pfi-thumb-down-filled: "\ecbb";
+$pfi-thumb-up-empty: "\ecbc";
+$pfi-thumb-up-filled: "\ecbd";
+$pfi-thumbtack: "\ecbe";
+$pfi-tie: "\ecbf";
+$pfi-timeline: "\ecc0";
+$pfi-torch: "\ecc1";
+$pfi-training-mgmt: "\ecc2";
+$pfi-trash: "\ecc3";
+$pfi-trogdor: "\ecc4";
+$pfi-trophy: "\ecc5";
+$pfi-ubuntu: "\ecc6";
+$pfi-undo: "\ecc7";
+$pfi-usage-stats: "\ecc8";
+$pfi-usb: "\ecc9";
+$pfi-vmware: "\ecca";
+$pfi-webpack: "\eccb";
+$pfi-welcome-letter: "\eccc";
+$pfi-wifi: "\eccd";
+$pfi-wiki: "\ecce";
+$pfi-wikimedia: "\eccf";
+$pfi-windoz: "\ecd0";
+$pfi-wordpress: "\ecd1";
+$pfi-world-globe: "\ecd2";
+$pfi-wrench: "\ecd3";
+$pfi-wx-cloud: "\ecd4";
+$pfi-wx-cloudy-gusts: "\ecd5";
+$pfi-wx-cloudy-windy: "\ecd6";
+$pfi-wx-cloudy: "\ecd7";
+$pfi-wx-dust: "\ecd8";
+$pfi-wx-fire: "\ecd9";
+$pfi-wx-fog: "\ecda";
+$pfi-wx-gale-warning: "\ecdb";
+$pfi-wx-hail: "\ecdc";
+$pfi-wx-hot: "\ecdd";
+$pfi-wx-humidity: "\ecde";
+$pfi-wx-hurricane-warning: "\ecdf";
+$pfi-wx-hurricane: "\ece0";
+$pfi-wx-lightning: "\ece1";
+$pfi-wx-lightningstorm: "\ece2";
+$pfi-wx-rain-mix: "\ece3";
+$pfi-wx-rain: "\ece4";
+$pfi-wx-sandstorm: "\ece5";
+$pfi-wx-showers: "\ece6";
+$pfi-wx-sleet: "\ece7";
+$pfi-wx-small-craft-warning: "\ece8";
+$pfi-wx-smog: "\ece9";
+$pfi-wx-smoke: "\ecea";
+$pfi-wx-snow-wind: "\eceb";
+$pfi-wx-snow: "\ecec";
+$pfi-wx-snowflake-cold: "\eced";
+$pfi-wx-solar-eclipse: "\ecee";
+$pfi-wx-sprinkle: "\ecef";
+$pfi-wx-storm-showers: "\ecf0";
+$pfi-wx-storm-warning: "\ecf1";
+$pfi-wx-strong-wind: "\ecf2";
+$pfi-wx-sunrise: "\ecf3";
+$pfi-wx-sunset: "\ecf4";
+$pfi-wx-thermometer-0: "\ecf5";
+$pfi-wx-thermometer-100: "\ecf6";
+$pfi-wx-thermometer-25: "\ecf7";
+$pfi-wx-thermometer-50: "\ecf8";
+$pfi-wx-thermometer-75: "\ecf9";
+$pfi-wx-thunderstorm: "\ecfa";
+$pfi-wx-tornado: "\ecfb";
+$pfi-wx-tsunami: "\ecfc";
+$pfi-wx-wind-beufort-0: "\ecfd";
+$pfi-wx-wind-beufort-1: "\ecfe";
+$pfi-wx-wind-beufort-10: "\ecff";
+$pfi-wx-wind-beufort-11: "\ed00";
+$pfi-wx-wind-beufort-12: "\ed01";
+$pfi-wx-wind-beufort-2: "\ed02";
+$pfi-wx-wind-beufort-3: "\ed03";
+$pfi-wx-wind-beufort-4: "\ed04";
+$pfi-wx-wind-beufort-5: "\ed05";
+$pfi-wx-wind-beufort-6: "\ed06";
+$pfi-wx-wind-beufort-7: "\ed07";
+$pfi-wx-wind-beufort-8: "\ed08";
+$pfi-wx-wind-beufort-9: "\ed09";
+$pfi-wx-wind-deg: "\ed0a";
+$pfi-wx-wind-rain: "\ed0b";
+$pfi-wx-windy: "\ed0c";
+$pfi-X: "\ed0d";
+$pfi-y-combinator: "\ed0e";
 
