@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="283.465px" height="283.465px" viewBox="0 0 283.465 283.465" enable-background="new 0 0 283.465 283.465"
-	 xml:space="preserve">
-<g>
-	<rect x="18.795" y="18.795" width="117.084" height="117.084"/>
-	<rect x="147.588" y="18.795" width="117.082" height="117.084"/>
-	<rect x="18.795" y="147.586" width="117.084" height="117.084"/>
-	<rect x="147.588" y="147.586" width="117.082" height="117.084"/>
-</g>
+<svg version="1.1" id="Layer_1" xmlns:v="https://vecta.io/nano"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="283.465px"
+	 height="283.465px" viewBox="0 0 283.465 283.465" enable-background="new 0 0 283.465 283.465" xml:space="preserve">
+<path d="M7.502,45.213l109.711-14.939l0.05,105.823L7.604,136.722L7.502,45.213z M117.161,148.292l0.085,105.915L7.587,239.132
+	L7.581,147.58L117.161,148.292z M130.46,28.316l145.47-21.23v127.665l-145.47,1.155V28.316z M275.963,149.286l-0.033,127.093
+	l-145.47-20.533l-0.203-106.798L275.963,149.286z"/>
 </svg>
