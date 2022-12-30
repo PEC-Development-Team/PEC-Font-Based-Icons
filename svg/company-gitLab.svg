@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="283.46px" height="283.46px" viewBox="0 0 283.46 283.46" enable-background="new 0 0 283.46 283.46" xml:space="preserve">
+<g>
+	<polygon points="92.183,113.144 141.722,265.747 191.332,113.144 	"/>
+	<path d="M7.588,159.506c-1.367,4.21,0.109,8.857,3.717,11.479l130.411,94.755L22.696,113.144L7.588,159.506z"/>
+	<path d="M62.278,21.241c-1.531-4.703-8.202-4.703-9.787,0l-29.795,91.903h69.487L62.278,21.241z"/>
+	<path d="M275.873,159.506l-15.054-46.362L141.722,265.747l130.433-94.761C275.763,168.364,277.24,163.716,275.873,159.506z"/>
+	<path d="M230.969,21.241c-1.586-4.703-8.256-4.703-9.787,0l-29.851,91.903h69.487L230.969,21.241z"/>
+</g>
+<g id="spacing_guides" transform="translate(-123.97696, -123.92475)" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" display="none">
+	<path id="path40_32_" sketch:type="MSShapeGroup" display="inline" opacity="0.1" fill="#E828E3" enable-background="new    " d="
+		M89.16,187.815v34.545h353.249v-34.545H89.16L89.16,187.815z"/>
+	<path id="path40_31_" sketch:type="MSShapeGroup" display="inline" opacity="0.1" fill="#E828E3" enable-background="new    " d="
+		M89.16,309v34.545h353.249V309H89.16L89.16,309z"/>
+	<path id="path40_30_" sketch:type="MSShapeGroup" display="inline" opacity="0.1" fill="#E828E3" enable-background="new    " d="
+		M162.342,308.875h17.272v-86.362h-17.272V308.875L162.342,308.875z"/>
+	<path id="path40_29_" sketch:type="MSShapeGroup" display="inline" opacity="0.1" fill="#E828E3" enable-background="new    " d="
+		M218.202,343.825h17.272V187.537h-17.272V343.825L218.202,343.825z"/>
+	<text transform="matrix(1 0 0 1 160.8275 242.1401)" display="inline" font-family="'ArialMT'" font-size="6.6861">H: 2.5 x</text>
+	<text transform="matrix(1 0 0 1 219.9491 266.6088)" display="inline" font-family="'ArialMT'" font-size="6.6861">1/2 x</text>
+	<text transform="matrix(1 0 0 1 262.5219 327.2475)" display="inline" font-family="'ArialMT'" font-size="6.6861">1x</text>
+	<text transform="matrix(1 0 0 1 262.5219 206.062)" display="inline" font-family="'ArialMT'" font-size="6.6861">1x</text>
+	<path id="path40_27_" sketch:type="MSShapeGroup" display="inline" opacity="0.1" fill="#E828E3" enable-background="new    " d="
+		M89.438,343.825h34.545V187.537H89.438V343.825L89.438,343.825z"/>
+	<text transform="matrix(1 0 0 1 103.727 266.6088)" display="inline" font-family="'ArialMT'" font-size="6.6861">1x</text>
+	<path id="path40_3_" sketch:type="MSShapeGroup" display="inline" opacity="0.1" fill="#E828E3" enable-background="new    " d="
+		M407.586,343.825h34.544V187.537h-34.544V343.825L407.586,343.825z"/>
+	<text transform="matrix(1 0 0 1 421.3173 266.6088)" display="inline" font-family="'ArialMT'" font-size="6.6861">1x</text>
+</g>
+</svg>
