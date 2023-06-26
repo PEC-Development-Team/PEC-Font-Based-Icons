@@ -43,7 +43,6 @@ uses https://github.com/MrRedBeard/svgtofont
    - Changed style location in index.js
    - Copy styles folder from svgtofont node package to root of project
    - Modified styles and removed support for un-needed browsers
-   - npm install --save @uiw/react-github-corners
    - JavaScript, CSS & Fonts will be in fonts folder
    - See index.html example in fonts folder usage
    - node index.js

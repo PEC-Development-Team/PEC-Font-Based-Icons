@@ -5,7 +5,7 @@
     "map-obj": "^5.0.1",
     "source-map-resolve": "^0.6.0",
     "source-map-url": "^0.4.1",
-    "svgtofont": "github:MrRedBeard/svgtofont"
+    "svgtofont": "https://github.com/Kitchen-JS/svgtofont"
   },
   "name": "pec-icons",
   "description": "Icons for PEC Applications",

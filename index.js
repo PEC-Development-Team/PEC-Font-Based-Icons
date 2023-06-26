@@ -1,13 +1,18 @@
+const fs = require('fs');
 const svgtofont = require('svgtofont');
 const path = require('path');
 const grunt = require('grunt');
 
 const pkg = grunt.file.readJSON('package.json')
 
+// https://github.com/Kitchen-JS/svgtofont
+// https://github.com/Kitchen-JS/svgtofont-test
+
 svgtofont({
   src: path.resolve(process.cwd(), "svg"), // svg path
   dist: path.resolve(process.cwd(), "fonts"), // output path
-  styleTemplates: path.resolve(process.cwd(), "styles"), // file templates path (optional)
+  //styleTemplates: null, 
+  styleTemplates: path.resolve(process.cwd(), "node_modules/svgtofont/lib/styles"), // file templates path (optional)
   fontName: "pfi", // font name
   css: true, // Create CSS files.
   startUnicode: 0xea01, // unicode start number
@@ -15,7 +20,7 @@ svgtofont({
     fontHeight: 1000,
     normalize: true
   },
-  // website = null, no demo html files
+  //website: null
   website: {
     title: "PEC Font Icons",
     // Must be a .svg format image.
@@ -36,17 +41,10 @@ svgtofont({
       {
         title: "Font Class",
         url: "index.html"
-      },
-      {
-        title: "Unicode",
-        url: "unicode.html"
-      },
-      {
-        title: "Symbol Class",
-        url: "symbol.html"
       }
     ]
   }
-}).then(() => {
+}).then(() => 
+{
   console.log('Done!');
 });;
