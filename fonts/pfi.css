@@ -1,22 +1,24 @@
 @font-face {
   font-family: "pfi";
-  src: url("../fonts/pfi.woff2?t=1687710934568") format("woff2"),
-  url("../fonts/pfi.woff?t=1687710934568") format("woff"),
-  url('../fonts/pfi.ttf?t=1687710934568') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('../fonts/pfi.svg?t=1687710934568#pfi') format('svg'); /* iOS 4.1- */
+  src: url('pfi.eot?t=1687795320149'); /* IE9*/
+  src: url('pfi.eot?t=1687795320149#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("pfi.woff2?t=1687795320149") format("woff2"),
+  url("pfi.woff?t=1687795320149") format("woff"),
+  url('pfi.ttf?t=1687795320149') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('pfi.svg?t=1687795320149#pfi') format('svg'); /* iOS 4.1- */
 }
 
-[class^="pfi-"], [class*=" pfi-"] {
+[class^="pfi"], [class^="pfi-"], [class*=" pfi-"] {
   font-family: 'pfi' !important;
-  /*font-size:16px;*/
-  font-size:5rem;
+  font-size:16px;
   font-style:normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  line-height: 100%;
-  vertical-align: middle;
 }
 
+i[class^="pfi"], i[class^="pfi-"], i[class*=" pfi-"] {
+  line-height: 100%;
+}
 
 .pfi-88:before { content: "\ea04"; }
 .pfi-360:before { content: "\ea01"; }
