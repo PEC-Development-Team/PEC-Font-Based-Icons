@@ -1,11 +1,11 @@
 @font-face {
   font-family: "pfi";
-  src: url('pfi.eot?t=1692756914974'); /* IE9*/
-  src: url('pfi.eot?t=1692756914974#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("pfi.woff2?t=1692756914974") format("woff2"),
-  url("pfi.woff?t=1692756914974") format("woff"),
-  url('pfi.ttf?t=1692756914974') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('pfi.svg?t=1692756914974#pfi') format('svg'); /* iOS 4.1- */
+  src: url('pfi.eot?t=1692821756357'); /* IE9*/
+  src: url('pfi.eot?t=1692821756357#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("pfi.woff2?t=1692821756357") format("woff2"),
+  url("pfi.woff?t=1692821756357") format("woff"),
+  url('pfi.ttf?t=1692821756357') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('pfi.svg?t=1692821756357#pfi') format('svg'); /* iOS 4.1- */
 }
 
 [class^="pfi"], [class^="pfi-"], [class*=" pfi-"] {

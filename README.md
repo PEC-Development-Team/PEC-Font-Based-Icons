@@ -1,4 +1,4 @@
-# PFI - Font Based Icons
+# PFI - Font Based Icons - SVG produced Font Based Icon Set
 These icons were built for and by the National Guard Professional Education Center development team but are made freely available to anyone who wants to use them. We welcome contributions and feedback.
 
 ## Credits
@@ -19,7 +19,6 @@ Go to the fonts folder in the repo or in the root of the release version. Exampl
    
    <i class="pfi-badge"></i>
 ```
-
 
 
 ## License

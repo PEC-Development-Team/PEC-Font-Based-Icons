@@ -1,7 +1,7 @@
 {
   "name": "pfi",
-  "version": "1.2.0",
-  "description": "SVG to Font Based Icons",
+  "version": "2.5.0",
+  "description": "SVG produced Font Based Icon Set",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
