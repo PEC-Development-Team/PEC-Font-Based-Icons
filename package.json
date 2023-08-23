@@ -1,32 +1,26 @@
 {
-  "dependencies": {
-    "@uiw/react-github-corners": "^1.5.3",
-    "grunt": "^1.4.1",
-    "map-obj": "^5.0.1",
-    "source-map-resolve": "^0.6.0",
-    "source-map-url": "^0.4.1",
-    "svgtofont": "https://github.com/Kitchen-JS/svgtofont"
-  },
-  "name": "pec-icons",
-  "description": "Icons for PEC Applications",
-  "version": "1.0.0",
+  "name": "pfi",
+  "version": "1.2.0",
+  "description": "SVG to Font Based Icons",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PEC-Developement-Team/PEC-Icons.git"
+    "url": "git+https://github.com/PEC-Development-Team/PEC-Font-Based-Icons.git"
   },
-  "keywords": [
-    "font",
-    "icons",
-    "svg"
-  ],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PEC-Developement-Team/PEC-Icons/issues"
+    "url": "https://github.com/PEC-Development-Team/PEC-Font-Based-Icons"
   },
-  "homepage": "https://github.com/PEC-Developement-Team/PEC-Icons#readme"
+  "homepage": "https://github.com/PEC-Development-Team/PEC-Font-Based-Icons",
+  "dependencies": {
+    "grunt": "^1.4.1",
+    "map-obj": "^5.0.2",
+    "source-map-resolve": "^0.6.0",
+    "source-map-url": "^0.4.1",
+    "svgtofont": "github:Kitchen-JS/svgtofont"
+  }
 }

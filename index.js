@@ -32,7 +32,7 @@ svgtofont({
     },
     description: ``,
     corners: {
-      url: 'https://github.com/PEC-Developement-Team/PEC-Icons',
+      url: 'https://github.com/PEC-Development-Team/PEC-Icons',
       width: 60, // default: 60
       height: 60, // default: 60
       bgColor: '#dc3545' // default: '#151513'
