@@ -6,7 +6,6 @@ const grunt = require('grunt');
 const pkg = grunt.file.readJSON('package.json')
 
 // https://github.com/Kitchen-JS/svgtofont
-// https://github.com/Kitchen-JS/svgtofont-test
 
 svgtofont({
   src: path.resolve(process.cwd(), "svg"), // svg path
@@ -30,13 +29,7 @@ svgtofont({
       description: "Converts SVG fonts to TTF/EOT/WOFF/WOFF2/SVG format.",
       keywords: "svgtofont,TTF,EOT,WOFF,WOFF2,SVG"
     },
-    description: ``,
-    corners: {
-      url: 'https://github.com/PEC-Development-Team/PEC-Icons',
-      width: 60, // default: 60
-      height: 60, // default: 60
-      bgColor: '#dc3545' // default: '#151513'
-    },
+    description: `SVG produced Font Based Icon Set`,
     links: [
       {
         title: "Font Class",
