@@ -1,11 +1,11 @@
 @font-face {
   font-family: "pfi";
-  src: url('pfi.eot?t=1692986984215'); /* IE9*/
-  src: url('pfi.eot?t=1692986984215#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("pfi.woff2?t=1692986984215") format("woff2"),
-  url("pfi.woff?t=1692986984215") format("woff"),
-  url('pfi.ttf?t=1692986984215') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('pfi.svg?t=1692986984215#pfi') format('svg'); /* iOS 4.1- */
+  src: url('pfi.eot?t=1693008598831'); /* IE9*/
+  src: url('pfi.eot?t=1693008598831#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("pfi.woff2?t=1693008598831") format("woff2"),
+  url("pfi.woff?t=1693008598831") format("woff"),
+  url('pfi.ttf?t=1693008598831') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('pfi.svg?t=1693008598831#pfi') format('svg'); /* iOS 4.1- */
 }
 
 [class^="pfi"], [class^="pfi-"], [class*=" pfi-"] {
@@ -1148,68 +1148,69 @@ i[class^="pfi"], i[class^="pfi-"], i[class*=" pfi-"] {
 .pfi-wifi-router:before { content: "\ee66"; }
 .pfi-wifi:before { content: "\ee67"; }
 .pfi-window-close:before { content: "\ee68"; }
-.pfi-window-maximize:before { content: "\ee69"; }
-.pfi-window-minimize-alt:before { content: "\ee6a"; }
-.pfi-window-minimize:before { content: "\ee6b"; }
-.pfi-window-restore-alt:before { content: "\ee6c"; }
-.pfi-window-restore:before { content: "\ee6d"; }
-.pfi-world-globe-alt-1:before { content: "\ee6e"; }
-.pfi-world-globe-alt-2:before { content: "\ee6f"; }
-.pfi-world-globe:before { content: "\ee70"; }
-.pfi-wx-cloud:before { content: "\ee71"; }
-.pfi-wx-cloudy-gusts:before { content: "\ee72"; }
-.pfi-wx-cloudy-windy:before { content: "\ee73"; }
-.pfi-wx-cloudy:before { content: "\ee74"; }
-.pfi-wx-dust:before { content: "\ee75"; }
-.pfi-wx-fire:before { content: "\ee76"; }
-.pfi-wx-fog:before { content: "\ee77"; }
-.pfi-wx-gale-warning:before { content: "\ee78"; }
-.pfi-wx-hail:before { content: "\ee79"; }
-.pfi-wx-hot:before { content: "\ee7a"; }
-.pfi-wx-humidity:before { content: "\ee7b"; }
-.pfi-wx-hurricane-warning:before { content: "\ee7c"; }
-.pfi-wx-hurricane:before { content: "\ee7d"; }
-.pfi-wx-lightning:before { content: "\ee7e"; }
-.pfi-wx-lightningstorm:before { content: "\ee7f"; }
-.pfi-wx-rain-mix:before { content: "\ee80"; }
-.pfi-wx-rain:before { content: "\ee81"; }
-.pfi-wx-sandstorm:before { content: "\ee82"; }
-.pfi-wx-showers:before { content: "\ee83"; }
-.pfi-wx-sleet:before { content: "\ee84"; }
-.pfi-wx-small-craft-warning:before { content: "\ee85"; }
-.pfi-wx-smog:before { content: "\ee86"; }
-.pfi-wx-smoke:before { content: "\ee87"; }
-.pfi-wx-snow-wind:before { content: "\ee88"; }
-.pfi-wx-snow:before { content: "\ee89"; }
-.pfi-wx-snowflake-cold:before { content: "\ee8a"; }
-.pfi-wx-solar-eclipse:before { content: "\ee8b"; }
-.pfi-wx-sprinkle:before { content: "\ee8c"; }
-.pfi-wx-storm-showers:before { content: "\ee8d"; }
-.pfi-wx-storm-warning:before { content: "\ee8e"; }
-.pfi-wx-strong-wind:before { content: "\ee8f"; }
-.pfi-wx-sunrise:before { content: "\ee90"; }
-.pfi-wx-sunset:before { content: "\ee91"; }
-.pfi-wx-thermometer-0:before { content: "\ee92"; }
-.pfi-wx-thermometer-100:before { content: "\ee93"; }
-.pfi-wx-thermometer-25:before { content: "\ee94"; }
-.pfi-wx-thermometer-50:before { content: "\ee95"; }
-.pfi-wx-thermometer-75:before { content: "\ee96"; }
-.pfi-wx-thunderstorm:before { content: "\ee97"; }
-.pfi-wx-tornado:before { content: "\ee98"; }
-.pfi-wx-tsunami:before { content: "\ee99"; }
-.pfi-wx-wind-beufort-0:before { content: "\ee9a"; }
-.pfi-wx-wind-beufort-1:before { content: "\ee9b"; }
-.pfi-wx-wind-beufort-10:before { content: "\ee9c"; }
-.pfi-wx-wind-beufort-11:before { content: "\ee9d"; }
-.pfi-wx-wind-beufort-12:before { content: "\ee9e"; }
-.pfi-wx-wind-beufort-2:before { content: "\ee9f"; }
-.pfi-wx-wind-beufort-3:before { content: "\eea0"; }
-.pfi-wx-wind-beufort-4:before { content: "\eea1"; }
-.pfi-wx-wind-beufort-5:before { content: "\eea2"; }
-.pfi-wx-wind-beufort-6:before { content: "\eea3"; }
-.pfi-wx-wind-beufort-7:before { content: "\eea4"; }
-.pfi-wx-wind-beufort-8:before { content: "\eea5"; }
-.pfi-wx-wind-beufort-9:before { content: "\eea6"; }
-.pfi-wx-wind-deg:before { content: "\eea7"; }
-.pfi-wx-wind-rain:before { content: "\eea8"; }
-.pfi-wx-windy:before { content: "\eea9"; }
+.pfi-window-maximize-alt:before { content: "\ee69"; }
+.pfi-window-maximize:before { content: "\ee6a"; }
+.pfi-window-minimize-alt:before { content: "\ee6b"; }
+.pfi-window-minimize:before { content: "\ee6c"; }
+.pfi-window-restore-alt:before { content: "\ee6d"; }
+.pfi-window-restore:before { content: "\ee6e"; }
+.pfi-world-globe-alt-1:before { content: "\ee6f"; }
+.pfi-world-globe-alt-2:before { content: "\ee70"; }
+.pfi-world-globe:before { content: "\ee71"; }
+.pfi-wx-cloud:before { content: "\ee72"; }
+.pfi-wx-cloudy-gusts:before { content: "\ee73"; }
+.pfi-wx-cloudy-windy:before { content: "\ee74"; }
+.pfi-wx-cloudy:before { content: "\ee75"; }
+.pfi-wx-dust:before { content: "\ee76"; }
+.pfi-wx-fire:before { content: "\ee77"; }
+.pfi-wx-fog:before { content: "\ee78"; }
+.pfi-wx-gale-warning:before { content: "\ee79"; }
+.pfi-wx-hail:before { content: "\ee7a"; }
+.pfi-wx-hot:before { content: "\ee7b"; }
+.pfi-wx-humidity:before { content: "\ee7c"; }
+.pfi-wx-hurricane-warning:before { content: "\ee7d"; }
+.pfi-wx-hurricane:before { content: "\ee7e"; }
+.pfi-wx-lightning:before { content: "\ee7f"; }
+.pfi-wx-lightningstorm:before { content: "\ee80"; }
+.pfi-wx-rain-mix:before { content: "\ee81"; }
+.pfi-wx-rain:before { content: "\ee82"; }
+.pfi-wx-sandstorm:before { content: "\ee83"; }
+.pfi-wx-showers:before { content: "\ee84"; }
+.pfi-wx-sleet:before { content: "\ee85"; }
+.pfi-wx-small-craft-warning:before { content: "\ee86"; }
+.pfi-wx-smog:before { content: "\ee87"; }
+.pfi-wx-smoke:before { content: "\ee88"; }
+.pfi-wx-snow-wind:before { content: "\ee89"; }
+.pfi-wx-snow:before { content: "\ee8a"; }
+.pfi-wx-snowflake-cold:before { content: "\ee8b"; }
+.pfi-wx-solar-eclipse:before { content: "\ee8c"; }
+.pfi-wx-sprinkle:before { content: "\ee8d"; }
+.pfi-wx-storm-showers:before { content: "\ee8e"; }
+.pfi-wx-storm-warning:before { content: "\ee8f"; }
+.pfi-wx-strong-wind:before { content: "\ee90"; }
+.pfi-wx-sunrise:before { content: "\ee91"; }
+.pfi-wx-sunset:before { content: "\ee92"; }
+.pfi-wx-thermometer-0:before { content: "\ee93"; }
+.pfi-wx-thermometer-100:before { content: "\ee94"; }
+.pfi-wx-thermometer-25:before { content: "\ee95"; }
+.pfi-wx-thermometer-50:before { content: "\ee96"; }
+.pfi-wx-thermometer-75:before { content: "\ee97"; }
+.pfi-wx-thunderstorm:before { content: "\ee98"; }
+.pfi-wx-tornado:before { content: "\ee99"; }
+.pfi-wx-tsunami:before { content: "\ee9a"; }
+.pfi-wx-wind-beufort-0:before { content: "\ee9b"; }
+.pfi-wx-wind-beufort-1:before { content: "\ee9c"; }
+.pfi-wx-wind-beufort-10:before { content: "\ee9d"; }
+.pfi-wx-wind-beufort-11:before { content: "\ee9e"; }
+.pfi-wx-wind-beufort-12:before { content: "\ee9f"; }
+.pfi-wx-wind-beufort-2:before { content: "\eea0"; }
+.pfi-wx-wind-beufort-3:before { content: "\eea1"; }
+.pfi-wx-wind-beufort-4:before { content: "\eea2"; }
+.pfi-wx-wind-beufort-5:before { content: "\eea3"; }
+.pfi-wx-wind-beufort-6:before { content: "\eea4"; }
+.pfi-wx-wind-beufort-7:before { content: "\eea5"; }
+.pfi-wx-wind-beufort-8:before { content: "\eea6"; }
+.pfi-wx-wind-beufort-9:before { content: "\eea7"; }
+.pfi-wx-wind-deg:before { content: "\eea8"; }
+.pfi-wx-wind-rain:before { content: "\eea9"; }
+.pfi-wx-windy:before { content: "\eeaa"; }
