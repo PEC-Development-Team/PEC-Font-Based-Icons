@@ -39,5 +39,5 @@ svgtofont({
   }
 }).then(() => 
 {
-  console.log('Done!');
-});;
+  console.log('Finished writing PEC Font Icons v' + pkg.version);
+});
