@@ -32,8 +32,8 @@ svgtofont({
     description: `SVG produced Font Based Icon Set`,
     links: [
       {
-        title: "Font Class",
-        url: "index.html"
+        title: "PEC-Font-Based-Icons on GitHub",
+        url: "https://github.com/PEC-Development-Team/PEC-Font-Based-Icons"
       }
     ]
   }
