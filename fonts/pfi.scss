@@ -1,10 +1,10 @@
 @font-face {font-family: "pfi";
-  src: url('pfi.eot?t=1699655035548'); /* IE9*/
-  src: url('pfi.eot?t=1699655035548#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("pfi.woff2?t=1699655035548") format("woff2"),
-  url("pfi.woff?t=1699655035548") format("woff"),
-  url('pfi.ttf?t=1699655035548') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('pfi.svg?t=1699655035548#pfi') format('svg'); /* iOS 4.1- */
+  src: url('pfi.eot?t=1699660812204'); /* IE9*/
+  src: url('pfi.eot?t=1699660812204#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("pfi.woff2?t=1699660812204") format("woff2"),
+  url("pfi.woff?t=1699660812204") format("woff"),
+  url('pfi.ttf?t=1699660812204') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('pfi.svg?t=1699660812204#pfi') format('svg'); /* iOS 4.1- */
 }
 
 [class^="pfi"], [class^="pfi-"], [class*=" pfi-"] {
@@ -1214,66 +1214,68 @@ i[class^="pfi"], i[class^="pfi-"], i[class*=" pfi-"] {
 .pfi-wx-freezing-rain:before { content: "\eea9"; }
 .pfi-wx-gale-warning:before { content: "\eeaa"; }
 .pfi-wx-hail:before { content: "\eeab"; }
-.pfi-wx-hot:before { content: "\eeac"; }
-.pfi-wx-humidity:before { content: "\eead"; }
-.pfi-wx-hurricane-warn:before { content: "\eeae"; }
-.pfi-wx-hurricane-warning:before { content: "\eeaf"; }
-.pfi-wx-hurricane:before { content: "\eeb0"; }
-.pfi-wx-lightning-alt:before { content: "\eeb1"; }
-.pfi-wx-lightning-two-electric-boogaloo:before { content: "\eeb2"; }
-.pfi-wx-lightning:before { content: "\eeb3"; }
-.pfi-wx-lightningstorm:before { content: "\eeb4"; }
-.pfi-wx-rain-hail-mix:before { content: "\eeb5"; }
-.pfi-wx-rain-mix:before { content: "\eeb6"; }
-.pfi-wx-rain-snow-mix:before { content: "\eeb7"; }
-.pfi-wx-rain:before { content: "\eeb8"; }
-.pfi-wx-sandstorm:before { content: "\eeb9"; }
-.pfi-wx-showers-alt:before { content: "\eeba"; }
-.pfi-wx-showers:before { content: "\eebb"; }
-.pfi-wx-sleet:before { content: "\eebc"; }
-.pfi-wx-small-craft-warning:before { content: "\eebd"; }
-.pfi-wx-smog:before { content: "\eebe"; }
-.pfi-wx-smoke:before { content: "\eebf"; }
-.pfi-wx-snow-alt:before { content: "\eec0"; }
-.pfi-wx-snow-wind:before { content: "\eec1"; }
-.pfi-wx-snow:before { content: "\eec2"; }
-.pfi-wx-snowflake-cold:before { content: "\eec3"; }
-.pfi-wx-solar-eclipse:before { content: "\eec4"; }
-.pfi-wx-sprinkle:before { content: "\eec5"; }
-.pfi-wx-storm-showers:before { content: "\eec6"; }
-.pfi-wx-storm-warning:before { content: "\eec7"; }
-.pfi-wx-strong-wind:before { content: "\eec8"; }
-.pfi-wx-sunny:before { content: "\eec9"; }
-.pfi-wx-sunrise:before { content: "\eeca"; }
-.pfi-wx-sunset:before { content: "\eecb"; }
-.pfi-wx-thermometer-0:before { content: "\eecc"; }
-.pfi-wx-thermometer-100:before { content: "\eecd"; }
-.pfi-wx-thermometer-25:before { content: "\eece"; }
-.pfi-wx-thermometer-50:before { content: "\eecf"; }
-.pfi-wx-thermometer-75:before { content: "\eed0"; }
-.pfi-wx-thunderstorm-alt:before { content: "\eed1"; }
-.pfi-wx-thunderstorm:before { content: "\eed2"; }
-.pfi-wx-tornado-alt:before { content: "\eed3"; }
-.pfi-wx-tornado:before { content: "\eed4"; }
-.pfi-wx-tsunami:before { content: "\eed5"; }
-.pfi-wx-wild-fire:before { content: "\eed6"; }
-.pfi-wx-wind-beufort-0:before { content: "\eed7"; }
-.pfi-wx-wind-beufort-1:before { content: "\eed8"; }
-.pfi-wx-wind-beufort-10:before { content: "\eed9"; }
-.pfi-wx-wind-beufort-11:before { content: "\eeda"; }
-.pfi-wx-wind-beufort-12:before { content: "\eedb"; }
-.pfi-wx-wind-beufort-2:before { content: "\eedc"; }
-.pfi-wx-wind-beufort-3:before { content: "\eedd"; }
-.pfi-wx-wind-beufort-4:before { content: "\eede"; }
-.pfi-wx-wind-beufort-5:before { content: "\eedf"; }
-.pfi-wx-wind-beufort-6:before { content: "\eee0"; }
-.pfi-wx-wind-beufort-7:before { content: "\eee1"; }
-.pfi-wx-wind-beufort-8:before { content: "\eee2"; }
-.pfi-wx-wind-beufort-9:before { content: "\eee3"; }
-.pfi-wx-wind-deg:before { content: "\eee4"; }
-.pfi-wx-wind-rain:before { content: "\eee5"; }
-.pfi-wx-wind:before { content: "\eee6"; }
-.pfi-wx-windy:before { content: "\eee7"; }
+.pfi-wx-hazy:before { content: "\eeac"; }
+.pfi-wx-hot:before { content: "\eead"; }
+.pfi-wx-humidity:before { content: "\eeae"; }
+.pfi-wx-hurricane-warn:before { content: "\eeaf"; }
+.pfi-wx-hurricane-warning:before { content: "\eeb0"; }
+.pfi-wx-hurricane:before { content: "\eeb1"; }
+.pfi-wx-lightning-alt:before { content: "\eeb2"; }
+.pfi-wx-lightning-two-electric-boogaloo:before { content: "\eeb3"; }
+.pfi-wx-lightning:before { content: "\eeb4"; }
+.pfi-wx-lightningstorm:before { content: "\eeb5"; }
+.pfi-wx-rain-hail-mix:before { content: "\eeb6"; }
+.pfi-wx-rain-mix:before { content: "\eeb7"; }
+.pfi-wx-rain-snow-mix:before { content: "\eeb8"; }
+.pfi-wx-rain:before { content: "\eeb9"; }
+.pfi-wx-sandstorm:before { content: "\eeba"; }
+.pfi-wx-showers-alt:before { content: "\eebb"; }
+.pfi-wx-showers:before { content: "\eebc"; }
+.pfi-wx-sleet:before { content: "\eebd"; }
+.pfi-wx-small-craft-warning:before { content: "\eebe"; }
+.pfi-wx-smog:before { content: "\eebf"; }
+.pfi-wx-smoke:before { content: "\eec0"; }
+.pfi-wx-snow-alt:before { content: "\eec1"; }
+.pfi-wx-snow-wind:before { content: "\eec2"; }
+.pfi-wx-snow:before { content: "\eec3"; }
+.pfi-wx-snowflake-cold:before { content: "\eec4"; }
+.pfi-wx-solar-eclipse:before { content: "\eec5"; }
+.pfi-wx-sprinkle:before { content: "\eec6"; }
+.pfi-wx-starry:before { content: "\eec7"; }
+.pfi-wx-storm-showers:before { content: "\eec8"; }
+.pfi-wx-storm-warning:before { content: "\eec9"; }
+.pfi-wx-strong-wind:before { content: "\eeca"; }
+.pfi-wx-sunny:before { content: "\eecb"; }
+.pfi-wx-sunrise:before { content: "\eecc"; }
+.pfi-wx-sunset:before { content: "\eecd"; }
+.pfi-wx-thermometer-0:before { content: "\eece"; }
+.pfi-wx-thermometer-100:before { content: "\eecf"; }
+.pfi-wx-thermometer-25:before { content: "\eed0"; }
+.pfi-wx-thermometer-50:before { content: "\eed1"; }
+.pfi-wx-thermometer-75:before { content: "\eed2"; }
+.pfi-wx-thunderstorm-alt:before { content: "\eed3"; }
+.pfi-wx-thunderstorm:before { content: "\eed4"; }
+.pfi-wx-tornado-alt:before { content: "\eed5"; }
+.pfi-wx-tornado:before { content: "\eed6"; }
+.pfi-wx-tsunami:before { content: "\eed7"; }
+.pfi-wx-wild-fire:before { content: "\eed8"; }
+.pfi-wx-wind-beufort-0:before { content: "\eed9"; }
+.pfi-wx-wind-beufort-1:before { content: "\eeda"; }
+.pfi-wx-wind-beufort-10:before { content: "\eedb"; }
+.pfi-wx-wind-beufort-11:before { content: "\eedc"; }
+.pfi-wx-wind-beufort-12:before { content: "\eedd"; }
+.pfi-wx-wind-beufort-2:before { content: "\eede"; }
+.pfi-wx-wind-beufort-3:before { content: "\eedf"; }
+.pfi-wx-wind-beufort-4:before { content: "\eee0"; }
+.pfi-wx-wind-beufort-5:before { content: "\eee1"; }
+.pfi-wx-wind-beufort-6:before { content: "\eee2"; }
+.pfi-wx-wind-beufort-7:before { content: "\eee3"; }
+.pfi-wx-wind-beufort-8:before { content: "\eee4"; }
+.pfi-wx-wind-beufort-9:before { content: "\eee5"; }
+.pfi-wx-wind-deg:before { content: "\eee6"; }
+.pfi-wx-wind-rain:before { content: "\eee7"; }
+.pfi-wx-wind:before { content: "\eee8"; }
+.pfi-wx-windy:before { content: "\eee9"; }
 
 $pfi-88: "\ea04";
 $pfi-360: "\ea01";
@@ -2470,64 +2472,66 @@ $pfi-wx-fog: "\eea8";
 $pfi-wx-freezing-rain: "\eea9";
 $pfi-wx-gale-warning: "\eeaa";
 $pfi-wx-hail: "\eeab";
-$pfi-wx-hot: "\eeac";
-$pfi-wx-humidity: "\eead";
-$pfi-wx-hurricane-warn: "\eeae";
-$pfi-wx-hurricane-warning: "\eeaf";
-$pfi-wx-hurricane: "\eeb0";
-$pfi-wx-lightning-alt: "\eeb1";
-$pfi-wx-lightning-two-electric-boogaloo: "\eeb2";
-$pfi-wx-lightning: "\eeb3";
-$pfi-wx-lightningstorm: "\eeb4";
-$pfi-wx-rain-hail-mix: "\eeb5";
-$pfi-wx-rain-mix: "\eeb6";
-$pfi-wx-rain-snow-mix: "\eeb7";
-$pfi-wx-rain: "\eeb8";
-$pfi-wx-sandstorm: "\eeb9";
-$pfi-wx-showers-alt: "\eeba";
-$pfi-wx-showers: "\eebb";
-$pfi-wx-sleet: "\eebc";
-$pfi-wx-small-craft-warning: "\eebd";
-$pfi-wx-smog: "\eebe";
-$pfi-wx-smoke: "\eebf";
-$pfi-wx-snow-alt: "\eec0";
-$pfi-wx-snow-wind: "\eec1";
-$pfi-wx-snow: "\eec2";
-$pfi-wx-snowflake-cold: "\eec3";
-$pfi-wx-solar-eclipse: "\eec4";
-$pfi-wx-sprinkle: "\eec5";
-$pfi-wx-storm-showers: "\eec6";
-$pfi-wx-storm-warning: "\eec7";
-$pfi-wx-strong-wind: "\eec8";
-$pfi-wx-sunny: "\eec9";
-$pfi-wx-sunrise: "\eeca";
-$pfi-wx-sunset: "\eecb";
-$pfi-wx-thermometer-0: "\eecc";
-$pfi-wx-thermometer-100: "\eecd";
-$pfi-wx-thermometer-25: "\eece";
-$pfi-wx-thermometer-50: "\eecf";
-$pfi-wx-thermometer-75: "\eed0";
-$pfi-wx-thunderstorm-alt: "\eed1";
-$pfi-wx-thunderstorm: "\eed2";
-$pfi-wx-tornado-alt: "\eed3";
-$pfi-wx-tornado: "\eed4";
-$pfi-wx-tsunami: "\eed5";
-$pfi-wx-wild-fire: "\eed6";
-$pfi-wx-wind-beufort-0: "\eed7";
-$pfi-wx-wind-beufort-1: "\eed8";
-$pfi-wx-wind-beufort-10: "\eed9";
-$pfi-wx-wind-beufort-11: "\eeda";
-$pfi-wx-wind-beufort-12: "\eedb";
-$pfi-wx-wind-beufort-2: "\eedc";
-$pfi-wx-wind-beufort-3: "\eedd";
-$pfi-wx-wind-beufort-4: "\eede";
-$pfi-wx-wind-beufort-5: "\eedf";
-$pfi-wx-wind-beufort-6: "\eee0";
-$pfi-wx-wind-beufort-7: "\eee1";
-$pfi-wx-wind-beufort-8: "\eee2";
-$pfi-wx-wind-beufort-9: "\eee3";
-$pfi-wx-wind-deg: "\eee4";
-$pfi-wx-wind-rain: "\eee5";
-$pfi-wx-wind: "\eee6";
-$pfi-wx-windy: "\eee7";
+$pfi-wx-hazy: "\eeac";
+$pfi-wx-hot: "\eead";
+$pfi-wx-humidity: "\eeae";
+$pfi-wx-hurricane-warn: "\eeaf";
+$pfi-wx-hurricane-warning: "\eeb0";
+$pfi-wx-hurricane: "\eeb1";
+$pfi-wx-lightning-alt: "\eeb2";
+$pfi-wx-lightning-two-electric-boogaloo: "\eeb3";
+$pfi-wx-lightning: "\eeb4";
+$pfi-wx-lightningstorm: "\eeb5";
+$pfi-wx-rain-hail-mix: "\eeb6";
+$pfi-wx-rain-mix: "\eeb7";
+$pfi-wx-rain-snow-mix: "\eeb8";
+$pfi-wx-rain: "\eeb9";
+$pfi-wx-sandstorm: "\eeba";
+$pfi-wx-showers-alt: "\eebb";
+$pfi-wx-showers: "\eebc";
+$pfi-wx-sleet: "\eebd";
+$pfi-wx-small-craft-warning: "\eebe";
+$pfi-wx-smog: "\eebf";
+$pfi-wx-smoke: "\eec0";
+$pfi-wx-snow-alt: "\eec1";
+$pfi-wx-snow-wind: "\eec2";
+$pfi-wx-snow: "\eec3";
+$pfi-wx-snowflake-cold: "\eec4";
+$pfi-wx-solar-eclipse: "\eec5";
+$pfi-wx-sprinkle: "\eec6";
+$pfi-wx-starry: "\eec7";
+$pfi-wx-storm-showers: "\eec8";
+$pfi-wx-storm-warning: "\eec9";
+$pfi-wx-strong-wind: "\eeca";
+$pfi-wx-sunny: "\eecb";
+$pfi-wx-sunrise: "\eecc";
+$pfi-wx-sunset: "\eecd";
+$pfi-wx-thermometer-0: "\eece";
+$pfi-wx-thermometer-100: "\eecf";
+$pfi-wx-thermometer-25: "\eed0";
+$pfi-wx-thermometer-50: "\eed1";
+$pfi-wx-thermometer-75: "\eed2";
+$pfi-wx-thunderstorm-alt: "\eed3";
+$pfi-wx-thunderstorm: "\eed4";
+$pfi-wx-tornado-alt: "\eed5";
+$pfi-wx-tornado: "\eed6";
+$pfi-wx-tsunami: "\eed7";
+$pfi-wx-wild-fire: "\eed8";
+$pfi-wx-wind-beufort-0: "\eed9";
+$pfi-wx-wind-beufort-1: "\eeda";
+$pfi-wx-wind-beufort-10: "\eedb";
+$pfi-wx-wind-beufort-11: "\eedc";
+$pfi-wx-wind-beufort-12: "\eedd";
+$pfi-wx-wind-beufort-2: "\eede";
+$pfi-wx-wind-beufort-3: "\eedf";
+$pfi-wx-wind-beufort-4: "\eee0";
+$pfi-wx-wind-beufort-5: "\eee1";
+$pfi-wx-wind-beufort-6: "\eee2";
+$pfi-wx-wind-beufort-7: "\eee3";
+$pfi-wx-wind-beufort-8: "\eee4";
+$pfi-wx-wind-beufort-9: "\eee5";
+$pfi-wx-wind-deg: "\eee6";
+$pfi-wx-wind-rain: "\eee7";
+$pfi-wx-wind: "\eee8";
+$pfi-wx-windy: "\eee9";
 
