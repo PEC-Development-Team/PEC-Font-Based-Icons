@@ -5,12 +5,12 @@ https://github.com/PEC-Development-Team/PEC-Font-Based-Icons
 
 @font-face {
   font-family: "pfi";
-  src: url('pfi.eot?t=1699935165456'); /* IE9*/
-  src: url('pfi.eot?t=1699935165456#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("pfi.woff2?t=1699935165456") format("woff2"),
-  url("pfi.woff?t=1699935165456") format("woff"),
-  url('pfi.ttf?t=1699935165456') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('pfi.svg?t=1699935165456#pfi') format('svg'); /* iOS 4.1- */
+  src: url('pfi.eot?t=1699935402379'); /* IE9*/
+  src: url('pfi.eot?t=1699935402379#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("pfi.woff2?t=1699935402379") format("woff2"),
+  url("pfi.woff?t=1699935402379") format("woff"),
+  url('pfi.ttf?t=1699935402379') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('pfi.svg?t=1699935402379#pfi') format('svg'); /* iOS 4.1- */
 }
 
 [class^="pfi"], [class^="pfi-"], [class*=" pfi-"] {
@@ -1195,8 +1195,8 @@ i[class^="pfi"], i[class^="pfi-"], i[class*=" pfi-"] {
 .pfi-world-globe:before { content: "\ee90"; }
 .pfi-wx-cloud-alt:before { content: "\ee91"; }
 .pfi-wx-cloud:before { content: "\ee92"; }
-.pfi-wx-cloudy-alt:before { content: "\ee93"; }
-.pfi-wx-cloudy:before { content: "\ee94"; }
+.pfi-wx-clouds-alt:before { content: "\ee93"; }
+.pfi-wx-clouds:before { content: "\ee94"; }
 .pfi-wx-cold:before { content: "\ee95"; }
 .pfi-wx-dust-storm:before { content: "\ee96"; }
 .pfi-wx-fog:before { content: "\ee97"; }

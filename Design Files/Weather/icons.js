@@ -1,19 +1,27 @@
 const translation = [
     {
         img: ['hz'],
-        icon: 'pfi-wx-hazy'
+        icon: 'pfi-wx-haze'
     },
     {
-        img: ['bkn','nbkn'],
-        icon: 'pfi-wx-cloudy'
+        img: ['few','nfew'],
+        icon: 'pfi-wx-cloud'
+    },
+    {
+        img: ['bkn','nbkn','sct','nsct','ovc','novc'],
+        icon: 'pfi-wx-clouds'
     },
     {
         img: ['blizzard','nblizzard'],
-        icon: 'pfi-wx-blizzard'
+        icon: 'pfi-wx-snow-wind-blizzard'
     },
     {
         img: ['cold','ncold'],
         icon: 'pfi-wx-cold'
+    },
+    {
+        img: ['hot'],
+        icon: 'pfi-wx-hot'
     },
     {
         img: ['du','ndu'],
@@ -21,11 +29,7 @@ const translation = [
     },
     {
         img: ['fc','nfc'],
-        icon: 'pfi-wx-tornado'
-    },
-    {
-        img: ['few','nfew'],
-        icon: 'pfi-wx-cloud'
+        icon: 'pfi-wx-funnel'
     },
     {
         img: ['fg','nfg'],
@@ -33,27 +37,19 @@ const translation = [
     },
     {
         img: ['fu','nfu'],
-        icon: 'pfi-wx-smog'
+        icon: 'pfi-wx-smoke-smog'
     },
     {
-        img: ['fzra','nfzra'],
+        img: ['fzra','nfzra','fzra_sn','nfzra_sn','ra_fzra','nra_fzra'],
         icon: 'pfi-wx-freezing-rain'
     },
     {
-        img: ['fzra_sn','nfzra_sn'],
-        icon: 'pfi-wx-freezing-rain'
+        img: ['hi_shwrs','hi_nshwrs','shra','nshra'],
+        icon: 'pfi-wx-rain-showers'
     },
     {
-        img: ['hi_shwrs','hi_nshwrs'],
-        icon: 'pfi-wx-showers'
-    },
-    {
-        img: ['hi_tsra','hi_ntsra'],
+        img: ['scttsra','nscttsra','hi_tsra','hi_ntsra','tsra','ntsra','ts_nowarn','ts_warn','ts_watch'],
         icon: 'pfi-wx-thunderstorm'
-    },
-    {
-        img: ['hot'],
-        icon: 'pfi-wx-thermometer-100'
     },
     {
         img: ['hur_warn'],
@@ -61,47 +57,23 @@ const translation = [
     },
     {
         img: ['hur_watch'],
-        icon: 'pfi-wx-hurricane-warn'
+        icon: 'pfi-wx-hurricane'
     },
     {
         img: ['ip','nip'],
         icon: 'pfi-wx-sleet'
     },
     {
-        img: ['minus_ra'],
+        img: ['minus_ra','ra','nra'],
         icon: 'pfi-wx-rain'
     },
     {
-        img: ['ra','nra'],
-        icon: 'pfi-wx-rain'
-    },
-    {
-        img: ['ra_fzra','nra_fzra'],
-        icon: 'pfi-wx-freezing-rain'
-    },
-    {
-        img: ['ra_sn','nra_sn'],
+        img: ['ra_sn','nra_sn','snip','nsnip'],
         icon: 'pfi-wx-rain-snow-mix'
     },
     {
-        img: ['ovc','novc'],
-        icon: 'pfi-wx-cloudy'
-    },
-    {
         img: ['raip','nraip'],
-        icon: 'pfi-wx-freezing-rain'
-    },
-    {
-        img: ['sct','nsct'],
-        icon: 'pfi-wx-bkn-sunny-cloudy'
-    },
-    {
-        img: ['scttsra','nscttsra'],
-        icon: 'pfi-wx-thunderstorm'
-    },
-    {
-        img: ['shra','nshra'],
-        icon: 'pfi-wx-showers'
+        icon: 'pfi-wx-rain-hail-mix'
     },
     {
         img: ['skc'],
@@ -116,39 +88,15 @@ const translation = [
         icon: 'pfi-wx-snow'
     },
     {
-        img: ['snip','nsnip'],
-        icon: 'pfi-wx-rain-snow-mix'
-    },
-    {
         img: ['tor','ntor'],
         icon: 'pfi-wx-tornado'
     },
     {
-        img: ['tsra','ntsra'],
-        icon: 'pfi-wx-thunderstorm'
-    },
-    {
-        img: ['wind_bkn','nwind_bkn'],
-        icon: 'pfi-wx-wind'
-    },
-    {
-        img: ['wind_few','nwind_few'],
-        icon: 'pfi-wx-wind'
-    },
-    {
-        img: ['wind_ovc','nwind_ovc'],
-        icon: 'pfi-wx-wind'
-    },
-    {
-        img: ['wind_sct','nwind_sct'],
-        icon: 'pfi-wx-wind'
+        img: ['wind_bkn','nwind_bkn','wind_few','nwind_few','wind_ovc','nwind_ovc','wind_sct','nwind_sct'],
+        icon: 'pfi-wx-wind-cloud'
     },
     {
         img: ['wind_skc','nwind_skc'],
         icon: 'pfi-wx-wind'
-    },
-    {
-        img: ['ts_nowarn','ts_warn','ts_watch'],
-        icon: 'ppfi-wx-thunderstorm'
-    }    
+    }
 ];
