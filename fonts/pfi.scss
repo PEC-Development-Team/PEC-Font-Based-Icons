@@ -1,15 +1,15 @@
 @font-face {font-family: "pfi";
-  src: url('pfi.eot?t=1699937997822'); /* IE9*/
-  src: url('pfi.eot?t=1699937997822#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("pfi.woff2?t=1699937997822") format("woff2"),
-  url("pfi.woff?t=1699937997822") format("woff"),
-  url('pfi.ttf?t=1699937997822') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('pfi.svg?t=1699937997822#pfi') format('svg'); /* iOS 4.1- */
+  src: url('pfi.eot?t=1700237317895'); /* IE9*/
+  src: url('pfi.eot?t=1700237317895#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("pfi.woff2?t=1700237317895") format("woff2"),
+  url("pfi.woff?t=1700237317895") format("woff"),
+  url('pfi.ttf?t=1700237317895') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('pfi.svg?t=1700237317895#pfi') format('svg'); /* iOS 4.1- */
 }
 
 [class^="pfi"], [class^="pfi-"], [class*=" pfi-"] {
   font-family: 'pfi' !important;
-  font-size: 16px;
+  font-size: 6rem;
   font-style:normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

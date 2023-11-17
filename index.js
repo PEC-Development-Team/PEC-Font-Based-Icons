@@ -27,6 +27,7 @@ svgtofont({
     title: "PEC Font Icons",
     // Must be a .svg format image.
     logo: path.resolve(process.cwd(), "svg", "git.svg"),
+    favicon: "./svg/army-pec-logo.svg",
     version: pkg.version,
     meta: {
       description: "Converts SVG fonts to TTF/EOT/WOFF/WOFF2/SVG format.",
