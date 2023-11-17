@@ -32,8 +32,8 @@ PEC Icons use the MIT License and are completely free, open source, simple. You 
 Create a pull request. Please only original or open source art work. Only submit design files via the "Design Files" folder or svgs in the svgs folder. We will review your submission. The artboards should be 100mmx100mm (additional details at the bottom of the ReadMe).
 
 ## Screenshots
-![Sample 1](https://raw.githubusercontent.com/PEC-Development-Team/PEC-Font-Based-Icons/main/screen-shots/sample1.png)
-![Sample 2](https://raw.githubusercontent.com/PEC-Development-Team/PEC-Font-Based-Icons/main/screen-shots/sample2.png)
+![Sample 1](./screen-shots/sample1.png)
+![Sample 2](./screen-shots/sample2.png)
 
 ## pfi.js
 pfi.js is an optional js file with a key value pair of hex values for each icon for use on things like HTML5 canvas.

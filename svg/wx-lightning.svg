@@ -2,8 +2,14 @@
 <!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="283.465px" height="283.465px" viewBox="0 0 283.465 283.465" enable-background="new 0 0 283.465 283.465"
-	 xml:space="preserve">
-<polygon fill-rule="evenodd" clip-rule="evenodd" points="70.022,276.074 130.549,140.518 66.077,140.518 125.797,6.783 
-	221.645,6.783 150.57,97.145 212.14,95.379 "/>
+	 width="283.68px" height="283.92px" viewBox="0 0 283.68 283.92" enable-background="new 0 0 283.68 283.92" xml:space="preserve">
+<g>
+	<path d="M194.26,49.257h-13.951c-2.218-22.64-21.328-40.348-44.545-40.348c-23.283,0-42.441,17.813-44.567,40.542
+		C68.466,51.583,50.65,70.736,50.65,94.019c0,24.71,20.06,44.77,44.766,44.77h98.844c24.71,0,44.771-20.06,44.771-44.77
+		C239.03,69.313,218.97,49.257,194.26,49.257z"/>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" points="98.057,278.2 125.933,215.771 96.24,215.771 123.744,154.179 
+			167.887,154.179 135.153,195.794 163.51,194.981 		"/>
+	</g>
+</g>
 </svg>

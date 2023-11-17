@@ -13,7 +13,10 @@ svgtofont({
   //styleTemplates: null, 
   styleTemplates: path.resolve(process.cwd(), "node_modules/svgtofont/lib/styles"), // file templates path (optional)
   fontName: "pfi", // font name
-  css: true, // Create CSS files.
+  //css: true, // Create CSS files.
+  css: {
+    fontSize: "6rem",
+  },
   startUnicode: 0xea01, // unicode start number
   svgicons2svgfont: {
     fontHeight: 1000,
@@ -24,6 +27,7 @@ svgtofont({
     title: "PEC Font Icons",
     // Must be a .svg format image.
     logo: path.resolve(process.cwd(), "svg", "git.svg"),
+    favicon: "./svg/army-pec-logo.svg",
     version: pkg.version,
     meta: {
       description: "Converts SVG fonts to TTF/EOT/WOFF/WOFF2/SVG format.",
