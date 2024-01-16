@@ -2,8 +2,12 @@
   "name": "pfi",
   "version": "2.6.0",
   "description": "SVG produced Font Based Icon Set",
-  "main": "index.js",
+  "exports": {
+    ".": "./fonts/pfi.css",
+    "./map": "./fonts/pfi.js"
+  },
   "scripts": {
+    "build": "node ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,10 +21,12 @@
   },
   "homepage": "https://github.com/PEC-Development-Team/PEC-Font-Based-Icons",
   "dependencies": {
-    "grunt": "^1.4.1",
-    "map-obj": "^5.0.2",
-    "source-map-resolve": "^0.6.0",
-    "source-map-url": "^0.4.1",
-    "svgtofont": "github:Kitchen-JS/svgtofont"
-  }
+  },
+"devDependencies": {
+  "grunt": "^1.4.1",
+  "map-obj": "^5.0.2",
+  "source-map-resolve": "^0.6.0",
+  "source-map-url": "^0.4.1",
+  "svgtofont": "github:Kitchen-JS/svgtofont"
+}
 }

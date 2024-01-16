@@ -7,7 +7,7 @@ These icons were built for and by the National Guard Professional Education Cent
 
 ## Update Icons
 ```
-node index.js
+npm run build
 ```
 Outputs to /fonts
 
