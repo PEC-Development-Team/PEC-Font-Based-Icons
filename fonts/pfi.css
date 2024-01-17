@@ -1,29 +1,20 @@
-/*
-pfi v2.6.0
-https://github.com/PEC-Development-Team/PEC-Font-Based-Icons
-*/
-
 @font-face {
   font-family: "pfi";
-  src: url('pfi.eot?t=1703944952360'); /* IE9*/
-  src: url('pfi.eot?t=1703944952360#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("pfi.woff2?t=1703944952360") format("woff2"),
-  url("pfi.woff?t=1703944952360") format("woff"),
-  url('pfi.ttf?t=1703944952360') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('pfi.svg?t=1703944952360#pfi') format('svg'); /* iOS 4.1- */
+  src: url('pfi.eot?t=1705452488993'); /* IE9*/
+  src: url('pfi.eot?t=1705452488993#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("pfi.woff2?t=1705452488993") format("woff2"),
+  url("pfi.woff?t=1705452488993") format("woff"),
+  url('pfi.ttf?t=1705452488993') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('pfi.svg?t=1705452488993#pfi') format('svg'); /* iOS 4.1- */
 }
 
-[class^="pfi"], [class^="pfi-"], [class*=" pfi-"] {
-  font-family: 'pfi' !important;
-  font-size:6rem;
+[class^="pfi-"], [class*=" pfi-"] {
+  font-family: 'pfi' !important;font-size: 6rem;
   font-style:normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-i[class^="pfi"], i[class^="pfi-"], i[class*=" pfi-"] {
-  line-height: 100%;
-}
 
 .pfi-88:before { content: "\ea04"; }
 .pfi-360:before { content: "\ea01"; }
@@ -1254,3 +1245,4 @@ i[class^="pfi"], i[class^="pfi-"], i[class*=" pfi-"] {
 .pfi-wx-wind-cloud:before { content: "\eecb"; }
 .pfi-wx-wind-deg:before { content: "\eecc"; }
 .pfi-wx-wind:before { content: "\eecd"; }
+
