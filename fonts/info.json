@@ -1,0 +1,7376 @@
+{
+  "88": {
+    "encodedCode": "\\ea04",
+    "prefix": "pfi",
+    "className": "pfi-88",
+    "unicode": "&#59908;"
+  },
+  "360": {
+    "encodedCode": "\\ea01",
+    "prefix": "pfi",
+    "className": "pfi-360",
+    "unicode": "&#59905;"
+  },
+  "555": {
+    "encodedCode": "\\ea03",
+    "prefix": "pfi",
+    "className": "pfi-555",
+    "unicode": "&#59907;"
+  },
+  "3d-printer": {
+    "encodedCode": "\\ea02",
+    "prefix": "pfi",
+    "className": "pfi-3d-printer",
+    "unicode": "&#59906;"
+  },
+  "X": {
+    "encodedCode": "\\ea05",
+    "prefix": "pfi",
+    "className": "pfi-X",
+    "unicode": "&#59909;"
+  },
+  "accessibility-blind": {
+    "encodedCode": "\\ea06",
+    "prefix": "pfi",
+    "className": "pfi-accessibility-blind",
+    "unicode": "&#59910;"
+  },
+  "accessibility-handicap-wheelchair": {
+    "encodedCode": "\\ea07",
+    "prefix": "pfi",
+    "className": "pfi-accessibility-handicap-wheelchair",
+    "unicode": "&#59911;"
+  },
+  "accessibility-hearing": {
+    "encodedCode": "\\ea08",
+    "prefix": "pfi",
+    "className": "pfi-accessibility-hearing",
+    "unicode": "&#59912;"
+  },
+  "accessibility-sign-language": {
+    "encodedCode": "\\ea09",
+    "prefix": "pfi",
+    "className": "pfi-accessibility-sign-language",
+    "unicode": "&#59913;"
+  },
+  "accountability": {
+    "encodedCode": "\\ea0a",
+    "prefix": "pfi",
+    "className": "pfi-accountability",
+    "unicode": "&#59914;"
+  },
+  "address-book-alt-1": {
+    "encodedCode": "\\ea0b",
+    "prefix": "pfi",
+    "className": "pfi-address-book-alt-1",
+    "unicode": "&#59915;"
+  },
+  "address-book": {
+    "encodedCode": "\\ea0c",
+    "prefix": "pfi",
+    "className": "pfi-address-book",
+    "unicode": "&#59916;"
+  },
+  "admin-alt-1": {
+    "encodedCode": "\\ea0d",
+    "prefix": "pfi",
+    "className": "pfi-admin-alt-1",
+    "unicode": "&#59917;"
+  },
+  "admin": {
+    "encodedCode": "\\ea0e",
+    "prefix": "pfi",
+    "className": "pfi-admin",
+    "unicode": "&#59918;"
+  },
+  "agile-backlog": {
+    "encodedCode": "\\ea0f",
+    "prefix": "pfi",
+    "className": "pfi-agile-backlog",
+    "unicode": "&#59919;"
+  },
+  "agile-blocked": {
+    "encodedCode": "\\ea10",
+    "prefix": "pfi",
+    "className": "pfi-agile-blocked",
+    "unicode": "&#59920;"
+  },
+  "agile-burn-down": {
+    "encodedCode": "\\ea11",
+    "prefix": "pfi",
+    "className": "pfi-agile-burn-down",
+    "unicode": "&#59921;"
+  },
+  "agile-burn-up": {
+    "encodedCode": "\\ea12",
+    "prefix": "pfi",
+    "className": "pfi-agile-burn-up",
+    "unicode": "&#59922;"
+  },
+  "agile-doing": {
+    "encodedCode": "\\ea13",
+    "prefix": "pfi",
+    "className": "pfi-agile-doing",
+    "unicode": "&#59923;"
+  },
+  "agile-done": {
+    "encodedCode": "\\ea14",
+    "prefix": "pfi",
+    "className": "pfi-agile-done",
+    "unicode": "&#59924;"
+  },
+  "agile-ideation-group": {
+    "encodedCode": "\\ea15",
+    "prefix": "pfi",
+    "className": "pfi-agile-ideation-group",
+    "unicode": "&#59925;"
+  },
+  "agile-ideation": {
+    "encodedCode": "\\ea16",
+    "prefix": "pfi",
+    "className": "pfi-agile-ideation",
+    "unicode": "&#59926;"
+  },
+  "agile-innovation": {
+    "encodedCode": "\\ea17",
+    "prefix": "pfi",
+    "className": "pfi-agile-innovation",
+    "unicode": "&#59927;"
+  },
+  "agile-iteration": {
+    "encodedCode": "\\ea18",
+    "prefix": "pfi",
+    "className": "pfi-agile-iteration",
+    "unicode": "&#59928;"
+  },
+  "agile-kanban-board": {
+    "encodedCode": "\\ea19",
+    "prefix": "pfi",
+    "className": "pfi-agile-kanban-board",
+    "unicode": "&#59929;"
+  },
+  "agile-kanban": {
+    "encodedCode": "\\ea1a",
+    "prefix": "pfi",
+    "className": "pfi-agile-kanban",
+    "unicode": "&#59930;"
+  },
+  "agile-scrum": {
+    "encodedCode": "\\ea1b",
+    "prefix": "pfi",
+    "className": "pfi-agile-scrum",
+    "unicode": "&#59931;"
+  },
+  "agile-testing": {
+    "encodedCode": "\\ea1c",
+    "prefix": "pfi",
+    "className": "pfi-agile-testing",
+    "unicode": "&#59932;"
+  },
+  "agile-todo": {
+    "encodedCode": "\\ea1d",
+    "prefix": "pfi",
+    "className": "pfi-agile-todo",
+    "unicode": "&#59933;"
+  },
+  "agriculture": {
+    "encodedCode": "\\ea1e",
+    "prefix": "pfi",
+    "className": "pfi-agriculture",
+    "unicode": "&#59934;"
+  },
+  "airplane": {
+    "encodedCode": "\\ea1f",
+    "prefix": "pfi",
+    "className": "pfi-airplane",
+    "unicode": "&#59935;"
+  },
+  "alarm-strobe-lit": {
+    "encodedCode": "\\ea20",
+    "prefix": "pfi",
+    "className": "pfi-alarm-strobe-lit",
+    "unicode": "&#59936;"
+  },
+  "alarm-strobe": {
+    "encodedCode": "\\ea21",
+    "prefix": "pfi",
+    "className": "pfi-alarm-strobe",
+    "unicode": "&#59937;"
+  },
+  "alert-bell-active": {
+    "encodedCode": "\\ea22",
+    "prefix": "pfi",
+    "className": "pfi-alert-bell-active",
+    "unicode": "&#59938;"
+  },
+  "alert-bell": {
+    "encodedCode": "\\ea23",
+    "prefix": "pfi",
+    "className": "pfi-alert-bell",
+    "unicode": "&#59939;"
+  },
+  "alert-circle": {
+    "encodedCode": "\\ea24",
+    "prefix": "pfi",
+    "className": "pfi-alert-circle",
+    "unicode": "&#59940;"
+  },
+  "alert-octagon": {
+    "encodedCode": "\\ea25",
+    "prefix": "pfi",
+    "className": "pfi-alert-octagon",
+    "unicode": "&#59941;"
+  },
+  "alert-triangle": {
+    "encodedCode": "\\ea26",
+    "prefix": "pfi",
+    "className": "pfi-alert-triangle",
+    "unicode": "&#59942;"
+  },
+  "alien": {
+    "encodedCode": "\\ea27",
+    "prefix": "pfi",
+    "className": "pfi-alien",
+    "unicode": "&#59943;"
+  },
+  "align-center": {
+    "encodedCode": "\\ea28",
+    "prefix": "pfi",
+    "className": "pfi-align-center",
+    "unicode": "&#59944;"
+  },
+  "align-left": {
+    "encodedCode": "\\ea29",
+    "prefix": "pfi",
+    "className": "pfi-align-left",
+    "unicode": "&#59945;"
+  },
+  "align-right": {
+    "encodedCode": "\\ea2a",
+    "prefix": "pfi",
+    "className": "pfi-align-right",
+    "unicode": "&#59946;"
+  },
+  "animal-beaver": {
+    "encodedCode": "\\ea2b",
+    "prefix": "pfi",
+    "className": "pfi-animal-beaver",
+    "unicode": "&#59947;"
+  },
+  "animal-cow": {
+    "encodedCode": "\\ea2c",
+    "prefix": "pfi",
+    "className": "pfi-animal-cow",
+    "unicode": "&#59948;"
+  },
+  "animal-deer": {
+    "encodedCode": "\\ea2d",
+    "prefix": "pfi",
+    "className": "pfi-animal-deer",
+    "unicode": "&#59949;"
+  },
+  "animal-goat": {
+    "encodedCode": "\\ea2e",
+    "prefix": "pfi",
+    "className": "pfi-animal-goat",
+    "unicode": "&#59950;"
+  },
+  "animal-rooster-alt-1": {
+    "encodedCode": "\\ea2f",
+    "prefix": "pfi",
+    "className": "pfi-animal-rooster-alt-1",
+    "unicode": "&#59951;"
+  },
+  "animal-rooster": {
+    "encodedCode": "\\ea30",
+    "prefix": "pfi",
+    "className": "pfi-animal-rooster",
+    "unicode": "&#59952;"
+  },
+  "animal-squirrel": {
+    "encodedCode": "\\ea31",
+    "prefix": "pfi",
+    "className": "pfi-animal-squirrel",
+    "unicode": "&#59953;"
+  },
+  "antenna-tower": {
+    "encodedCode": "\\ea32",
+    "prefix": "pfi",
+    "className": "pfi-antenna-tower",
+    "unicode": "&#59954;"
+  },
+  "anvil": {
+    "encodedCode": "\\ea33",
+    "prefix": "pfi",
+    "className": "pfi-anvil",
+    "unicode": "&#59955;"
+  },
+  "app-generic-alt-1": {
+    "encodedCode": "\\ea34",
+    "prefix": "pfi",
+    "className": "pfi-app-generic-alt-1",
+    "unicode": "&#59956;"
+  },
+  "app-generic-alt-2": {
+    "encodedCode": "\\ea35",
+    "prefix": "pfi",
+    "className": "pfi-app-generic-alt-2",
+    "unicode": "&#59957;"
+  },
+  "app-generic-alt-3": {
+    "encodedCode": "\\ea36",
+    "prefix": "pfi",
+    "className": "pfi-app-generic-alt-3",
+    "unicode": "&#59958;"
+  },
+  "app-generic": {
+    "encodedCode": "\\ea37",
+    "prefix": "pfi",
+    "className": "pfi-app-generic",
+    "unicode": "&#59959;"
+  },
+  "app-mgmt-alt-1": {
+    "encodedCode": "\\ea38",
+    "prefix": "pfi",
+    "className": "pfi-app-mgmt-alt-1",
+    "unicode": "&#59960;"
+  },
+  "app-mgmt": {
+    "encodedCode": "\\ea39",
+    "prefix": "pfi",
+    "className": "pfi-app-mgmt",
+    "unicode": "&#59961;"
+  },
+  "app-store-alt-1": {
+    "encodedCode": "\\ea3a",
+    "prefix": "pfi",
+    "className": "pfi-app-store-alt-1",
+    "unicode": "&#59962;"
+  },
+  "app-store-alt-2": {
+    "encodedCode": "\\ea3b",
+    "prefix": "pfi",
+    "className": "pfi-app-store-alt-2",
+    "unicode": "&#59963;"
+  },
+  "app-store-alt-3": {
+    "encodedCode": "\\ea3c",
+    "prefix": "pfi",
+    "className": "pfi-app-store-alt-3",
+    "unicode": "&#59964;"
+  },
+  "app-store-f-droid": {
+    "encodedCode": "\\ea3d",
+    "prefix": "pfi",
+    "className": "pfi-app-store-f-droid",
+    "unicode": "&#59965;"
+  },
+  "app-store-google-play": {
+    "encodedCode": "\\ea3e",
+    "prefix": "pfi",
+    "className": "pfi-app-store-google-play",
+    "unicode": "&#59966;"
+  },
+  "app-store-ios": {
+    "encodedCode": "\\ea3f",
+    "prefix": "pfi",
+    "className": "pfi-app-store-ios",
+    "unicode": "&#59967;"
+  },
+  "app-store": {
+    "encodedCode": "\\ea40",
+    "prefix": "pfi",
+    "className": "pfi-app-store",
+    "unicode": "&#59968;"
+  },
+  "apron": {
+    "encodedCode": "\\ea41",
+    "prefix": "pfi",
+    "className": "pfi-apron",
+    "unicode": "&#59969;"
+  },
+  "archaeology": {
+    "encodedCode": "\\ea42",
+    "prefix": "pfi",
+    "className": "pfi-archaeology",
+    "unicode": "&#59970;"
+  },
+  "army-ag": {
+    "encodedCode": "\\ea43",
+    "prefix": "pfi",
+    "className": "pfi-army-ag",
+    "unicode": "&#59971;"
+  },
+  "army-air-defense-artillery": {
+    "encodedCode": "\\ea44",
+    "prefix": "pfi",
+    "className": "pfi-army-air-defense-artillery",
+    "unicode": "&#59972;"
+  },
+  "army-atrrs": {
+    "encodedCode": "\\ea45",
+    "prefix": "pfi",
+    "className": "pfi-army-atrrs",
+    "unicode": "&#59973;"
+  },
+  "army-aviation": {
+    "encodedCode": "\\ea46",
+    "prefix": "pfi",
+    "className": "pfi-army-aviation",
+    "unicode": "&#59974;"
+  },
+  "army-chaplain": {
+    "encodedCode": "\\ea47",
+    "prefix": "pfi",
+    "className": "pfi-army-chaplain",
+    "unicode": "&#59975;"
+  },
+  "army-court-martial": {
+    "encodedCode": "\\ea48",
+    "prefix": "pfi",
+    "className": "pfi-army-court-martial",
+    "unicode": "&#59976;"
+  },
+  "army-dtms": {
+    "encodedCode": "\\ea49",
+    "prefix": "pfi",
+    "className": "pfi-army-dtms",
+    "unicode": "&#59977;"
+  },
+  "army-eo": {
+    "encodedCode": "\\ea4a",
+    "prefix": "pfi",
+    "className": "pfi-army-eo",
+    "unicode": "&#59978;"
+  },
+  "army-logo": {
+    "encodedCode": "\\ea4b",
+    "prefix": "pfi",
+    "className": "pfi-army-logo",
+    "unicode": "&#59979;"
+  },
+  "army-medical": {
+    "encodedCode": "\\ea4c",
+    "prefix": "pfi",
+    "className": "pfi-army-medical",
+    "unicode": "&#59980;"
+  },
+  "army-mi": {
+    "encodedCode": "\\ea4d",
+    "prefix": "pfi",
+    "className": "pfi-army-mi",
+    "unicode": "&#59981;"
+  },
+  "army-ngb-buddy-aid": {
+    "encodedCode": "\\ea4e",
+    "prefix": "pfi",
+    "className": "pfi-army-ngb-buddy-aid",
+    "unicode": "&#59982;"
+  },
+  "army-ngb-howie": {
+    "encodedCode": "\\ea4f",
+    "prefix": "pfi",
+    "className": "pfi-army-ngb-howie",
+    "unicode": "&#59983;"
+  },
+  "army-ngb": {
+    "encodedCode": "\\ea50",
+    "prefix": "pfi",
+    "className": "pfi-army-ngb",
+    "unicode": "&#59984;"
+  },
+  "army-ordnance": {
+    "encodedCode": "\\ea51",
+    "prefix": "pfi",
+    "className": "pfi-army-ordnance",
+    "unicode": "&#59985;"
+  },
+  "army-pec-billeting-mgmt": {
+    "encodedCode": "\\ea52",
+    "prefix": "pfi",
+    "className": "pfi-army-pec-billeting-mgmt",
+    "unicode": "&#59986;"
+  },
+  "army-pec-bn-ciab-ittc": {
+    "encodedCode": "\\ea53",
+    "prefix": "pfi",
+    "className": "pfi-army-pec-bn-ciab-ittc",
+    "unicode": "&#59987;"
+  },
+  "army-pec-bn-rmtb-rmtc": {
+    "encodedCode": "\\ea54",
+    "prefix": "pfi",
+    "className": "pfi-army-pec-bn-rmtb-rmtc",
+    "unicode": "&#59988;"
+  },
+  "army-pec-bn-sieb-iletc": {
+    "encodedCode": "\\ea55",
+    "prefix": "pfi",
+    "className": "pfi-army-pec-bn-sieb-iletc",
+    "unicode": "&#59989;"
+  },
+  "army-pec-bn-sldi-ortc": {
+    "encodedCode": "\\ea56",
+    "prefix": "pfi",
+    "className": "pfi-army-pec-bn-sldi-ortc",
+    "unicode": "&#59990;"
+  },
+  "army-pec-concord-menu": {
+    "encodedCode": "\\ea57",
+    "prefix": "pfi",
+    "className": "pfi-army-pec-concord-menu",
+    "unicode": "&#59991;"
+  },
+  "army-pec-fsdb": {
+    "encodedCode": "\\ea58",
+    "prefix": "pfi",
+    "className": "pfi-army-pec-fsdb",
+    "unicode": "&#59992;"
+  },
+  "army-pec-human-performance-logo": {
+    "encodedCode": "\\ea59",
+    "prefix": "pfi",
+    "className": "pfi-army-pec-human-performance-logo",
+    "unicode": "&#59993;"
+  },
+  "army-pec-human-performance": {
+    "encodedCode": "\\ea5a",
+    "prefix": "pfi",
+    "className": "pfi-army-pec-human-performance",
+    "unicode": "&#59994;"
+  },
+  "army-pec-iam-mgmt": {
+    "encodedCode": "\\ea5b",
+    "prefix": "pfi",
+    "className": "pfi-army-pec-iam-mgmt",
+    "unicode": "&#59995;"
+  },
+  "army-pec-logo": {
+    "encodedCode": "\\ea5c",
+    "prefix": "pfi",
+    "className": "pfi-army-pec-logo",
+    "unicode": "&#59996;"
+  },
+  "army-pec-portal": {
+    "encodedCode": "\\ea5d",
+    "prefix": "pfi",
+    "className": "pfi-army-pec-portal",
+    "unicode": "&#59997;"
+  },
+  "army-pec-qa": {
+    "encodedCode": "\\ea5e",
+    "prefix": "pfi",
+    "className": "pfi-army-pec-qa",
+    "unicode": "&#59998;"
+  },
+  "army-pec-qr-code": {
+    "encodedCode": "\\ea5f",
+    "prefix": "pfi",
+    "className": "pfi-army-pec-qr-code",
+    "unicode": "&#59999;"
+  },
+  "army-public-affairs": {
+    "encodedCode": "\\ea60",
+    "prefix": "pfi",
+    "className": "pfi-army-public-affairs",
+    "unicode": "&#60000;"
+  },
+  "army-rank-1sg": {
+    "encodedCode": "\\ea61",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-1sg",
+    "unicode": "&#60001;"
+  },
+  "army-rank-bg": {
+    "encodedCode": "\\ea62",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-bg",
+    "unicode": "&#60002;"
+  },
+  "army-rank-col": {
+    "encodedCode": "\\ea63",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-col",
+    "unicode": "&#60003;"
+  },
+  "army-rank-cpl": {
+    "encodedCode": "\\ea64",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-cpl",
+    "unicode": "&#60004;"
+  },
+  "army-rank-cpt": {
+    "encodedCode": "\\ea65",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-cpt",
+    "unicode": "&#60005;"
+  },
+  "army-rank-csm": {
+    "encodedCode": "\\ea66",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-csm",
+    "unicode": "&#60006;"
+  },
+  "army-rank-cw2": {
+    "encodedCode": "\\ea67",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-cw2",
+    "unicode": "&#60007;"
+  },
+  "army-rank-cw3": {
+    "encodedCode": "\\ea68",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-cw3",
+    "unicode": "&#60008;"
+  },
+  "army-rank-cw4": {
+    "encodedCode": "\\ea69",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-cw4",
+    "unicode": "&#60009;"
+  },
+  "army-rank-cw5": {
+    "encodedCode": "\\ea6a",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-cw5",
+    "unicode": "&#60010;"
+  },
+  "army-rank-gen": {
+    "encodedCode": "\\ea6b",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-gen",
+    "unicode": "&#60011;"
+  },
+  "army-rank-lt": {
+    "encodedCode": "\\ea6c",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-lt",
+    "unicode": "&#60012;"
+  },
+  "army-rank-ltc-maj": {
+    "encodedCode": "\\ea6d",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-ltc-maj",
+    "unicode": "&#60013;"
+  },
+  "army-rank-ltg": {
+    "encodedCode": "\\ea6e",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-ltg",
+    "unicode": "&#60014;"
+  },
+  "army-rank-mg": {
+    "encodedCode": "\\ea6f",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-mg",
+    "unicode": "&#60015;"
+  },
+  "army-rank-msg": {
+    "encodedCode": "\\ea70",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-msg",
+    "unicode": "&#60016;"
+  },
+  "army-rank-pfc": {
+    "encodedCode": "\\ea71",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-pfc",
+    "unicode": "&#60017;"
+  },
+  "army-rank-pvt": {
+    "encodedCode": "\\ea72",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-pvt",
+    "unicode": "&#60018;"
+  },
+  "army-rank-sfc": {
+    "encodedCode": "\\ea73",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-sfc",
+    "unicode": "&#60019;"
+  },
+  "army-rank-sgm": {
+    "encodedCode": "\\ea74",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-sgm",
+    "unicode": "&#60020;"
+  },
+  "army-rank-sgt": {
+    "encodedCode": "\\ea75",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-sgt",
+    "unicode": "&#60021;"
+  },
+  "army-rank-spc": {
+    "encodedCode": "\\ea76",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-spc",
+    "unicode": "&#60022;"
+  },
+  "army-rank-ssg": {
+    "encodedCode": "\\ea77",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-ssg",
+    "unicode": "&#60023;"
+  },
+  "army-rank-w01": {
+    "encodedCode": "\\ea78",
+    "prefix": "pfi",
+    "className": "pfi-army-rank-w01",
+    "unicode": "&#60024;"
+  },
+  "army-sarc": {
+    "encodedCode": "\\ea79",
+    "prefix": "pfi",
+    "className": "pfi-army-sarc",
+    "unicode": "&#60025;"
+  },
+  "army-signal": {
+    "encodedCode": "\\ea7a",
+    "prefix": "pfi",
+    "className": "pfi-army-signal",
+    "unicode": "&#60026;"
+  },
+  "army-tradoc": {
+    "encodedCode": "\\ea7b",
+    "prefix": "pfi",
+    "className": "pfi-army-tradoc",
+    "unicode": "&#60027;"
+  },
+  "army": {
+    "encodedCode": "\\ea7c",
+    "prefix": "pfi",
+    "className": "pfi-army",
+    "unicode": "&#60028;"
+  },
+  "arrow-down-chunky-alt": {
+    "encodedCode": "\\ea7d",
+    "prefix": "pfi",
+    "className": "pfi-arrow-down-chunky-alt",
+    "unicode": "&#60029;"
+  },
+  "arrow-down-chunky": {
+    "encodedCode": "\\ea7e",
+    "prefix": "pfi",
+    "className": "pfi-arrow-down-chunky",
+    "unicode": "&#60030;"
+  },
+  "arrow-down": {
+    "encodedCode": "\\ea7f",
+    "prefix": "pfi",
+    "className": "pfi-arrow-down",
+    "unicode": "&#60031;"
+  },
+  "arrow-left-chunky-alt": {
+    "encodedCode": "\\ea80",
+    "prefix": "pfi",
+    "className": "pfi-arrow-left-chunky-alt",
+    "unicode": "&#60032;"
+  },
+  "arrow-left-chunky": {
+    "encodedCode": "\\ea81",
+    "prefix": "pfi",
+    "className": "pfi-arrow-left-chunky",
+    "unicode": "&#60033;"
+  },
+  "arrow-left": {
+    "encodedCode": "\\ea82",
+    "prefix": "pfi",
+    "className": "pfi-arrow-left",
+    "unicode": "&#60034;"
+  },
+  "arrow-right-chunky-alt": {
+    "encodedCode": "\\ea83",
+    "prefix": "pfi",
+    "className": "pfi-arrow-right-chunky-alt",
+    "unicode": "&#60035;"
+  },
+  "arrow-right-chunky": {
+    "encodedCode": "\\ea84",
+    "prefix": "pfi",
+    "className": "pfi-arrow-right-chunky",
+    "unicode": "&#60036;"
+  },
+  "arrow-right": {
+    "encodedCode": "\\ea85",
+    "prefix": "pfi",
+    "className": "pfi-arrow-right",
+    "unicode": "&#60037;"
+  },
+  "arrow-up-chunky-alt": {
+    "encodedCode": "\\ea86",
+    "prefix": "pfi",
+    "className": "pfi-arrow-up-chunky-alt",
+    "unicode": "&#60038;"
+  },
+  "arrow-up-chunky": {
+    "encodedCode": "\\ea87",
+    "prefix": "pfi",
+    "className": "pfi-arrow-up-chunky",
+    "unicode": "&#60039;"
+  },
+  "arrow-up": {
+    "encodedCode": "\\ea88",
+    "prefix": "pfi",
+    "className": "pfi-arrow-up",
+    "unicode": "&#60040;"
+  },
+  "article-alt-1": {
+    "encodedCode": "\\ea89",
+    "prefix": "pfi",
+    "className": "pfi-article-alt-1",
+    "unicode": "&#60041;"
+  },
+  "article": {
+    "encodedCode": "\\ea8a",
+    "prefix": "pfi",
+    "className": "pfi-article",
+    "unicode": "&#60042;"
+  },
+  "ash": {
+    "encodedCode": "\\ea8b",
+    "prefix": "pfi",
+    "className": "pfi-ash",
+    "unicode": "&#60043;"
+  },
+  "asterisk": {
+    "encodedCode": "\\ea8c",
+    "prefix": "pfi",
+    "className": "pfi-asterisk",
+    "unicode": "&#60044;"
+  },
+  "astro-planet-earth": {
+    "encodedCode": "\\ea8d",
+    "prefix": "pfi",
+    "className": "pfi-astro-planet-earth",
+    "unicode": "&#60045;"
+  },
+  "astro-planet-jupiter": {
+    "encodedCode": "\\ea8e",
+    "prefix": "pfi",
+    "className": "pfi-astro-planet-jupiter",
+    "unicode": "&#60046;"
+  },
+  "astro-planet-mars": {
+    "encodedCode": "\\ea8f",
+    "prefix": "pfi",
+    "className": "pfi-astro-planet-mars",
+    "unicode": "&#60047;"
+  },
+  "astro-planet-mercury": {
+    "encodedCode": "\\ea90",
+    "prefix": "pfi",
+    "className": "pfi-astro-planet-mercury",
+    "unicode": "&#60048;"
+  },
+  "astro-planet-neptune": {
+    "encodedCode": "\\ea91",
+    "prefix": "pfi",
+    "className": "pfi-astro-planet-neptune",
+    "unicode": "&#60049;"
+  },
+  "astro-planet-saturn": {
+    "encodedCode": "\\ea92",
+    "prefix": "pfi",
+    "className": "pfi-astro-planet-saturn",
+    "unicode": "&#60050;"
+  },
+  "astro-planet-uranus": {
+    "encodedCode": "\\ea93",
+    "prefix": "pfi",
+    "className": "pfi-astro-planet-uranus",
+    "unicode": "&#60051;"
+  },
+  "astro-planet-venus": {
+    "encodedCode": "\\ea94",
+    "prefix": "pfi",
+    "className": "pfi-astro-planet-venus",
+    "unicode": "&#60052;"
+  },
+  "astro-pluto": {
+    "encodedCode": "\\ea95",
+    "prefix": "pfi",
+    "className": "pfi-astro-pluto",
+    "unicode": "&#60053;"
+  },
+  "audio-book": {
+    "encodedCode": "\\ea96",
+    "prefix": "pfi",
+    "className": "pfi-audio-book",
+    "unicode": "&#60054;"
+  },
+  "audio": {
+    "encodedCode": "\\ea97",
+    "prefix": "pfi",
+    "className": "pfi-audio",
+    "unicode": "&#60055;"
+  },
+  "auto-bus": {
+    "encodedCode": "\\ea98",
+    "prefix": "pfi",
+    "className": "pfi-auto-bus",
+    "unicode": "&#60056;"
+  },
+  "auto-camper-alt-1": {
+    "encodedCode": "\\ea99",
+    "prefix": "pfi",
+    "className": "pfi-auto-camper-alt-1",
+    "unicode": "&#60057;"
+  },
+  "auto-camper": {
+    "encodedCode": "\\ea9a",
+    "prefix": "pfi",
+    "className": "pfi-auto-camper",
+    "unicode": "&#60058;"
+  },
+  "auto-car": {
+    "encodedCode": "\\ea9b",
+    "prefix": "pfi",
+    "className": "pfi-auto-car",
+    "unicode": "&#60059;"
+  },
+  "auto-semi-truck": {
+    "encodedCode": "\\ea9c",
+    "prefix": "pfi",
+    "className": "pfi-auto-semi-truck",
+    "unicode": "&#60060;"
+  },
+  "auto-tire-alt-1": {
+    "encodedCode": "\\ea9d",
+    "prefix": "pfi",
+    "className": "pfi-auto-tire-alt-1",
+    "unicode": "&#60061;"
+  },
+  "auto-tire": {
+    "encodedCode": "\\ea9e",
+    "prefix": "pfi",
+    "className": "pfi-auto-tire",
+    "unicode": "&#60062;"
+  },
+  "auto-tow-truck": {
+    "encodedCode": "\\ea9f",
+    "prefix": "pfi",
+    "className": "pfi-auto-tow-truck",
+    "unicode": "&#60063;"
+  },
+  "auto-tractor": {
+    "encodedCode": "\\eaa0",
+    "prefix": "pfi",
+    "className": "pfi-auto-tractor",
+    "unicode": "&#60064;"
+  },
+  "auto-trailer": {
+    "encodedCode": "\\eaa1",
+    "prefix": "pfi",
+    "className": "pfi-auto-trailer",
+    "unicode": "&#60065;"
+  },
+  "auto-truck-pickup": {
+    "encodedCode": "\\eaa2",
+    "prefix": "pfi",
+    "className": "pfi-auto-truck-pickup",
+    "unicode": "&#60066;"
+  },
+  "backpack": {
+    "encodedCode": "\\eaa3",
+    "prefix": "pfi",
+    "className": "pfi-backpack",
+    "unicode": "&#60067;"
+  },
+  "badge": {
+    "encodedCode": "\\eaa4",
+    "prefix": "pfi",
+    "className": "pfi-badge",
+    "unicode": "&#60068;"
+  },
+  "balloon": {
+    "encodedCode": "\\eaa5",
+    "prefix": "pfi",
+    "className": "pfi-balloon",
+    "unicode": "&#60069;"
+  },
+  "bandaid": {
+    "encodedCode": "\\eaa6",
+    "prefix": "pfi",
+    "className": "pfi-bandaid",
+    "unicode": "&#60070;"
+  },
+  "barcode": {
+    "encodedCode": "\\eaa7",
+    "prefix": "pfi",
+    "className": "pfi-barcode",
+    "unicode": "&#60071;"
+  },
+  "barn": {
+    "encodedCode": "\\eaa8",
+    "prefix": "pfi",
+    "className": "pfi-barn",
+    "unicode": "&#60072;"
+  },
+  "barrel": {
+    "encodedCode": "\\eaa9",
+    "prefix": "pfi",
+    "className": "pfi-barrel",
+    "unicode": "&#60073;"
+  },
+  "battery-0": {
+    "encodedCode": "\\eaaa",
+    "prefix": "pfi",
+    "className": "pfi-battery-0",
+    "unicode": "&#60074;"
+  },
+  "battery-100": {
+    "encodedCode": "\\eaab",
+    "prefix": "pfi",
+    "className": "pfi-battery-100",
+    "unicode": "&#60075;"
+  },
+  "battery-25": {
+    "encodedCode": "\\eaac",
+    "prefix": "pfi",
+    "className": "pfi-battery-25",
+    "unicode": "&#60076;"
+  },
+  "battery-50": {
+    "encodedCode": "\\eaad",
+    "prefix": "pfi",
+    "className": "pfi-battery-50",
+    "unicode": "&#60077;"
+  },
+  "battery-75": {
+    "encodedCode": "\\eaae",
+    "prefix": "pfi",
+    "className": "pfi-battery-75",
+    "unicode": "&#60078;"
+  },
+  "battery-bolt": {
+    "encodedCode": "\\eaaf",
+    "prefix": "pfi",
+    "className": "pfi-battery-bolt",
+    "unicode": "&#60079;"
+  },
+  "beard-alt-1": {
+    "encodedCode": "\\eab0",
+    "prefix": "pfi",
+    "className": "pfi-beard-alt-1",
+    "unicode": "&#60080;"
+  },
+  "beard": {
+    "encodedCode": "\\eab1",
+    "prefix": "pfi",
+    "className": "pfi-beard",
+    "unicode": "&#60081;"
+  },
+  "bed": {
+    "encodedCode": "\\eab2",
+    "prefix": "pfi",
+    "className": "pfi-bed",
+    "unicode": "&#60082;"
+  },
+  "beverage-coffee-bean": {
+    "encodedCode": "\\eab3",
+    "prefix": "pfi",
+    "className": "pfi-beverage-coffee-bean",
+    "unicode": "&#60083;"
+  },
+  "beverage-coffee-cup-hot": {
+    "encodedCode": "\\eab4",
+    "prefix": "pfi",
+    "className": "pfi-beverage-coffee-cup-hot",
+    "unicode": "&#60084;"
+  },
+  "beverage-coffee-cup": {
+    "encodedCode": "\\eab5",
+    "prefix": "pfi",
+    "className": "pfi-beverage-coffee-cup",
+    "unicode": "&#60085;"
+  },
+  "beverage-coffee-pot": {
+    "encodedCode": "\\eab6",
+    "prefix": "pfi",
+    "className": "pfi-beverage-coffee-pot",
+    "unicode": "&#60086;"
+  },
+  "beverage-tea-bag": {
+    "encodedCode": "\\eab7",
+    "prefix": "pfi",
+    "className": "pfi-beverage-tea-bag",
+    "unicode": "&#60087;"
+  },
+  "beverage-tea-cup-hot": {
+    "encodedCode": "\\eab8",
+    "prefix": "pfi",
+    "className": "pfi-beverage-tea-cup-hot",
+    "unicode": "&#60088;"
+  },
+  "beverage-tea-cup": {
+    "encodedCode": "\\eab9",
+    "prefix": "pfi",
+    "className": "pfi-beverage-tea-cup",
+    "unicode": "&#60089;"
+  },
+  "binary": {
+    "encodedCode": "\\eaba",
+    "prefix": "pfi",
+    "className": "pfi-binary",
+    "unicode": "&#60090;"
+  },
+  "blog-andrew-bunnie-huang": {
+    "encodedCode": "\\eabb",
+    "prefix": "pfi",
+    "className": "pfi-blog-andrew-bunnie-huang",
+    "unicode": "&#60091;"
+  },
+  "blog": {
+    "encodedCode": "\\eabc",
+    "prefix": "pfi",
+    "className": "pfi-blog",
+    "unicode": "&#60092;"
+  },
+  "bluetooth": {
+    "encodedCode": "\\eabd",
+    "prefix": "pfi",
+    "className": "pfi-bluetooth",
+    "unicode": "&#60093;"
+  },
+  "bold": {
+    "encodedCode": "\\eabe",
+    "prefix": "pfi",
+    "className": "pfi-bold",
+    "unicode": "&#60094;"
+  },
+  "book-alt-1": {
+    "encodedCode": "\\eabf",
+    "prefix": "pfi",
+    "className": "pfi-book-alt-1",
+    "unicode": "&#60095;"
+  },
+  "book-alt-2": {
+    "encodedCode": "\\eac0",
+    "prefix": "pfi",
+    "className": "pfi-book-alt-2",
+    "unicode": "&#60096;"
+  },
+  "book-chapter": {
+    "encodedCode": "\\eac1",
+    "prefix": "pfi",
+    "className": "pfi-book-chapter",
+    "unicode": "&#60097;"
+  },
+  "book-index": {
+    "encodedCode": "\\eac2",
+    "prefix": "pfi",
+    "className": "pfi-book-index",
+    "unicode": "&#60098;"
+  },
+  "book-open-facing-away": {
+    "encodedCode": "\\eac3",
+    "prefix": "pfi",
+    "className": "pfi-book-open-facing-away",
+    "unicode": "&#60099;"
+  },
+  "book-open-facing-up": {
+    "encodedCode": "\\eac4",
+    "prefix": "pfi",
+    "className": "pfi-book-open-facing-up",
+    "unicode": "&#60100;"
+  },
+  "book-page": {
+    "encodedCode": "\\eac5",
+    "prefix": "pfi",
+    "className": "pfi-book-page",
+    "unicode": "&#60101;"
+  },
+  "book-table-of-contents": {
+    "encodedCode": "\\eac6",
+    "prefix": "pfi",
+    "className": "pfi-book-table-of-contents",
+    "unicode": "&#60102;"
+  },
+  "book": {
+    "encodedCode": "\\eac7",
+    "prefix": "pfi",
+    "className": "pfi-book",
+    "unicode": "&#60103;"
+  },
+  "bookmark-empty": {
+    "encodedCode": "\\eac8",
+    "prefix": "pfi",
+    "className": "pfi-bookmark-empty",
+    "unicode": "&#60104;"
+  },
+  "bookmark-filled": {
+    "encodedCode": "\\eac9",
+    "prefix": "pfi",
+    "className": "pfi-bookmark-filled",
+    "unicode": "&#60105;"
+  },
+  "bookshelf-alt-1": {
+    "encodedCode": "\\eaca",
+    "prefix": "pfi",
+    "className": "pfi-bookshelf-alt-1",
+    "unicode": "&#60106;"
+  },
+  "bookshelf": {
+    "encodedCode": "\\eacb",
+    "prefix": "pfi",
+    "className": "pfi-bookshelf",
+    "unicode": "&#60107;"
+  },
+  "bootstrap-design-framework": {
+    "encodedCode": "\\eacc",
+    "prefix": "pfi",
+    "className": "pfi-bootstrap-design-framework",
+    "unicode": "&#60108;"
+  },
+  "bow-tie": {
+    "encodedCode": "\\eacd",
+    "prefix": "pfi",
+    "className": "pfi-bow-tie",
+    "unicode": "&#60109;"
+  },
+  "bow": {
+    "encodedCode": "\\eace",
+    "prefix": "pfi",
+    "className": "pfi-bow",
+    "unicode": "&#60110;"
+  },
+  "box-closed": {
+    "encodedCode": "\\eacf",
+    "prefix": "pfi",
+    "className": "pfi-box-closed",
+    "unicode": "&#60111;"
+  },
+  "box-pack": {
+    "encodedCode": "\\ead0",
+    "prefix": "pfi",
+    "className": "pfi-box-pack",
+    "unicode": "&#60112;"
+  },
+  "box-ship": {
+    "encodedCode": "\\ead1",
+    "prefix": "pfi",
+    "className": "pfi-box-ship",
+    "unicode": "&#60113;"
+  },
+  "box-unpack": {
+    "encodedCode": "\\ead2",
+    "prefix": "pfi",
+    "className": "pfi-box-unpack",
+    "unicode": "&#60114;"
+  },
+  "box": {
+    "encodedCode": "\\ead3",
+    "prefix": "pfi",
+    "className": "pfi-box",
+    "unicode": "&#60115;"
+  },
+  "boxes": {
+    "encodedCode": "\\ead4",
+    "prefix": "pfi",
+    "className": "pfi-boxes",
+    "unicode": "&#60116;"
+  },
+  "brain": {
+    "encodedCode": "\\ead5",
+    "prefix": "pfi",
+    "className": "pfi-brain",
+    "unicode": "&#60117;"
+  },
+  "breakout": {
+    "encodedCode": "\\ead6",
+    "prefix": "pfi",
+    "className": "pfi-breakout",
+    "unicode": "&#60118;"
+  },
+  "bug-ant": {
+    "encodedCode": "\\ead7",
+    "prefix": "pfi",
+    "className": "pfi-bug-ant",
+    "unicode": "&#60119;"
+  },
+  "bug-bee-alt-1": {
+    "encodedCode": "\\ead8",
+    "prefix": "pfi",
+    "className": "pfi-bug-bee-alt-1",
+    "unicode": "&#60120;"
+  },
+  "bug-bee-alt-2": {
+    "encodedCode": "\\ead9",
+    "prefix": "pfi",
+    "className": "pfi-bug-bee-alt-2",
+    "unicode": "&#60121;"
+  },
+  "bug-bee": {
+    "encodedCode": "\\eada",
+    "prefix": "pfi",
+    "className": "pfi-bug-bee",
+    "unicode": "&#60122;"
+  },
+  "bug-moth": {
+    "encodedCode": "\\eadb",
+    "prefix": "pfi",
+    "className": "pfi-bug-moth",
+    "unicode": "&#60123;"
+  },
+  "bug-wasp-hornet": {
+    "encodedCode": "\\eadc",
+    "prefix": "pfi",
+    "className": "pfi-bug-wasp-hornet",
+    "unicode": "&#60124;"
+  },
+  "bug": {
+    "encodedCode": "\\eadd",
+    "prefix": "pfi",
+    "className": "pfi-bug",
+    "unicode": "&#60125;"
+  },
+  "building-multi-story-alt-1": {
+    "encodedCode": "\\eade",
+    "prefix": "pfi",
+    "className": "pfi-building-multi-story-alt-1",
+    "unicode": "&#60126;"
+  },
+  "building-multi-story-wings": {
+    "encodedCode": "\\eadf",
+    "prefix": "pfi",
+    "className": "pfi-building-multi-story-wings",
+    "unicode": "&#60127;"
+  },
+  "building-multi-story": {
+    "encodedCode": "\\eae0",
+    "prefix": "pfi",
+    "className": "pfi-building-multi-story",
+    "unicode": "&#60128;"
+  },
+  "bullet-journal-appointment-canceled": {
+    "encodedCode": "\\eae1",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-appointment-canceled",
+    "unicode": "&#60129;"
+  },
+  "bullet-journal-appointment-complete": {
+    "encodedCode": "\\eae2",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-appointment-complete",
+    "unicode": "&#60130;"
+  },
+  "bullet-journal-appointment-migrated": {
+    "encodedCode": "\\eae3",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-appointment-migrated",
+    "unicode": "&#60131;"
+  },
+  "bullet-journal-appointment": {
+    "encodedCode": "\\eae4",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-appointment",
+    "unicode": "&#60132;"
+  },
+  "bullet-journal-event-canceled-2": {
+    "encodedCode": "\\eae5",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-event-canceled-2",
+    "unicode": "&#60133;"
+  },
+  "bullet-journal-event-canceled": {
+    "encodedCode": "\\eae6",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-event-canceled",
+    "unicode": "&#60134;"
+  },
+  "bullet-journal-event-complete": {
+    "encodedCode": "\\eae7",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-event-complete",
+    "unicode": "&#60135;"
+  },
+  "bullet-journal-event-migrated": {
+    "encodedCode": "\\eae8",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-event-migrated",
+    "unicode": "&#60136;"
+  },
+  "bullet-journal-event-started": {
+    "encodedCode": "\\eae9",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-event-started",
+    "unicode": "&#60137;"
+  },
+  "bullet-journal-event": {
+    "encodedCode": "\\eaea",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-event",
+    "unicode": "&#60138;"
+  },
+  "bullet-journal-important-1": {
+    "encodedCode": "\\eaeb",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-important-1",
+    "unicode": "&#60139;"
+  },
+  "bullet-journal-important-2": {
+    "encodedCode": "\\eaec",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-important-2",
+    "unicode": "&#60140;"
+  },
+  "bullet-journal-important-done": {
+    "encodedCode": "\\eaed",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-important-done",
+    "unicode": "&#60141;"
+  },
+  "bullet-journal-important": {
+    "encodedCode": "\\eaee",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-important",
+    "unicode": "&#60142;"
+  },
+  "bullet-journal-migrate": {
+    "encodedCode": "\\eaef",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-migrate",
+    "unicode": "&#60143;"
+  },
+  "bullet-journal-note": {
+    "encodedCode": "\\eaf0",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-note",
+    "unicode": "&#60144;"
+  },
+  "bullet-journal-question": {
+    "encodedCode": "\\eaf1",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-question",
+    "unicode": "&#60145;"
+  },
+  "bullet-journal-schedule-clock": {
+    "encodedCode": "\\eaf2",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-schedule-clock",
+    "unicode": "&#60146;"
+  },
+  "bullet-journal-schedule": {
+    "encodedCode": "\\eaf3",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-schedule",
+    "unicode": "&#60147;"
+  },
+  "bullet-journal-task-canceled": {
+    "encodedCode": "\\eaf4",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-task-canceled",
+    "unicode": "&#60148;"
+  },
+  "bullet-journal-task-complete": {
+    "encodedCode": "\\eaf5",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-task-complete",
+    "unicode": "&#60149;"
+  },
+  "bullet-journal-task-migrated": {
+    "encodedCode": "\\eaf6",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-task-migrated",
+    "unicode": "&#60150;"
+  },
+  "bullet-journal-task-started": {
+    "encodedCode": "\\eaf7",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-task-started",
+    "unicode": "&#60151;"
+  },
+  "bullet-journal-task": {
+    "encodedCode": "\\eaf8",
+    "prefix": "pfi",
+    "className": "pfi-bullet-journal-task",
+    "unicode": "&#60152;"
+  },
+  "bullet-list": {
+    "encodedCode": "\\eaf9",
+    "prefix": "pfi",
+    "className": "pfi-bullet-list",
+    "unicode": "&#60153;"
+  },
+  "bullhorn": {
+    "encodedCode": "\\eafa",
+    "prefix": "pfi",
+    "className": "pfi-bullhorn",
+    "unicode": "&#60154;"
+  },
+  "calculator": {
+    "encodedCode": "\\eafb",
+    "prefix": "pfi",
+    "className": "pfi-calculator",
+    "unicode": "&#60155;"
+  },
+  "calendar-schedule": {
+    "encodedCode": "\\eafc",
+    "prefix": "pfi",
+    "className": "pfi-calendar-schedule",
+    "unicode": "&#60156;"
+  },
+  "camera-aperture": {
+    "encodedCode": "\\eafd",
+    "prefix": "pfi",
+    "className": "pfi-camera-aperture",
+    "unicode": "&#60157;"
+  },
+  "camera-video": {
+    "encodedCode": "\\eafe",
+    "prefix": "pfi",
+    "className": "pfi-camera-video",
+    "unicode": "&#60158;"
+  },
+  "camera": {
+    "encodedCode": "\\eaff",
+    "prefix": "pfi",
+    "className": "pfi-camera",
+    "unicode": "&#60159;"
+  },
+  "campus": {
+    "encodedCode": "\\eb00",
+    "prefix": "pfi",
+    "className": "pfi-campus",
+    "unicode": "&#60160;"
+  },
+  "cancel": {
+    "encodedCode": "\\eb01",
+    "prefix": "pfi",
+    "className": "pfi-cancel",
+    "unicode": "&#60161;"
+  },
+  "candle": {
+    "encodedCode": "\\eb02",
+    "prefix": "pfi",
+    "className": "pfi-candle",
+    "unicode": "&#60162;"
+  },
+  "cards": {
+    "encodedCode": "\\eb03",
+    "prefix": "pfi",
+    "className": "pfi-cards",
+    "unicode": "&#60163;"
+  },
+  "cart": {
+    "encodedCode": "\\eb04",
+    "prefix": "pfi",
+    "className": "pfi-cart",
+    "unicode": "&#60164;"
+  },
+  "cctv": {
+    "encodedCode": "\\eb05",
+    "prefix": "pfi",
+    "className": "pfi-cctv",
+    "unicode": "&#60165;"
+  },
+  "certificate": {
+    "encodedCode": "\\eb06",
+    "prefix": "pfi",
+    "className": "pfi-certificate",
+    "unicode": "&#60166;"
+  },
+  "changelog": {
+    "encodedCode": "\\eb07",
+    "prefix": "pfi",
+    "className": "pfi-changelog",
+    "unicode": "&#60167;"
+  },
+  "chart-bar-horizontal": {
+    "encodedCode": "\\eb08",
+    "prefix": "pfi",
+    "className": "pfi-chart-bar-horizontal",
+    "unicode": "&#60168;"
+  },
+  "chart-bar": {
+    "encodedCode": "\\eb09",
+    "prefix": "pfi",
+    "className": "pfi-chart-bar",
+    "unicode": "&#60169;"
+  },
+  "chart-line": {
+    "encodedCode": "\\eb0a",
+    "prefix": "pfi",
+    "className": "pfi-chart-line",
+    "unicode": "&#60170;"
+  },
+  "chart-pie": {
+    "encodedCode": "\\eb0b",
+    "prefix": "pfi",
+    "className": "pfi-chart-pie",
+    "unicode": "&#60171;"
+  },
+  "chart-venn-tri": {
+    "encodedCode": "\\eb0c",
+    "prefix": "pfi",
+    "className": "pfi-chart-venn-tri",
+    "unicode": "&#60172;"
+  },
+  "chart-venn": {
+    "encodedCode": "\\eb0d",
+    "prefix": "pfi",
+    "className": "pfi-chart-venn",
+    "unicode": "&#60173;"
+  },
+  "check-circle": {
+    "encodedCode": "\\eb0e",
+    "prefix": "pfi",
+    "className": "pfi-check-circle",
+    "unicode": "&#60174;"
+  },
+  "check-list": {
+    "encodedCode": "\\eb0f",
+    "prefix": "pfi",
+    "className": "pfi-check-list",
+    "unicode": "&#60175;"
+  },
+  "check": {
+    "encodedCode": "\\eb10",
+    "prefix": "pfi",
+    "className": "pfi-check",
+    "unicode": "&#60176;"
+  },
+  "clipboard": {
+    "encodedCode": "\\eb11",
+    "prefix": "pfi",
+    "className": "pfi-clipboard",
+    "unicode": "&#60177;"
+  },
+  "clock": {
+    "encodedCode": "\\eb12",
+    "prefix": "pfi",
+    "className": "pfi-clock",
+    "unicode": "&#60178;"
+  },
+  "clone": {
+    "encodedCode": "\\eb13",
+    "prefix": "pfi",
+    "className": "pfi-clone",
+    "unicode": "&#60179;"
+  },
+  "cms-content-management": {
+    "encodedCode": "\\eb14",
+    "prefix": "pfi",
+    "className": "pfi-cms-content-management",
+    "unicode": "&#60180;"
+  },
+  "code-morse-alt": {
+    "encodedCode": "\\eb15",
+    "prefix": "pfi",
+    "className": "pfi-code-morse-alt",
+    "unicode": "&#60181;"
+  },
+  "code-morse": {
+    "encodedCode": "\\eb16",
+    "prefix": "pfi",
+    "className": "pfi-code-morse",
+    "unicode": "&#60182;"
+  },
+  "coding": {
+    "encodedCode": "\\eb17",
+    "prefix": "pfi",
+    "className": "pfi-coding",
+    "unicode": "&#60183;"
+  },
+  "comic-superman": {
+    "encodedCode": "\\eb18",
+    "prefix": "pfi",
+    "className": "pfi-comic-superman",
+    "unicode": "&#60184;"
+  },
+  "comment-box": {
+    "encodedCode": "\\eb19",
+    "prefix": "pfi",
+    "className": "pfi-comment-box",
+    "unicode": "&#60185;"
+  },
+  "comment-left": {
+    "encodedCode": "\\eb1a",
+    "prefix": "pfi",
+    "className": "pfi-comment-left",
+    "unicode": "&#60186;"
+  },
+  "comment-right": {
+    "encodedCode": "\\eb1b",
+    "prefix": "pfi",
+    "className": "pfi-comment-right",
+    "unicode": "&#60187;"
+  },
+  "comments-left": {
+    "encodedCode": "\\eb1c",
+    "prefix": "pfi",
+    "className": "pfi-comments-left",
+    "unicode": "&#60188;"
+  },
+  "comments-right": {
+    "encodedCode": "\\eb1d",
+    "prefix": "pfi",
+    "className": "pfi-comments-right",
+    "unicode": "&#60189;"
+  },
+  "company-airbnb": {
+    "encodedCode": "\\eb1e",
+    "prefix": "pfi",
+    "className": "pfi-company-airbnb",
+    "unicode": "&#60190;"
+  },
+  "company-amazon": {
+    "encodedCode": "\\eb1f",
+    "prefix": "pfi",
+    "className": "pfi-company-amazon",
+    "unicode": "&#60191;"
+  },
+  "company-amd-alt": {
+    "encodedCode": "\\eb20",
+    "prefix": "pfi",
+    "className": "pfi-company-amd-alt",
+    "unicode": "&#60192;"
+  },
+  "company-amd": {
+    "encodedCode": "\\eb21",
+    "prefix": "pfi",
+    "className": "pfi-company-amd",
+    "unicode": "&#60193;"
+  },
+  "company-american-express": {
+    "encodedCode": "\\eb22",
+    "prefix": "pfi",
+    "className": "pfi-company-american-express",
+    "unicode": "&#60194;"
+  },
+  "company-apple": {
+    "encodedCode": "\\eb23",
+    "prefix": "pfi",
+    "className": "pfi-company-apple",
+    "unicode": "&#60195;"
+  },
+  "company-atari": {
+    "encodedCode": "\\eb24",
+    "prefix": "pfi",
+    "className": "pfi-company-atari",
+    "unicode": "&#60196;"
+  },
+  "company-audi": {
+    "encodedCode": "\\eb25",
+    "prefix": "pfi",
+    "className": "pfi-company-audi",
+    "unicode": "&#60197;"
+  },
+  "company-audible": {
+    "encodedCode": "\\eb26",
+    "prefix": "pfi",
+    "className": "pfi-company-audible",
+    "unicode": "&#60198;"
+  },
+  "company-bit-bucket": {
+    "encodedCode": "\\eb27",
+    "prefix": "pfi",
+    "className": "pfi-company-bit-bucket",
+    "unicode": "&#60199;"
+  },
+  "company-blogger": {
+    "encodedCode": "\\eb28",
+    "prefix": "pfi",
+    "className": "pfi-company-blogger",
+    "unicode": "&#60200;"
+  },
+  "company-bobcat": {
+    "encodedCode": "\\eb29",
+    "prefix": "pfi",
+    "className": "pfi-company-bobcat",
+    "unicode": "&#60201;"
+  },
+  "company-cat": {
+    "encodedCode": "\\eb2a",
+    "prefix": "pfi",
+    "className": "pfi-company-cat",
+    "unicode": "&#60202;"
+  },
+  "company-chatgpt": {
+    "encodedCode": "\\eb2b",
+    "prefix": "pfi",
+    "className": "pfi-company-chatgpt",
+    "unicode": "&#60203;"
+  },
+  "company-chevrolet": {
+    "encodedCode": "\\eb2c",
+    "prefix": "pfi",
+    "className": "pfi-company-chevrolet",
+    "unicode": "&#60204;"
+  },
+  "company-commodore": {
+    "encodedCode": "\\eb2d",
+    "prefix": "pfi",
+    "className": "pfi-company-commodore",
+    "unicode": "&#60205;"
+  },
+  "company-dhl": {
+    "encodedCode": "\\eb2e",
+    "prefix": "pfi",
+    "className": "pfi-company-dhl",
+    "unicode": "&#60206;"
+  },
+  "company-digikey": {
+    "encodedCode": "\\eb2f",
+    "prefix": "pfi",
+    "className": "pfi-company-digikey",
+    "unicode": "&#60207;"
+  },
+  "company-digitalocean": {
+    "encodedCode": "\\eb30",
+    "prefix": "pfi",
+    "className": "pfi-company-digitalocean",
+    "unicode": "&#60208;"
+  },
+  "company-docker": {
+    "encodedCode": "\\eb31",
+    "prefix": "pfi",
+    "className": "pfi-company-docker",
+    "unicode": "&#60209;"
+  },
+  "company-duckduckgo": {
+    "encodedCode": "\\eb32",
+    "prefix": "pfi",
+    "className": "pfi-company-duckduckgo",
+    "unicode": "&#60210;"
+  },
+  "company-elastic": {
+    "encodedCode": "\\eb33",
+    "prefix": "pfi",
+    "className": "pfi-company-elastic",
+    "unicode": "&#60211;"
+  },
+  "company-fedex": {
+    "encodedCode": "\\eb34",
+    "prefix": "pfi",
+    "className": "pfi-company-fedex",
+    "unicode": "&#60212;"
+  },
+  "company-feedly": {
+    "encodedCode": "\\eb35",
+    "prefix": "pfi",
+    "className": "pfi-company-feedly",
+    "unicode": "&#60213;"
+  },
+  "company-fender": {
+    "encodedCode": "\\eb36",
+    "prefix": "pfi",
+    "className": "pfi-company-fender",
+    "unicode": "&#60214;"
+  },
+  "company-ford": {
+    "encodedCode": "\\eb37",
+    "prefix": "pfi",
+    "className": "pfi-company-ford",
+    "unicode": "&#60215;"
+  },
+  "company-gitLab": {
+    "encodedCode": "\\eb38",
+    "prefix": "pfi",
+    "className": "pfi-company-gitLab",
+    "unicode": "&#60216;"
+  },
+  "company-github": {
+    "encodedCode": "\\eb39",
+    "prefix": "pfi",
+    "className": "pfi-company-github",
+    "unicode": "&#60217;"
+  },
+  "company-google": {
+    "encodedCode": "\\eb3a",
+    "prefix": "pfi",
+    "className": "pfi-company-google",
+    "unicode": "&#60218;"
+  },
+  "company-harley-davidson": {
+    "encodedCode": "\\eb3b",
+    "prefix": "pfi",
+    "className": "pfi-company-harley-davidson",
+    "unicode": "&#60219;"
+  },
+  "company-ibanez": {
+    "encodedCode": "\\eb3c",
+    "prefix": "pfi",
+    "className": "pfi-company-ibanez",
+    "unicode": "&#60220;"
+  },
+  "company-ibm": {
+    "encodedCode": "\\eb3d",
+    "prefix": "pfi",
+    "className": "pfi-company-ibm",
+    "unicode": "&#60221;"
+  },
+  "company-ikea": {
+    "encodedCode": "\\eb3e",
+    "prefix": "pfi",
+    "className": "pfi-company-ikea",
+    "unicode": "&#60222;"
+  },
+  "company-intel-logo": {
+    "encodedCode": "\\eb3f",
+    "prefix": "pfi",
+    "className": "pfi-company-intel-logo",
+    "unicode": "&#60223;"
+  },
+  "company-jeep": {
+    "encodedCode": "\\eb40",
+    "prefix": "pfi",
+    "className": "pfi-company-jeep",
+    "unicode": "&#60224;"
+  },
+  "company-john-deere": {
+    "encodedCode": "\\eb41",
+    "prefix": "pfi",
+    "className": "pfi-company-john-deere",
+    "unicode": "&#60225;"
+  },
+  "company-kubernetes": {
+    "encodedCode": "\\eb42",
+    "prefix": "pfi",
+    "className": "pfi-company-kubernetes",
+    "unicode": "&#60226;"
+  },
+  "company-mahindra": {
+    "encodedCode": "\\eb43",
+    "prefix": "pfi",
+    "className": "pfi-company-mahindra",
+    "unicode": "&#60227;"
+  },
+  "company-make": {
+    "encodedCode": "\\eb44",
+    "prefix": "pfi",
+    "className": "pfi-company-make",
+    "unicode": "&#60228;"
+  },
+  "company-massey-ferguson": {
+    "encodedCode": "\\eb45",
+    "prefix": "pfi",
+    "className": "pfi-company-massey-ferguson",
+    "unicode": "&#60229;"
+  },
+  "company-mastercard": {
+    "encodedCode": "\\eb46",
+    "prefix": "pfi",
+    "className": "pfi-company-mastercard",
+    "unicode": "&#60230;"
+  },
+  "company-microsoft": {
+    "encodedCode": "\\eb47",
+    "prefix": "pfi",
+    "className": "pfi-company-microsoft",
+    "unicode": "&#60231;"
+  },
+  "company-molex": {
+    "encodedCode": "\\eb48",
+    "prefix": "pfi",
+    "className": "pfi-company-molex",
+    "unicode": "&#60232;"
+  },
+  "company-openai": {
+    "encodedCode": "\\eb49",
+    "prefix": "pfi",
+    "className": "pfi-company-openai",
+    "unicode": "&#60233;"
+  },
+  "company-paypal": {
+    "encodedCode": "\\eb4a",
+    "prefix": "pfi",
+    "className": "pfi-company-paypal",
+    "unicode": "&#60234;"
+  },
+  "company-pocketbase": {
+    "encodedCode": "\\eb4b",
+    "prefix": "pfi",
+    "className": "pfi-company-pocketbase",
+    "unicode": "&#60235;"
+  },
+  "company-rolex": {
+    "encodedCode": "\\eb4c",
+    "prefix": "pfi",
+    "className": "pfi-company-rolex",
+    "unicode": "&#60236;"
+  },
+  "company-salesforce": {
+    "encodedCode": "\\eb4d",
+    "prefix": "pfi",
+    "className": "pfi-company-salesforce",
+    "unicode": "&#60237;"
+  },
+  "company-spacex": {
+    "encodedCode": "\\eb4e",
+    "prefix": "pfi",
+    "className": "pfi-company-spacex",
+    "unicode": "&#60238;"
+  },
+  "company-spotify": {
+    "encodedCode": "\\eb4f",
+    "prefix": "pfi",
+    "className": "pfi-company-spotify",
+    "unicode": "&#60239;"
+  },
+  "company-square": {
+    "encodedCode": "\\eb50",
+    "prefix": "pfi",
+    "className": "pfi-company-square",
+    "unicode": "&#60240;"
+  },
+  "company-steam": {
+    "encodedCode": "\\eb51",
+    "prefix": "pfi",
+    "className": "pfi-company-steam",
+    "unicode": "&#60241;"
+  },
+  "company-stripe": {
+    "encodedCode": "\\eb52",
+    "prefix": "pfi",
+    "className": "pfi-company-stripe",
+    "unicode": "&#60242;"
+  },
+  "company-suzuki": {
+    "encodedCode": "\\eb53",
+    "prefix": "pfi",
+    "className": "pfi-company-suzuki",
+    "unicode": "&#60243;"
+  },
+  "company-tesla-motors": {
+    "encodedCode": "\\eb54",
+    "prefix": "pfi",
+    "className": "pfi-company-tesla-motors",
+    "unicode": "&#60244;"
+  },
+  "company-toyota": {
+    "encodedCode": "\\eb55",
+    "prefix": "pfi",
+    "className": "pfi-company-toyota",
+    "unicode": "&#60245;"
+  },
+  "company-ups": {
+    "encodedCode": "\\eb56",
+    "prefix": "pfi",
+    "className": "pfi-company-ups",
+    "unicode": "&#60246;"
+  },
+  "company-venmo": {
+    "encodedCode": "\\eb57",
+    "prefix": "pfi",
+    "className": "pfi-company-venmo",
+    "unicode": "&#60247;"
+  },
+  "company-visa": {
+    "encodedCode": "\\eb58",
+    "prefix": "pfi",
+    "className": "pfi-company-visa",
+    "unicode": "&#60248;"
+  },
+  "company-vmware": {
+    "encodedCode": "\\eb59",
+    "prefix": "pfi",
+    "className": "pfi-company-vmware",
+    "unicode": "&#60249;"
+  },
+  "company-zelle": {
+    "encodedCode": "\\eb5a",
+    "prefix": "pfi",
+    "className": "pfi-company-zelle",
+    "unicode": "&#60250;"
+  },
+  "company-zoom": {
+    "encodedCode": "\\eb5b",
+    "prefix": "pfi",
+    "className": "pfi-company-zoom",
+    "unicode": "&#60251;"
+  },
+  "conferencing": {
+    "encodedCode": "\\eb5c",
+    "prefix": "pfi",
+    "className": "pfi-conferencing",
+    "unicode": "&#60252;"
+  },
+  "contract": {
+    "encodedCode": "\\eb5d",
+    "prefix": "pfi",
+    "className": "pfi-contract",
+    "unicode": "&#60253;"
+  },
+  "course-catalog": {
+    "encodedCode": "\\eb5e",
+    "prefix": "pfi",
+    "className": "pfi-course-catalog",
+    "unicode": "&#60254;"
+  },
+  "course-mgmt": {
+    "encodedCode": "\\eb5f",
+    "prefix": "pfi",
+    "className": "pfi-course-mgmt",
+    "unicode": "&#60255;"
+  },
+  "covid": {
+    "encodedCode": "\\eb60",
+    "prefix": "pfi",
+    "className": "pfi-covid",
+    "unicode": "&#60256;"
+  },
+  "crop": {
+    "encodedCode": "\\eb61",
+    "prefix": "pfi",
+    "className": "pfi-crop",
+    "unicode": "&#60257;"
+  },
+  "cross": {
+    "encodedCode": "\\eb62",
+    "prefix": "pfi",
+    "className": "pfi-cross",
+    "unicode": "&#60258;"
+  },
+  "crosshairs": {
+    "encodedCode": "\\eb63",
+    "prefix": "pfi",
+    "className": "pfi-crosshairs",
+    "unicode": "&#60259;"
+  },
+  "cube-download": {
+    "encodedCode": "\\eb64",
+    "prefix": "pfi",
+    "className": "pfi-cube-download",
+    "unicode": "&#60260;"
+  },
+  "cube-login": {
+    "encodedCode": "\\eb65",
+    "prefix": "pfi",
+    "className": "pfi-cube-login",
+    "unicode": "&#60261;"
+  },
+  "cube-logout": {
+    "encodedCode": "\\eb66",
+    "prefix": "pfi",
+    "className": "pfi-cube-logout",
+    "unicode": "&#60262;"
+  },
+  "cube-open": {
+    "encodedCode": "\\eb67",
+    "prefix": "pfi",
+    "className": "pfi-cube-open",
+    "unicode": "&#60263;"
+  },
+  "cube-share": {
+    "encodedCode": "\\eb68",
+    "prefix": "pfi",
+    "className": "pfi-cube-share",
+    "unicode": "&#60264;"
+  },
+  "cube-upload": {
+    "encodedCode": "\\eb69",
+    "prefix": "pfi",
+    "className": "pfi-cube-upload",
+    "unicode": "&#60265;"
+  },
+  "cube": {
+    "encodedCode": "\\eb6a",
+    "prefix": "pfi",
+    "className": "pfi-cube",
+    "unicode": "&#60266;"
+  },
+  "cyber": {
+    "encodedCode": "\\eb6b",
+    "prefix": "pfi",
+    "className": "pfi-cyber",
+    "unicode": "&#60267;"
+  },
+  "cycle": {
+    "encodedCode": "\\eb6c",
+    "prefix": "pfi",
+    "className": "pfi-cycle",
+    "unicode": "&#60268;"
+  },
+  "dashboard-alt-1": {
+    "encodedCode": "\\eb6d",
+    "prefix": "pfi",
+    "className": "pfi-dashboard-alt-1",
+    "unicode": "&#60269;"
+  },
+  "dashboard": {
+    "encodedCode": "\\eb6e",
+    "prefix": "pfi",
+    "className": "pfi-dashboard",
+    "unicode": "&#60270;"
+  },
+  "database-alt": {
+    "encodedCode": "\\eb6f",
+    "prefix": "pfi",
+    "className": "pfi-database-alt",
+    "unicode": "&#60271;"
+  },
+  "database": {
+    "encodedCode": "\\eb70",
+    "prefix": "pfi",
+    "className": "pfi-database",
+    "unicode": "&#60272;"
+  },
+  "desk-lamp": {
+    "encodedCode": "\\eb71",
+    "prefix": "pfi",
+    "className": "pfi-desk-lamp",
+    "unicode": "&#60273;"
+  },
+  "desk-research-alt-1": {
+    "encodedCode": "\\eb72",
+    "prefix": "pfi",
+    "className": "pfi-desk-research-alt-1",
+    "unicode": "&#60274;"
+  },
+  "desk-research": {
+    "encodedCode": "\\eb73",
+    "prefix": "pfi",
+    "className": "pfi-desk-research",
+    "unicode": "&#60275;"
+  },
+  "desk-top": {
+    "encodedCode": "\\eb74",
+    "prefix": "pfi",
+    "className": "pfi-desk-top",
+    "unicode": "&#60276;"
+  },
+  "desk": {
+    "encodedCode": "\\eb75",
+    "prefix": "pfi",
+    "className": "pfi-desk",
+    "unicode": "&#60277;"
+  },
+  "dictionary-thesaurus": {
+    "encodedCode": "\\eb76",
+    "prefix": "pfi",
+    "className": "pfi-dictionary-thesaurus",
+    "unicode": "&#60278;"
+  },
+  "disk": {
+    "encodedCode": "\\eb77",
+    "prefix": "pfi",
+    "className": "pfi-disk",
+    "unicode": "&#60279;"
+  },
+  "dna-genetics": {
+    "encodedCode": "\\eb78",
+    "prefix": "pfi",
+    "className": "pfi-dna-genetics",
+    "unicode": "&#60280;"
+  },
+  "document": {
+    "encodedCode": "\\eb79",
+    "prefix": "pfi",
+    "className": "pfi-document",
+    "unicode": "&#60281;"
+  },
+  "documents": {
+    "encodedCode": "\\eb7a",
+    "prefix": "pfi",
+    "className": "pfi-documents",
+    "unicode": "&#60282;"
+  },
+  "drafting-compass": {
+    "encodedCode": "\\eb7b",
+    "prefix": "pfi",
+    "className": "pfi-drafting-compass",
+    "unicode": "&#60283;"
+  },
+  "drinks": {
+    "encodedCode": "\\eb7c",
+    "prefix": "pfi",
+    "className": "pfi-drinks",
+    "unicode": "&#60284;"
+  },
+  "drive": {
+    "encodedCode": "\\eb7d",
+    "prefix": "pfi",
+    "className": "pfi-drive",
+    "unicode": "&#60285;"
+  },
+  "drop": {
+    "encodedCode": "\\eb7e",
+    "prefix": "pfi",
+    "className": "pfi-drop",
+    "unicode": "&#60286;"
+  },
+  "electricity-bolt": {
+    "encodedCode": "\\eb7f",
+    "prefix": "pfi",
+    "className": "pfi-electricity-bolt",
+    "unicode": "&#60287;"
+  },
+  "electronics-meter": {
+    "encodedCode": "\\eb80",
+    "prefix": "pfi",
+    "className": "pfi-electronics-meter",
+    "unicode": "&#60288;"
+  },
+  "email-alt-1": {
+    "encodedCode": "\\eb81",
+    "prefix": "pfi",
+    "className": "pfi-email-alt-1",
+    "unicode": "&#60289;"
+  },
+  "email-alt-3": {
+    "encodedCode": "\\eb82",
+    "prefix": "pfi",
+    "className": "pfi-email-alt-3",
+    "unicode": "&#60290;"
+  },
+  "email-alt-4": {
+    "encodedCode": "\\eb83",
+    "prefix": "pfi",
+    "className": "pfi-email-alt-4",
+    "unicode": "&#60291;"
+  },
+  "email": {
+    "encodedCode": "\\eb84",
+    "prefix": "pfi",
+    "className": "pfi-email",
+    "unicode": "&#60292;"
+  },
+  "emoji-angry": {
+    "encodedCode": "\\eb85",
+    "prefix": "pfi",
+    "className": "pfi-emoji-angry",
+    "unicode": "&#60293;"
+  },
+  "emoji-cool": {
+    "encodedCode": "\\eb86",
+    "prefix": "pfi",
+    "className": "pfi-emoji-cool",
+    "unicode": "&#60294;"
+  },
+  "emoji-eye-roll": {
+    "encodedCode": "\\eb87",
+    "prefix": "pfi",
+    "className": "pfi-emoji-eye-roll",
+    "unicode": "&#60295;"
+  },
+  "emoji-frown": {
+    "encodedCode": "\\eb88",
+    "prefix": "pfi",
+    "className": "pfi-emoji-frown",
+    "unicode": "&#60296;"
+  },
+  "emoji-grin": {
+    "encodedCode": "\\eb89",
+    "prefix": "pfi",
+    "className": "pfi-emoji-grin",
+    "unicode": "&#60297;"
+  },
+  "emoji-laugh": {
+    "encodedCode": "\\eb8a",
+    "prefix": "pfi",
+    "className": "pfi-emoji-laugh",
+    "unicode": "&#60298;"
+  },
+  "emoji-meh": {
+    "encodedCode": "\\eb8b",
+    "prefix": "pfi",
+    "className": "pfi-emoji-meh",
+    "unicode": "&#60299;"
+  },
+  "emoji-smile": {
+    "encodedCode": "\\eb8c",
+    "prefix": "pfi",
+    "className": "pfi-emoji-smile",
+    "unicode": "&#60300;"
+  },
+  "emoji-surprise": {
+    "encodedCode": "\\eb8d",
+    "prefix": "pfi",
+    "className": "pfi-emoji-surprise",
+    "unicode": "&#60301;"
+  },
+  "eraser": {
+    "encodedCode": "\\eb8e",
+    "prefix": "pfi",
+    "className": "pfi-eraser",
+    "unicode": "&#60302;"
+  },
+  "event-registration": {
+    "encodedCode": "\\eb8f",
+    "prefix": "pfi",
+    "className": "pfi-event-registration",
+    "unicode": "&#60303;"
+  },
+  "event-template": {
+    "encodedCode": "\\eb90",
+    "prefix": "pfi",
+    "className": "pfi-event-template",
+    "unicode": "&#60304;"
+  },
+  "event": {
+    "encodedCode": "\\eb91",
+    "prefix": "pfi",
+    "className": "pfi-event",
+    "unicode": "&#60305;"
+  },
+  "events": {
+    "encodedCode": "\\eb92",
+    "prefix": "pfi",
+    "className": "pfi-events",
+    "unicode": "&#60306;"
+  },
+  "exclamation": {
+    "encodedCode": "\\eb93",
+    "prefix": "pfi",
+    "className": "pfi-exclamation",
+    "unicode": "&#60307;"
+  },
+  "expand": {
+    "encodedCode": "\\eb94",
+    "prefix": "pfi",
+    "className": "pfi-expand",
+    "unicode": "&#60308;"
+  },
+  "express-checkin": {
+    "encodedCode": "\\eb95",
+    "prefix": "pfi",
+    "className": "pfi-express-checkin",
+    "unicode": "&#60309;"
+  },
+  "extension-alt-1": {
+    "encodedCode": "\\eb96",
+    "prefix": "pfi",
+    "className": "pfi-extension-alt-1",
+    "unicode": "&#60310;"
+  },
+  "extension-alt-2": {
+    "encodedCode": "\\eb97",
+    "prefix": "pfi",
+    "className": "pfi-extension-alt-2",
+    "unicode": "&#60311;"
+  },
+  "extension": {
+    "encodedCode": "\\eb98",
+    "prefix": "pfi",
+    "className": "pfi-extension",
+    "unicode": "&#60312;"
+  },
+  "eye-dropper": {
+    "encodedCode": "\\eb99",
+    "prefix": "pfi",
+    "className": "pfi-eye-dropper",
+    "unicode": "&#60313;"
+  },
+  "eye": {
+    "encodedCode": "\\eb9a",
+    "prefix": "pfi",
+    "className": "pfi-eye",
+    "unicode": "&#60314;"
+  },
+  "faq": {
+    "encodedCode": "\\eb9b",
+    "prefix": "pfi",
+    "className": "pfi-faq",
+    "unicode": "&#60315;"
+  },
+  "feedback": {
+    "encodedCode": "\\eb9c",
+    "prefix": "pfi",
+    "className": "pfi-feedback",
+    "unicode": "&#60316;"
+  },
+  "file-cad-drafting": {
+    "encodedCode": "\\eb9d",
+    "prefix": "pfi",
+    "className": "pfi-file-cad-drafting",
+    "unicode": "&#60317;"
+  },
+  "file-code": {
+    "encodedCode": "\\eb9e",
+    "prefix": "pfi",
+    "className": "pfi-file-code",
+    "unicode": "&#60318;"
+  },
+  "file-draft": {
+    "encodedCode": "\\eb9f",
+    "prefix": "pfi",
+    "className": "pfi-file-draft",
+    "unicode": "&#60319;"
+  },
+  "file-raw-dna-data": {
+    "encodedCode": "\\eba0",
+    "prefix": "pfi",
+    "className": "pfi-file-raw-dna-data",
+    "unicode": "&#60320;"
+  },
+  "file": {
+    "encodedCode": "\\eba1",
+    "prefix": "pfi",
+    "className": "pfi-file",
+    "unicode": "&#60321;"
+  },
+  "film-clapper-board": {
+    "encodedCode": "\\eba2",
+    "prefix": "pfi",
+    "className": "pfi-film-clapper-board",
+    "unicode": "&#60322;"
+  },
+  "film": {
+    "encodedCode": "\\eba3",
+    "prefix": "pfi",
+    "className": "pfi-film",
+    "unicode": "&#60323;"
+  },
+  "filter-multiple": {
+    "encodedCode": "\\eba4",
+    "prefix": "pfi",
+    "className": "pfi-filter-multiple",
+    "unicode": "&#60324;"
+  },
+  "filter-single": {
+    "encodedCode": "\\eba5",
+    "prefix": "pfi",
+    "className": "pfi-filter-single",
+    "unicode": "&#60325;"
+  },
+  "filter": {
+    "encodedCode": "\\eba6",
+    "prefix": "pfi",
+    "className": "pfi-filter",
+    "unicode": "&#60326;"
+  },
+  "fingerprint": {
+    "encodedCode": "\\eba7",
+    "prefix": "pfi",
+    "className": "pfi-fingerprint",
+    "unicode": "&#60327;"
+  },
+  "fire-extinguisher": {
+    "encodedCode": "\\eba8",
+    "prefix": "pfi",
+    "className": "pfi-fire-extinguisher",
+    "unicode": "&#60328;"
+  },
+  "fire-hydrant": {
+    "encodedCode": "\\eba9",
+    "prefix": "pfi",
+    "className": "pfi-fire-hydrant",
+    "unicode": "&#60329;"
+  },
+  "fitness-calendar": {
+    "encodedCode": "\\ebaa",
+    "prefix": "pfi",
+    "className": "pfi-fitness-calendar",
+    "unicode": "&#60330;"
+  },
+  "fitness-consult": {
+    "encodedCode": "\\ebab",
+    "prefix": "pfi",
+    "className": "pfi-fitness-consult",
+    "unicode": "&#60331;"
+  },
+  "flag": {
+    "encodedCode": "\\ebac",
+    "prefix": "pfi",
+    "className": "pfi-flag",
+    "unicode": "&#60332;"
+  },
+  "flame": {
+    "encodedCode": "\\ebad",
+    "prefix": "pfi",
+    "className": "pfi-flame",
+    "unicode": "&#60333;"
+  },
+  "flask-meyers": {
+    "encodedCode": "\\ebae",
+    "prefix": "pfi",
+    "className": "pfi-flask-meyers",
+    "unicode": "&#60334;"
+  },
+  "flask": {
+    "encodedCode": "\\ebaf",
+    "prefix": "pfi",
+    "className": "pfi-flask",
+    "unicode": "&#60335;"
+  },
+  "flux-alt-1": {
+    "encodedCode": "\\ebb0",
+    "prefix": "pfi",
+    "className": "pfi-flux-alt-1",
+    "unicode": "&#60336;"
+  },
+  "flux": {
+    "encodedCode": "\\ebb1",
+    "prefix": "pfi",
+    "className": "pfi-flux",
+    "unicode": "&#60337;"
+  },
+  "folder-closed": {
+    "encodedCode": "\\ebb2",
+    "prefix": "pfi",
+    "className": "pfi-folder-closed",
+    "unicode": "&#60338;"
+  },
+  "folder-open": {
+    "encodedCode": "\\ebb3",
+    "prefix": "pfi",
+    "className": "pfi-folder-open",
+    "unicode": "&#60339;"
+  },
+  "folders": {
+    "encodedCode": "\\ebb4",
+    "prefix": "pfi",
+    "className": "pfi-folders",
+    "unicode": "&#60340;"
+  },
+  "food-egg": {
+    "encodedCode": "\\ebb5",
+    "prefix": "pfi",
+    "className": "pfi-food-egg",
+    "unicode": "&#60341;"
+  },
+  "food-groceries": {
+    "encodedCode": "\\ebb6",
+    "prefix": "pfi",
+    "className": "pfi-food-groceries",
+    "unicode": "&#60342;"
+  },
+  "food-pizza": {
+    "encodedCode": "\\ebb7",
+    "prefix": "pfi",
+    "className": "pfi-food-pizza",
+    "unicode": "&#60343;"
+  },
+  "footnote-arabic": {
+    "encodedCode": "\\ebb8",
+    "prefix": "pfi",
+    "className": "pfi-footnote-arabic",
+    "unicode": "&#60344;"
+  },
+  "form": {
+    "encodedCode": "\\ebb9",
+    "prefix": "pfi",
+    "className": "pfi-form",
+    "unicode": "&#60345;"
+  },
+  "forum-mgmt": {
+    "encodedCode": "\\ebba",
+    "prefix": "pfi",
+    "className": "pfi-forum-mgmt",
+    "unicode": "&#60346;"
+  },
+  "forums": {
+    "encodedCode": "\\ebbb",
+    "prefix": "pfi",
+    "className": "pfi-forums",
+    "unicode": "&#60347;"
+  },
+  "fuel": {
+    "encodedCode": "\\ebbc",
+    "prefix": "pfi",
+    "className": "pfi-fuel",
+    "unicode": "&#60348;"
+  },
+  "garage": {
+    "encodedCode": "\\ebbd",
+    "prefix": "pfi",
+    "className": "pfi-garage",
+    "unicode": "&#60349;"
+  },
+  "gear": {
+    "encodedCode": "\\ebbe",
+    "prefix": "pfi",
+    "className": "pfi-gear",
+    "unicode": "&#60350;"
+  },
+  "gears-alt-1": {
+    "encodedCode": "\\ebbf",
+    "prefix": "pfi",
+    "className": "pfi-gears-alt-1",
+    "unicode": "&#60351;"
+  },
+  "gears": {
+    "encodedCode": "\\ebc0",
+    "prefix": "pfi",
+    "className": "pfi-gears",
+    "unicode": "&#60352;"
+  },
+  "gift": {
+    "encodedCode": "\\ebc1",
+    "prefix": "pfi",
+    "className": "pfi-gift",
+    "unicode": "&#60353;"
+  },
+  "glasses-alt-1": {
+    "encodedCode": "\\ebc2",
+    "prefix": "pfi",
+    "className": "pfi-glasses-alt-1",
+    "unicode": "&#60354;"
+  },
+  "glasses": {
+    "encodedCode": "\\ebc3",
+    "prefix": "pfi",
+    "className": "pfi-glasses",
+    "unicode": "&#60355;"
+  },
+  "gnome": {
+    "encodedCode": "\\ebc4",
+    "prefix": "pfi",
+    "className": "pfi-gnome",
+    "unicode": "&#60356;"
+  },
+  "graduation-cap": {
+    "encodedCode": "\\ebc5",
+    "prefix": "pfi",
+    "className": "pfi-graduation-cap",
+    "unicode": "&#60357;"
+  },
+  "grammer": {
+    "encodedCode": "\\ebc6",
+    "prefix": "pfi",
+    "className": "pfi-grammer",
+    "unicode": "&#60358;"
+  },
+  "graph-alt-1": {
+    "encodedCode": "\\ebc7",
+    "prefix": "pfi",
+    "className": "pfi-graph-alt-1",
+    "unicode": "&#60359;"
+  },
+  "graph-alt-2": {
+    "encodedCode": "\\ebc8",
+    "prefix": "pfi",
+    "className": "pfi-graph-alt-2",
+    "unicode": "&#60360;"
+  },
+  "graph-alt-3": {
+    "encodedCode": "\\ebc9",
+    "prefix": "pfi",
+    "className": "pfi-graph-alt-3",
+    "unicode": "&#60361;"
+  },
+  "graph": {
+    "encodedCode": "\\ebca",
+    "prefix": "pfi",
+    "className": "pfi-graph",
+    "unicode": "&#60362;"
+  },
+  "greenhouse": {
+    "encodedCode": "\\ebcb",
+    "prefix": "pfi",
+    "className": "pfi-greenhouse",
+    "unicode": "&#60363;"
+  },
+  "grid-alt-1": {
+    "encodedCode": "\\ebcc",
+    "prefix": "pfi",
+    "className": "pfi-grid-alt-1",
+    "unicode": "&#60364;"
+  },
+  "grid-table": {
+    "encodedCode": "\\ebcd",
+    "prefix": "pfi",
+    "className": "pfi-grid-table",
+    "unicode": "&#60365;"
+  },
+  "grid": {
+    "encodedCode": "\\ebce",
+    "prefix": "pfi",
+    "className": "pfi-grid",
+    "unicode": "&#60366;"
+  },
+  "group-alt-1": {
+    "encodedCode": "\\ebcf",
+    "prefix": "pfi",
+    "className": "pfi-group-alt-1",
+    "unicode": "&#60367;"
+  },
+  "group": {
+    "encodedCode": "\\ebd0",
+    "prefix": "pfi",
+    "className": "pfi-group",
+    "unicode": "&#60368;"
+  },
+  "guitar-pick": {
+    "encodedCode": "\\ebd1",
+    "prefix": "pfi",
+    "className": "pfi-guitar-pick",
+    "unicode": "&#60369;"
+  },
+  "gym": {
+    "encodedCode": "\\ebd2",
+    "prefix": "pfi",
+    "className": "pfi-gym",
+    "unicode": "&#60370;"
+  },
+  "hamburger-vertical": {
+    "encodedCode": "\\ebd3",
+    "prefix": "pfi",
+    "className": "pfi-hamburger-vertical",
+    "unicode": "&#60371;"
+  },
+  "hamburger": {
+    "encodedCode": "\\ebd4",
+    "prefix": "pfi",
+    "className": "pfi-hamburger",
+    "unicode": "&#60372;"
+  },
+  "hazard-caustic": {
+    "encodedCode": "\\ebd5",
+    "prefix": "pfi",
+    "className": "pfi-hazard-caustic",
+    "unicode": "&#60373;"
+  },
+  "hazard-environmental": {
+    "encodedCode": "\\ebd6",
+    "prefix": "pfi",
+    "className": "pfi-hazard-environmental",
+    "unicode": "&#60374;"
+  },
+  "hazard-explosive": {
+    "encodedCode": "\\ebd7",
+    "prefix": "pfi",
+    "className": "pfi-hazard-explosive",
+    "unicode": "&#60375;"
+  },
+  "hazard-flammable": {
+    "encodedCode": "\\ebd8",
+    "prefix": "pfi",
+    "className": "pfi-hazard-flammable",
+    "unicode": "&#60376;"
+  },
+  "hazard-oxidizing": {
+    "encodedCode": "\\ebd9",
+    "prefix": "pfi",
+    "className": "pfi-hazard-oxidizing",
+    "unicode": "&#60377;"
+  },
+  "hazard-toxic": {
+    "encodedCode": "\\ebda",
+    "prefix": "pfi",
+    "className": "pfi-hazard-toxic",
+    "unicode": "&#60378;"
+  },
+  "hazard": {
+    "encodedCode": "\\ebdb",
+    "prefix": "pfi",
+    "className": "pfi-hazard",
+    "unicode": "&#60379;"
+  },
+  "headphones": {
+    "encodedCode": "\\ebdc",
+    "prefix": "pfi",
+    "className": "pfi-headphones",
+    "unicode": "&#60380;"
+  },
+  "heart-beat": {
+    "encodedCode": "\\ebdd",
+    "prefix": "pfi",
+    "className": "pfi-heart-beat",
+    "unicode": "&#60381;"
+  },
+  "heart": {
+    "encodedCode": "\\ebde",
+    "prefix": "pfi",
+    "className": "pfi-heart",
+    "unicode": "&#60382;"
+  },
+  "helmet": {
+    "encodedCode": "\\ebdf",
+    "prefix": "pfi",
+    "className": "pfi-helmet",
+    "unicode": "&#60383;"
+  },
+  "help": {
+    "encodedCode": "\\ebe0",
+    "prefix": "pfi",
+    "className": "pfi-help",
+    "unicode": "&#60384;"
+  },
+  "hex-hive-alt-1": {
+    "encodedCode": "\\ebe1",
+    "prefix": "pfi",
+    "className": "pfi-hex-hive-alt-1",
+    "unicode": "&#60385;"
+  },
+  "hex-hive-alt-2": {
+    "encodedCode": "\\ebe2",
+    "prefix": "pfi",
+    "className": "pfi-hex-hive-alt-2",
+    "unicode": "&#60386;"
+  },
+  "hex-hive-alt-3": {
+    "encodedCode": "\\ebe3",
+    "prefix": "pfi",
+    "className": "pfi-hex-hive-alt-3",
+    "unicode": "&#60387;"
+  },
+  "hex-hive-alt-4": {
+    "encodedCode": "\\ebe4",
+    "prefix": "pfi",
+    "className": "pfi-hex-hive-alt-4",
+    "unicode": "&#60388;"
+  },
+  "hex-hive-alt-5": {
+    "encodedCode": "\\ebe5",
+    "prefix": "pfi",
+    "className": "pfi-hex-hive-alt-5",
+    "unicode": "&#60389;"
+  },
+  "hex-hive": {
+    "encodedCode": "\\ebe6",
+    "prefix": "pfi",
+    "className": "pfi-hex-hive",
+    "unicode": "&#60390;"
+  },
+  "highlight": {
+    "encodedCode": "\\ebe7",
+    "prefix": "pfi",
+    "className": "pfi-highlight",
+    "unicode": "&#60391;"
+  },
+  "history-alt-1": {
+    "encodedCode": "\\ebe8",
+    "prefix": "pfi",
+    "className": "pfi-history-alt-1",
+    "unicode": "&#60392;"
+  },
+  "history": {
+    "encodedCode": "\\ebe9",
+    "prefix": "pfi",
+    "className": "pfi-history",
+    "unicode": "&#60393;"
+  },
+  "hole": {
+    "encodedCode": "\\ebea",
+    "prefix": "pfi",
+    "className": "pfi-hole",
+    "unicode": "&#60394;"
+  },
+  "home": {
+    "encodedCode": "\\ebeb",
+    "prefix": "pfi",
+    "className": "pfi-home",
+    "unicode": "&#60395;"
+  },
+  "hourglass": {
+    "encodedCode": "\\ebec",
+    "prefix": "pfi",
+    "className": "pfi-hourglass",
+    "unicode": "&#60396;"
+  },
+  "i": {
+    "encodedCode": "\\ebed",
+    "prefix": "pfi",
+    "className": "pfi-i",
+    "unicode": "&#60397;"
+  },
+  "icons": {
+    "encodedCode": "\\ebee",
+    "prefix": "pfi",
+    "className": "pfi-icons",
+    "unicode": "&#60398;"
+  },
+  "id-card": {
+    "encodedCode": "\\ebef",
+    "prefix": "pfi",
+    "className": "pfi-id-card",
+    "unicode": "&#60399;"
+  },
+  "idea": {
+    "encodedCode": "\\ebf0",
+    "prefix": "pfi",
+    "className": "pfi-idea",
+    "unicode": "&#60400;"
+  },
+  "image": {
+    "encodedCode": "\\ebf1",
+    "prefix": "pfi",
+    "className": "pfi-image",
+    "unicode": "&#60401;"
+  },
+  "inbox": {
+    "encodedCode": "\\ebf2",
+    "prefix": "pfi",
+    "className": "pfi-inbox",
+    "unicode": "&#60402;"
+  },
+  "infinity": {
+    "encodedCode": "\\ebf3",
+    "prefix": "pfi",
+    "className": "pfi-infinity",
+    "unicode": "&#60403;"
+  },
+  "info-circle": {
+    "encodedCode": "\\ebf4",
+    "prefix": "pfi",
+    "className": "pfi-info-circle",
+    "unicode": "&#60404;"
+  },
+  "info": {
+    "encodedCode": "\\ebf5",
+    "prefix": "pfi",
+    "className": "pfi-info",
+    "unicode": "&#60405;"
+  },
+  "instance": {
+    "encodedCode": "\\ebf6",
+    "prefix": "pfi",
+    "className": "pfi-instance",
+    "unicode": "&#60406;"
+  },
+  "instructor-teacher": {
+    "encodedCode": "\\ebf7",
+    "prefix": "pfi",
+    "className": "pfi-instructor-teacher",
+    "unicode": "&#60407;"
+  },
+  "internet": {
+    "encodedCode": "\\ebf8",
+    "prefix": "pfi",
+    "className": "pfi-internet",
+    "unicode": "&#60408;"
+  },
+  "iot": {
+    "encodedCode": "\\ebf9",
+    "prefix": "pfi",
+    "className": "pfi-iot",
+    "unicode": "&#60409;"
+  },
+  "italic": {
+    "encodedCode": "\\ebfa",
+    "prefix": "pfi",
+    "className": "pfi-italic",
+    "unicode": "&#60410;"
+  },
+  "jar": {
+    "encodedCode": "\\ebfb",
+    "prefix": "pfi",
+    "className": "pfi-jar",
+    "unicode": "&#60411;"
+  },
+  "jolly-wrench": {
+    "encodedCode": "\\ebfc",
+    "prefix": "pfi",
+    "className": "pfi-jolly-wrench",
+    "unicode": "&#60412;"
+  },
+  "journal": {
+    "encodedCode": "\\ebfd",
+    "prefix": "pfi",
+    "className": "pfi-journal",
+    "unicode": "&#60413;"
+  },
+  "key-alt-1": {
+    "encodedCode": "\\ebfe",
+    "prefix": "pfi",
+    "className": "pfi-key-alt-1",
+    "unicode": "&#60414;"
+  },
+  "key": {
+    "encodedCode": "\\ebff",
+    "prefix": "pfi",
+    "className": "pfi-key",
+    "unicode": "&#60415;"
+  },
+  "keyboard-alt-1": {
+    "encodedCode": "\\ec00",
+    "prefix": "pfi",
+    "className": "pfi-keyboard-alt-1",
+    "unicode": "&#60416;"
+  },
+  "keyboard": {
+    "encodedCode": "\\ec01",
+    "prefix": "pfi",
+    "className": "pfi-keyboard",
+    "unicode": "&#60417;"
+  },
+  "knowledge-management": {
+    "encodedCode": "\\ec02",
+    "prefix": "pfi",
+    "className": "pfi-knowledge-management",
+    "unicode": "&#60418;"
+  },
+  "laptop-alt-1": {
+    "encodedCode": "\\ec03",
+    "prefix": "pfi",
+    "className": "pfi-laptop-alt-1",
+    "unicode": "&#60419;"
+  },
+  "laptop": {
+    "encodedCode": "\\ec04",
+    "prefix": "pfi",
+    "className": "pfi-laptop",
+    "unicode": "&#60420;"
+  },
+  "laser-blast": {
+    "encodedCode": "\\ec05",
+    "prefix": "pfi",
+    "className": "pfi-laser-blast",
+    "unicode": "&#60421;"
+  },
+  "laser-warning-alt-1": {
+    "encodedCode": "\\ec06",
+    "prefix": "pfi",
+    "className": "pfi-laser-warning-alt-1",
+    "unicode": "&#60422;"
+  },
+  "laser-warning": {
+    "encodedCode": "\\ec07",
+    "prefix": "pfi",
+    "className": "pfi-laser-warning",
+    "unicode": "&#60423;"
+  },
+  "leadership-alt-1": {
+    "encodedCode": "\\ec08",
+    "prefix": "pfi",
+    "className": "pfi-leadership-alt-1",
+    "unicode": "&#60424;"
+  },
+  "leadership": {
+    "encodedCode": "\\ec09",
+    "prefix": "pfi",
+    "className": "pfi-leadership",
+    "unicode": "&#60425;"
+  },
+  "leaf": {
+    "encodedCode": "\\ec0a",
+    "prefix": "pfi",
+    "className": "pfi-leaf",
+    "unicode": "&#60426;"
+  },
+  "lessons-learned": {
+    "encodedCode": "\\ec0b",
+    "prefix": "pfi",
+    "className": "pfi-lessons-learned",
+    "unicode": "&#60427;"
+  },
+  "letter-alt-1": {
+    "encodedCode": "\\ec0c",
+    "prefix": "pfi",
+    "className": "pfi-letter-alt-1",
+    "unicode": "&#60428;"
+  },
+  "letter-alt-2": {
+    "encodedCode": "\\ec0d",
+    "prefix": "pfi",
+    "className": "pfi-letter-alt-2",
+    "unicode": "&#60429;"
+  },
+  "letter": {
+    "encodedCode": "\\ec0e",
+    "prefix": "pfi",
+    "className": "pfi-letter",
+    "unicode": "&#60430;"
+  },
+  "library": {
+    "encodedCode": "\\ec0f",
+    "prefix": "pfi",
+    "className": "pfi-library",
+    "unicode": "&#60431;"
+  },
+  "light-bulb-lit": {
+    "encodedCode": "\\ec10",
+    "prefix": "pfi",
+    "className": "pfi-light-bulb-lit",
+    "unicode": "&#60432;"
+  },
+  "light-bulb": {
+    "encodedCode": "\\ec11",
+    "prefix": "pfi",
+    "className": "pfi-light-bulb",
+    "unicode": "&#60433;"
+  },
+  "link-broken": {
+    "encodedCode": "\\ec12",
+    "prefix": "pfi",
+    "className": "pfi-link-broken",
+    "unicode": "&#60434;"
+  },
+  "link": {
+    "encodedCode": "\\ec13",
+    "prefix": "pfi",
+    "className": "pfi-link",
+    "unicode": "&#60435;"
+  },
+  "list-add": {
+    "encodedCode": "\\ec14",
+    "prefix": "pfi",
+    "className": "pfi-list-add",
+    "unicode": "&#60436;"
+  },
+  "list-bullet": {
+    "encodedCode": "\\ec15",
+    "prefix": "pfi",
+    "className": "pfi-list-bullet",
+    "unicode": "&#60437;"
+  },
+  "list-numbered": {
+    "encodedCode": "\\ec16",
+    "prefix": "pfi",
+    "className": "pfi-list-numbered",
+    "unicode": "&#60438;"
+  },
+  "little-dancing-man": {
+    "encodedCode": "\\ec17",
+    "prefix": "pfi",
+    "className": "pfi-little-dancing-man",
+    "unicode": "&#60439;"
+  },
+  "loading-0": {
+    "encodedCode": "\\ec18",
+    "prefix": "pfi",
+    "className": "pfi-loading-0",
+    "unicode": "&#60440;"
+  },
+  "loading-10": {
+    "encodedCode": "\\ec19",
+    "prefix": "pfi",
+    "className": "pfi-loading-10",
+    "unicode": "&#60441;"
+  },
+  "loading-100": {
+    "encodedCode": "\\ec1a",
+    "prefix": "pfi",
+    "className": "pfi-loading-100",
+    "unicode": "&#60442;"
+  },
+  "loading-20": {
+    "encodedCode": "\\ec1b",
+    "prefix": "pfi",
+    "className": "pfi-loading-20",
+    "unicode": "&#60443;"
+  },
+  "loading-30": {
+    "encodedCode": "\\ec1c",
+    "prefix": "pfi",
+    "className": "pfi-loading-30",
+    "unicode": "&#60444;"
+  },
+  "loading-40": {
+    "encodedCode": "\\ec1d",
+    "prefix": "pfi",
+    "className": "pfi-loading-40",
+    "unicode": "&#60445;"
+  },
+  "loading-50": {
+    "encodedCode": "\\ec1e",
+    "prefix": "pfi",
+    "className": "pfi-loading-50",
+    "unicode": "&#60446;"
+  },
+  "loading-60": {
+    "encodedCode": "\\ec1f",
+    "prefix": "pfi",
+    "className": "pfi-loading-60",
+    "unicode": "&#60447;"
+  },
+  "loading-70": {
+    "encodedCode": "\\ec20",
+    "prefix": "pfi",
+    "className": "pfi-loading-70",
+    "unicode": "&#60448;"
+  },
+  "loading-80": {
+    "encodedCode": "\\ec21",
+    "prefix": "pfi",
+    "className": "pfi-loading-80",
+    "unicode": "&#60449;"
+  },
+  "loading-90": {
+    "encodedCode": "\\ec22",
+    "prefix": "pfi",
+    "className": "pfi-loading-90",
+    "unicode": "&#60450;"
+  },
+  "location": {
+    "encodedCode": "\\ec23",
+    "prefix": "pfi",
+    "className": "pfi-location",
+    "unicode": "&#60451;"
+  },
+  "lock-closed": {
+    "encodedCode": "\\ec24",
+    "prefix": "pfi",
+    "className": "pfi-lock-closed",
+    "unicode": "&#60452;"
+  },
+  "lock-open": {
+    "encodedCode": "\\ec25",
+    "prefix": "pfi",
+    "className": "pfi-lock-open",
+    "unicode": "&#60453;"
+  },
+  "luchador": {
+    "encodedCode": "\\ec26",
+    "prefix": "pfi",
+    "className": "pfi-luchador",
+    "unicode": "&#60454;"
+  },
+  "magnet": {
+    "encodedCode": "\\ec27",
+    "prefix": "pfi",
+    "className": "pfi-magnet",
+    "unicode": "&#60455;"
+  },
+  "magnify-zoom-in": {
+    "encodedCode": "\\ec28",
+    "prefix": "pfi",
+    "className": "pfi-magnify-zoom-in",
+    "unicode": "&#60456;"
+  },
+  "magnify-zoom-out": {
+    "encodedCode": "\\ec29",
+    "prefix": "pfi",
+    "className": "pfi-magnify-zoom-out",
+    "unicode": "&#60457;"
+  },
+  "magnify": {
+    "encodedCode": "\\ec2a",
+    "prefix": "pfi",
+    "className": "pfi-magnify",
+    "unicode": "&#60458;"
+  },
+  "management-2": {
+    "encodedCode": "\\ec2b",
+    "prefix": "pfi",
+    "className": "pfi-management-2",
+    "unicode": "&#60459;"
+  },
+  "management-3": {
+    "encodedCode": "\\ec2c",
+    "prefix": "pfi",
+    "className": "pfi-management-3",
+    "unicode": "&#60460;"
+  },
+  "management-4": {
+    "encodedCode": "\\ec2d",
+    "prefix": "pfi",
+    "className": "pfi-management-4",
+    "unicode": "&#60461;"
+  },
+  "management": {
+    "encodedCode": "\\ec2e",
+    "prefix": "pfi",
+    "className": "pfi-management",
+    "unicode": "&#60462;"
+  },
+  "map-campus": {
+    "encodedCode": "\\ec2f",
+    "prefix": "pfi",
+    "className": "pfi-map-campus",
+    "unicode": "&#60463;"
+  },
+  "map-trifold": {
+    "encodedCode": "\\ec30",
+    "prefix": "pfi",
+    "className": "pfi-map-trifold",
+    "unicode": "&#60464;"
+  },
+  "map": {
+    "encodedCode": "\\ec31",
+    "prefix": "pfi",
+    "className": "pfi-map",
+    "unicode": "&#60465;"
+  },
+  "math-divide": {
+    "encodedCode": "\\ec32",
+    "prefix": "pfi",
+    "className": "pfi-math-divide",
+    "unicode": "&#60466;"
+  },
+  "math-equal": {
+    "encodedCode": "\\ec33",
+    "prefix": "pfi",
+    "className": "pfi-math-equal",
+    "unicode": "&#60467;"
+  },
+  "math-greater-than": {
+    "encodedCode": "\\ec34",
+    "prefix": "pfi",
+    "className": "pfi-math-greater-than",
+    "unicode": "&#60468;"
+  },
+  "math-less-than": {
+    "encodedCode": "\\ec35",
+    "prefix": "pfi",
+    "className": "pfi-math-less-than",
+    "unicode": "&#60469;"
+  },
+  "math-minus": {
+    "encodedCode": "\\ec36",
+    "prefix": "pfi",
+    "className": "pfi-math-minus",
+    "unicode": "&#60470;"
+  },
+  "math-multiply": {
+    "encodedCode": "\\ec37",
+    "prefix": "pfi",
+    "className": "pfi-math-multiply",
+    "unicode": "&#60471;"
+  },
+  "math-percent": {
+    "encodedCode": "\\ec38",
+    "prefix": "pfi",
+    "className": "pfi-math-percent",
+    "unicode": "&#60472;"
+  },
+  "math-plus": {
+    "encodedCode": "\\ec39",
+    "prefix": "pfi",
+    "className": "pfi-math-plus",
+    "unicode": "&#60473;"
+  },
+  "math-square-root": {
+    "encodedCode": "\\ec3a",
+    "prefix": "pfi",
+    "className": "pfi-math-square-root",
+    "unicode": "&#60474;"
+  },
+  "matlab": {
+    "encodedCode": "\\ec3b",
+    "prefix": "pfi",
+    "className": "pfi-matlab",
+    "unicode": "&#60475;"
+  },
+  "meal": {
+    "encodedCode": "\\ec3c",
+    "prefix": "pfi",
+    "className": "pfi-meal",
+    "unicode": "&#60476;"
+  },
+  "media-backward": {
+    "encodedCode": "\\ec3d",
+    "prefix": "pfi",
+    "className": "pfi-media-backward",
+    "unicode": "&#60477;"
+  },
+  "media-forward": {
+    "encodedCode": "\\ec3e",
+    "prefix": "pfi",
+    "className": "pfi-media-forward",
+    "unicode": "&#60478;"
+  },
+  "media-pause": {
+    "encodedCode": "\\ec3f",
+    "prefix": "pfi",
+    "className": "pfi-media-pause",
+    "unicode": "&#60479;"
+  },
+  "media-play": {
+    "encodedCode": "\\ec40",
+    "prefix": "pfi",
+    "className": "pfi-media-play",
+    "unicode": "&#60480;"
+  },
+  "media-skip-backward": {
+    "encodedCode": "\\ec41",
+    "prefix": "pfi",
+    "className": "pfi-media-skip-backward",
+    "unicode": "&#60481;"
+  },
+  "media-skip-forward": {
+    "encodedCode": "\\ec42",
+    "prefix": "pfi",
+    "className": "pfi-media-skip-forward",
+    "unicode": "&#60482;"
+  },
+  "mem-מ": {
+    "encodedCode": "\\ec43",
+    "prefix": "pfi",
+    "className": "pfi-mem-מ",
+    "unicode": "&#60483;"
+  },
+  "menu-dots-horizontal": {
+    "encodedCode": "\\ec44",
+    "prefix": "pfi",
+    "className": "pfi-menu-dots-horizontal",
+    "unicode": "&#60484;"
+  },
+  "menu-dots-vertical": {
+    "encodedCode": "\\ec45",
+    "prefix": "pfi",
+    "className": "pfi-menu-dots-vertical",
+    "unicode": "&#60485;"
+  },
+  "meter-tach-alt-1": {
+    "encodedCode": "\\ec46",
+    "prefix": "pfi",
+    "className": "pfi-meter-tach-alt-1",
+    "unicode": "&#60486;"
+  },
+  "meter-tach": {
+    "encodedCode": "\\ec47",
+    "prefix": "pfi",
+    "className": "pfi-meter-tach",
+    "unicode": "&#60487;"
+  },
+  "mgmt": {
+    "encodedCode": "\\ec48",
+    "prefix": "pfi",
+    "className": "pfi-mgmt",
+    "unicode": "&#60488;"
+  },
+  "microphone-mute": {
+    "encodedCode": "\\ec49",
+    "prefix": "pfi",
+    "className": "pfi-microphone-mute",
+    "unicode": "&#60489;"
+  },
+  "microphone": {
+    "encodedCode": "\\ec4a",
+    "prefix": "pfi",
+    "className": "pfi-microphone",
+    "unicode": "&#60490;"
+  },
+  "military-air-force": {
+    "encodedCode": "\\ec4b",
+    "prefix": "pfi",
+    "className": "pfi-military-air-force",
+    "unicode": "&#60491;"
+  },
+  "military-mwr": {
+    "encodedCode": "\\ec4c",
+    "prefix": "pfi",
+    "className": "pfi-military-mwr",
+    "unicode": "&#60492;"
+  },
+  "military-navy": {
+    "encodedCode": "\\ec4d",
+    "prefix": "pfi",
+    "className": "pfi-military-navy",
+    "unicode": "&#60493;"
+  },
+  "monitor-screen": {
+    "encodedCode": "\\ec4e",
+    "prefix": "pfi",
+    "className": "pfi-monitor-screen",
+    "unicode": "&#60494;"
+  },
+  "mouse": {
+    "encodedCode": "\\ec4f",
+    "prefix": "pfi",
+    "className": "pfi-mouse",
+    "unicode": "&#60495;"
+  },
+  "move": {
+    "encodedCode": "\\ec50",
+    "prefix": "pfi",
+    "className": "pfi-move",
+    "unicode": "&#60496;"
+  },
+  "mushroom-alt-1": {
+    "encodedCode": "\\ec51",
+    "prefix": "pfi",
+    "className": "pfi-mushroom-alt-1",
+    "unicode": "&#60497;"
+  },
+  "mushroom": {
+    "encodedCode": "\\ec52",
+    "prefix": "pfi",
+    "className": "pfi-mushroom",
+    "unicode": "&#60498;"
+  },
+  "musical-note-bass-clef": {
+    "encodedCode": "\\ec53",
+    "prefix": "pfi",
+    "className": "pfi-musical-note-bass-clef",
+    "unicode": "&#60499;"
+  },
+  "musical-note-beamed-eighth": {
+    "encodedCode": "\\ec54",
+    "prefix": "pfi",
+    "className": "pfi-musical-note-beamed-eighth",
+    "unicode": "&#60500;"
+  },
+  "musical-note-eighth": {
+    "encodedCode": "\\ec55",
+    "prefix": "pfi",
+    "className": "pfi-musical-note-eighth",
+    "unicode": "&#60501;"
+  },
+  "musical-note-flat": {
+    "encodedCode": "\\ec56",
+    "prefix": "pfi",
+    "className": "pfi-musical-note-flat",
+    "unicode": "&#60502;"
+  },
+  "musical-note-half": {
+    "encodedCode": "\\ec57",
+    "prefix": "pfi",
+    "className": "pfi-musical-note-half",
+    "unicode": "&#60503;"
+  },
+  "musical-note-quarter": {
+    "encodedCode": "\\ec58",
+    "prefix": "pfi",
+    "className": "pfi-musical-note-quarter",
+    "unicode": "&#60504;"
+  },
+  "musical-note-sharp": {
+    "encodedCode": "\\ec59",
+    "prefix": "pfi",
+    "className": "pfi-musical-note-sharp",
+    "unicode": "&#60505;"
+  },
+  "musical-note-treble-clef": {
+    "encodedCode": "\\ec5a",
+    "prefix": "pfi",
+    "className": "pfi-musical-note-treble-clef",
+    "unicode": "&#60506;"
+  },
+  "musical-note-whole": {
+    "encodedCode": "\\ec5b",
+    "prefix": "pfi",
+    "className": "pfi-musical-note-whole",
+    "unicode": "&#60507;"
+  },
+  "mustache": {
+    "encodedCode": "\\ec5c",
+    "prefix": "pfi",
+    "className": "pfi-mustache",
+    "unicode": "&#60508;"
+  },
+  "na": {
+    "encodedCode": "\\ec5d",
+    "prefix": "pfi",
+    "className": "pfi-na",
+    "unicode": "&#60509;"
+  },
+  "name-badge": {
+    "encodedCode": "\\ec5e",
+    "prefix": "pfi",
+    "className": "pfi-name-badge",
+    "unicode": "&#60510;"
+  },
+  "net-cable-modem": {
+    "encodedCode": "\\ec5f",
+    "prefix": "pfi",
+    "className": "pfi-net-cable-modem",
+    "unicode": "&#60511;"
+  },
+  "net-cluster": {
+    "encodedCode": "\\ec60",
+    "prefix": "pfi",
+    "className": "pfi-net-cluster",
+    "unicode": "&#60512;"
+  },
+  "net-firewall": {
+    "encodedCode": "\\ec61",
+    "prefix": "pfi",
+    "className": "pfi-net-firewall",
+    "unicode": "&#60513;"
+  },
+  "net-load-balancer-pool": {
+    "encodedCode": "\\ec62",
+    "prefix": "pfi",
+    "className": "pfi-net-load-balancer-pool",
+    "unicode": "&#60514;"
+  },
+  "net-router": {
+    "encodedCode": "\\ec63",
+    "prefix": "pfi",
+    "className": "pfi-net-router",
+    "unicode": "&#60515;"
+  },
+  "net-switch": {
+    "encodedCode": "\\ec64",
+    "prefix": "pfi",
+    "className": "pfi-net-switch",
+    "unicode": "&#60516;"
+  },
+  "net-wireless-access-point": {
+    "encodedCode": "\\ec65",
+    "prefix": "pfi",
+    "className": "pfi-net-wireless-access-point",
+    "unicode": "&#60517;"
+  },
+  "network-user-agreement": {
+    "encodedCode": "\\ec66",
+    "prefix": "pfi",
+    "className": "pfi-network-user-agreement",
+    "unicode": "&#60518;"
+  },
+  "note-pad": {
+    "encodedCode": "\\ec67",
+    "prefix": "pfi",
+    "className": "pfi-note-pad",
+    "unicode": "&#60519;"
+  },
+  "notes": {
+    "encodedCode": "\\ec68",
+    "prefix": "pfi",
+    "className": "pfi-notes",
+    "unicode": "&#60520;"
+  },
+  "operations": {
+    "encodedCode": "\\ec69",
+    "prefix": "pfi",
+    "className": "pfi-operations",
+    "unicode": "&#60521;"
+  },
+  "org-apache-server-feather": {
+    "encodedCode": "\\ec6a",
+    "prefix": "pfi",
+    "className": "pfi-org-apache-server-feather",
+    "unicode": "&#60522;"
+  },
+  "org-arduino-alt-1": {
+    "encodedCode": "\\ec6b",
+    "prefix": "pfi",
+    "className": "pfi-org-arduino-alt-1",
+    "unicode": "&#60523;"
+  },
+  "org-arduino": {
+    "encodedCode": "\\ec6c",
+    "prefix": "pfi",
+    "className": "pfi-org-arduino",
+    "unicode": "&#60524;"
+  },
+  "org-humble-bundle-alt-1": {
+    "encodedCode": "\\ec6d",
+    "prefix": "pfi",
+    "className": "pfi-org-humble-bundle-alt-1",
+    "unicode": "&#60525;"
+  },
+  "org-humble-bundle": {
+    "encodedCode": "\\ec6e",
+    "prefix": "pfi",
+    "className": "pfi-org-humble-bundle",
+    "unicode": "&#60526;"
+  },
+  "org-instructables": {
+    "encodedCode": "\\ec6f",
+    "prefix": "pfi",
+    "className": "pfi-org-instructables",
+    "unicode": "&#60527;"
+  },
+  "org-mit": {
+    "encodedCode": "\\ec70",
+    "prefix": "pfi",
+    "className": "pfi-org-mit",
+    "unicode": "&#60528;"
+  },
+  "org-nasa": {
+    "encodedCode": "\\ec71",
+    "prefix": "pfi",
+    "className": "pfi-org-nasa",
+    "unicode": "&#60529;"
+  },
+  "org-noaa": {
+    "encodedCode": "\\ec72",
+    "prefix": "pfi",
+    "className": "pfi-org-noaa",
+    "unicode": "&#60530;"
+  },
+  "org-nodejs": {
+    "encodedCode": "\\ec73",
+    "prefix": "pfi",
+    "className": "pfi-org-nodejs",
+    "unicode": "&#60531;"
+  },
+  "org-npr": {
+    "encodedCode": "\\ec74",
+    "prefix": "pfi",
+    "className": "pfi-org-npr",
+    "unicode": "&#60532;"
+  },
+  "org-open-source-hardware-oshwa": {
+    "encodedCode": "\\ec75",
+    "prefix": "pfi",
+    "className": "pfi-org-open-source-hardware-oshwa",
+    "unicode": "&#60533;"
+  },
+  "org-open-source": {
+    "encodedCode": "\\ec76",
+    "prefix": "pfi",
+    "className": "pfi-org-open-source",
+    "unicode": "&#60534;"
+  },
+  "org-usps": {
+    "encodedCode": "\\ec77",
+    "prefix": "pfi",
+    "className": "pfi-org-usps",
+    "unicode": "&#60535;"
+  },
+  "org-wiki": {
+    "encodedCode": "\\ec78",
+    "prefix": "pfi",
+    "className": "pfi-org-wiki",
+    "unicode": "&#60536;"
+  },
+  "org-wikimedia": {
+    "encodedCode": "\\ec79",
+    "prefix": "pfi",
+    "className": "pfi-org-wikimedia",
+    "unicode": "&#60537;"
+  },
+  "org-y-combinator": {
+    "encodedCode": "\\ec7a",
+    "prefix": "pfi",
+    "className": "pfi-org-y-combinator",
+    "unicode": "&#60538;"
+  },
+  "organization-hierarchy-alt-1": {
+    "encodedCode": "\\ec7b",
+    "prefix": "pfi",
+    "className": "pfi-organization-hierarchy-alt-1",
+    "unicode": "&#60539;"
+  },
+  "organization-hierarchy-alt-2": {
+    "encodedCode": "\\ec7c",
+    "prefix": "pfi",
+    "className": "pfi-organization-hierarchy-alt-2",
+    "unicode": "&#60540;"
+  },
+  "organization-hierarchy": {
+    "encodedCode": "\\ec7d",
+    "prefix": "pfi",
+    "className": "pfi-organization-hierarchy",
+    "unicode": "&#60541;"
+  },
+  "os-arch": {
+    "encodedCode": "\\ec7e",
+    "prefix": "pfi",
+    "className": "pfi-os-arch",
+    "unicode": "&#60542;"
+  },
+  "os-debian": {
+    "encodedCode": "\\ec7f",
+    "prefix": "pfi",
+    "className": "pfi-os-debian",
+    "unicode": "&#60543;"
+  },
+  "os-fedora": {
+    "encodedCode": "\\ec80",
+    "prefix": "pfi",
+    "className": "pfi-os-fedora",
+    "unicode": "&#60544;"
+  },
+  "os-linux-dark": {
+    "encodedCode": "\\ec81",
+    "prefix": "pfi",
+    "className": "pfi-os-linux-dark",
+    "unicode": "&#60545;"
+  },
+  "os-linux": {
+    "encodedCode": "\\ec82",
+    "prefix": "pfi",
+    "className": "pfi-os-linux",
+    "unicode": "&#60546;"
+  },
+  "os-red-hat": {
+    "encodedCode": "\\ec83",
+    "prefix": "pfi",
+    "className": "pfi-os-red-hat",
+    "unicode": "&#60547;"
+  },
+  "os-ubuntu": {
+    "encodedCode": "\\ec84",
+    "prefix": "pfi",
+    "className": "pfi-os-ubuntu",
+    "unicode": "&#60548;"
+  },
+  "os-wayland": {
+    "encodedCode": "\\ec85",
+    "prefix": "pfi",
+    "className": "pfi-os-wayland",
+    "unicode": "&#60549;"
+  },
+  "os-windows": {
+    "encodedCode": "\\ec86",
+    "prefix": "pfi",
+    "className": "pfi-os-windows",
+    "unicode": "&#60550;"
+  },
+  "paleography": {
+    "encodedCode": "\\ec87",
+    "prefix": "pfi",
+    "className": "pfi-paleography",
+    "unicode": "&#60551;"
+  },
+  "paper-roll": {
+    "encodedCode": "\\ec88",
+    "prefix": "pfi",
+    "className": "pfi-paper-roll",
+    "unicode": "&#60552;"
+  },
+  "paperclip": {
+    "encodedCode": "\\ec89",
+    "prefix": "pfi",
+    "className": "pfi-paperclip",
+    "unicode": "&#60553;"
+  },
+  "parental-advisory": {
+    "encodedCode": "\\ec8a",
+    "prefix": "pfi",
+    "className": "pfi-parental-advisory",
+    "unicode": "&#60554;"
+  },
+  "parking-lot": {
+    "encodedCode": "\\ec8b",
+    "prefix": "pfi",
+    "className": "pfi-parking-lot",
+    "unicode": "&#60555;"
+  },
+  "pencil": {
+    "encodedCode": "\\ec8c",
+    "prefix": "pfi",
+    "className": "pfi-pencil",
+    "unicode": "&#60556;"
+  },
+  "people-ada-lovelace": {
+    "encodedCode": "\\ec8d",
+    "prefix": "pfi",
+    "className": "pfi-people-ada-lovelace",
+    "unicode": "&#60557;"
+  },
+  "people-einstein": {
+    "encodedCode": "\\ec8e",
+    "prefix": "pfi",
+    "className": "pfi-people-einstein",
+    "unicode": "&#60558;"
+  },
+  "people-feynman": {
+    "encodedCode": "\\ec8f",
+    "prefix": "pfi",
+    "className": "pfi-people-feynman",
+    "unicode": "&#60559;"
+  },
+  "people-nikola-tesla": {
+    "encodedCode": "\\ec90",
+    "prefix": "pfi",
+    "className": "pfi-people-nikola-tesla",
+    "unicode": "&#60560;"
+  },
+  "phone-cell-android": {
+    "encodedCode": "\\ec91",
+    "prefix": "pfi",
+    "className": "pfi-phone-cell-android",
+    "unicode": "&#60561;"
+  },
+  "phone-cell-iphone": {
+    "encodedCode": "\\ec92",
+    "prefix": "pfi",
+    "className": "pfi-phone-cell-iphone",
+    "unicode": "&#60562;"
+  },
+  "phone-roster": {
+    "encodedCode": "\\ec93",
+    "prefix": "pfi",
+    "className": "pfi-phone-roster",
+    "unicode": "&#60563;"
+  },
+  "phone": {
+    "encodedCode": "\\ec94",
+    "prefix": "pfi",
+    "className": "pfi-phone",
+    "unicode": "&#60564;"
+  },
+  "physics-alt": {
+    "encodedCode": "\\ec95",
+    "prefix": "pfi",
+    "className": "pfi-physics-alt",
+    "unicode": "&#60565;"
+  },
+  "physics": {
+    "encodedCode": "\\ec96",
+    "prefix": "pfi",
+    "className": "pfi-physics",
+    "unicode": "&#60566;"
+  },
+  "pill-solid": {
+    "encodedCode": "\\ec97",
+    "prefix": "pfi",
+    "className": "pfi-pill-solid",
+    "unicode": "&#60567;"
+  },
+  "pill-tab-left": {
+    "encodedCode": "\\ec98",
+    "prefix": "pfi",
+    "className": "pfi-pill-tab-left",
+    "unicode": "&#60568;"
+  },
+  "pill-tab-right": {
+    "encodedCode": "\\ec99",
+    "prefix": "pfi",
+    "className": "pfi-pill-tab-right",
+    "unicode": "&#60569;"
+  },
+  "pin": {
+    "encodedCode": "\\ec9a",
+    "prefix": "pfi",
+    "className": "pfi-pin",
+    "unicode": "&#60570;"
+  },
+  "plant-flower": {
+    "encodedCode": "\\ec9b",
+    "prefix": "pfi",
+    "className": "pfi-plant-flower",
+    "unicode": "&#60571;"
+  },
+  "plant-sunflower": {
+    "encodedCode": "\\ec9c",
+    "prefix": "pfi",
+    "className": "pfi-plant-sunflower",
+    "unicode": "&#60572;"
+  },
+  "plant": {
+    "encodedCode": "\\ec9d",
+    "prefix": "pfi",
+    "className": "pfi-plant",
+    "unicode": "&#60573;"
+  },
+  "platform-android": {
+    "encodedCode": "\\ec9e",
+    "prefix": "pfi",
+    "className": "pfi-platform-android",
+    "unicode": "&#60574;"
+  },
+  "platform-discord": {
+    "encodedCode": "\\ec9f",
+    "prefix": "pfi",
+    "className": "pfi-platform-discord",
+    "unicode": "&#60575;"
+  },
+  "platform-firebase": {
+    "encodedCode": "\\eca0",
+    "prefix": "pfi",
+    "className": "pfi-platform-firebase",
+    "unicode": "&#60576;"
+  },
+  "platform-meetup": {
+    "encodedCode": "\\eca1",
+    "prefix": "pfi",
+    "className": "pfi-platform-meetup",
+    "unicode": "&#60577;"
+  },
+  "platform-moodle": {
+    "encodedCode": "\\eca2",
+    "prefix": "pfi",
+    "className": "pfi-platform-moodle",
+    "unicode": "&#60578;"
+  },
+  "platform-mqtt": {
+    "encodedCode": "\\eca3",
+    "prefix": "pfi",
+    "className": "pfi-platform-mqtt",
+    "unicode": "&#60579;"
+  },
+  "platform-node-red": {
+    "encodedCode": "\\eca4",
+    "prefix": "pfi",
+    "className": "pfi-platform-node-red",
+    "unicode": "&#60580;"
+  },
+  "platform-rabbit-mq": {
+    "encodedCode": "\\eca5",
+    "prefix": "pfi",
+    "className": "pfi-platform-rabbit-mq",
+    "unicode": "&#60581;"
+  },
+  "platform-udemy": {
+    "encodedCode": "\\eca6",
+    "prefix": "pfi",
+    "className": "pfi-platform-udemy",
+    "unicode": "&#60582;"
+  },
+  "platform-windoz": {
+    "encodedCode": "\\eca7",
+    "prefix": "pfi",
+    "className": "pfi-platform-windoz",
+    "unicode": "&#60583;"
+  },
+  "platform-wordpress": {
+    "encodedCode": "\\eca8",
+    "prefix": "pfi",
+    "className": "pfi-platform-wordpress",
+    "unicode": "&#60584;"
+  },
+  "plug": {
+    "encodedCode": "\\eca9",
+    "prefix": "pfi",
+    "className": "pfi-plug",
+    "unicode": "&#60585;"
+  },
+  "poc-workspace": {
+    "encodedCode": "\\ecaa",
+    "prefix": "pfi",
+    "className": "pfi-poc-workspace",
+    "unicode": "&#60586;"
+  },
+  "podcast": {
+    "encodedCode": "\\ecab",
+    "prefix": "pfi",
+    "className": "pfi-podcast",
+    "unicode": "&#60587;"
+  },
+  "podium-alt": {
+    "encodedCode": "\\ecac",
+    "prefix": "pfi",
+    "className": "pfi-podium-alt",
+    "unicode": "&#60588;"
+  },
+  "podium-manned-book": {
+    "encodedCode": "\\ecad",
+    "prefix": "pfi",
+    "className": "pfi-podium-manned-book",
+    "unicode": "&#60589;"
+  },
+  "podium-manned": {
+    "encodedCode": "\\ecae",
+    "prefix": "pfi",
+    "className": "pfi-podium-manned",
+    "unicode": "&#60590;"
+  },
+  "podium": {
+    "encodedCode": "\\ecaf",
+    "prefix": "pfi",
+    "className": "pfi-podium",
+    "unicode": "&#60591;"
+  },
+  "pointer-hand-grab": {
+    "encodedCode": "\\ecb0",
+    "prefix": "pfi",
+    "className": "pfi-pointer-hand-grab",
+    "unicode": "&#60592;"
+  },
+  "pointer-hand": {
+    "encodedCode": "\\ecb1",
+    "prefix": "pfi",
+    "className": "pfi-pointer-hand",
+    "unicode": "&#60593;"
+  },
+  "pointer-mouse": {
+    "encodedCode": "\\ecb2",
+    "prefix": "pfi",
+    "className": "pfi-pointer-mouse",
+    "unicode": "&#60594;"
+  },
+  "power": {
+    "encodedCode": "\\ecb3",
+    "prefix": "pfi",
+    "className": "pfi-power",
+    "unicode": "&#60595;"
+  },
+  "prince": {
+    "encodedCode": "\\ecb4",
+    "prefix": "pfi",
+    "className": "pfi-prince",
+    "unicode": "&#60596;"
+  },
+  "printer": {
+    "encodedCode": "\\ecb5",
+    "prefix": "pfi",
+    "className": "pfi-printer",
+    "unicode": "&#60597;"
+  },
+  "process-bpmn-end": {
+    "encodedCode": "\\ecb6",
+    "prefix": "pfi",
+    "className": "pfi-process-bpmn-end",
+    "unicode": "&#60598;"
+  },
+  "process-bpmn-event-alt": {
+    "encodedCode": "\\ecb7",
+    "prefix": "pfi",
+    "className": "pfi-process-bpmn-event-alt",
+    "unicode": "&#60599;"
+  },
+  "process-bpmn-event": {
+    "encodedCode": "\\ecb8",
+    "prefix": "pfi",
+    "className": "pfi-process-bpmn-event",
+    "unicode": "&#60600;"
+  },
+  "process-bpmn-start": {
+    "encodedCode": "\\ecb9",
+    "prefix": "pfi",
+    "className": "pfi-process-bpmn-start",
+    "unicode": "&#60601;"
+  },
+  "process-bpmn-task": {
+    "encodedCode": "\\ecba",
+    "prefix": "pfi",
+    "className": "pfi-process-bpmn-task",
+    "unicode": "&#60602;"
+  },
+  "process-bpmn-transaction": {
+    "encodedCode": "\\ecbb",
+    "prefix": "pfi",
+    "className": "pfi-process-bpmn-transaction",
+    "unicode": "&#60603;"
+  },
+  "process-data-flow-data-store-alt-1": {
+    "encodedCode": "\\ecbc",
+    "prefix": "pfi",
+    "className": "pfi-process-data-flow-data-store-alt-1",
+    "unicode": "&#60604;"
+  },
+  "process-data-flow-data-store-alt-2": {
+    "encodedCode": "\\ecbd",
+    "prefix": "pfi",
+    "className": "pfi-process-data-flow-data-store-alt-2",
+    "unicode": "&#60605;"
+  },
+  "process-data-flow-data-store": {
+    "encodedCode": "\\ecbe",
+    "prefix": "pfi",
+    "className": "pfi-process-data-flow-data-store",
+    "unicode": "&#60606;"
+  },
+  "process-data-flow-external-entity": {
+    "encodedCode": "\\ecbf",
+    "prefix": "pfi",
+    "className": "pfi-process-data-flow-external-entity",
+    "unicode": "&#60607;"
+  },
+  "process-data-flow-process-circle": {
+    "encodedCode": "\\ecc0",
+    "prefix": "pfi",
+    "className": "pfi-process-data-flow-process-circle",
+    "unicode": "&#60608;"
+  },
+  "process-data-flow-process-square": {
+    "encodedCode": "\\ecc1",
+    "prefix": "pfi",
+    "className": "pfi-process-data-flow-process-square",
+    "unicode": "&#60609;"
+  },
+  "process-erd": {
+    "encodedCode": "\\ecc2",
+    "prefix": "pfi",
+    "className": "pfi-process-erd",
+    "unicode": "&#60610;"
+  },
+  "process-flow-arrow": {
+    "encodedCode": "\\ecc3",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-arrow",
+    "unicode": "&#60611;"
+  },
+  "process-flow-comment": {
+    "encodedCode": "\\ecc4",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-comment",
+    "unicode": "&#60612;"
+  },
+  "process-flow-connector": {
+    "encodedCode": "\\ecc5",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-connector",
+    "unicode": "&#60613;"
+  },
+  "process-flow-data": {
+    "encodedCode": "\\ecc6",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-data",
+    "unicode": "&#60614;"
+  },
+  "process-flow-database": {
+    "encodedCode": "\\ecc7",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-database",
+    "unicode": "&#60615;"
+  },
+  "process-flow-decision": {
+    "encodedCode": "\\ecc8",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-decision",
+    "unicode": "&#60616;"
+  },
+  "process-flow-delay": {
+    "encodedCode": "\\ecc9",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-delay",
+    "unicode": "&#60617;"
+  },
+  "process-flow-display": {
+    "encodedCode": "\\ecca",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-display",
+    "unicode": "&#60618;"
+  },
+  "process-flow-document": {
+    "encodedCode": "\\eccb",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-document",
+    "unicode": "&#60619;"
+  },
+  "process-flow-documents": {
+    "encodedCode": "\\eccc",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-documents",
+    "unicode": "&#60620;"
+  },
+  "process-flow-hard-disk": {
+    "encodedCode": "\\eccd",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-hard-disk",
+    "unicode": "&#60621;"
+  },
+  "process-flow-internal-storage": {
+    "encodedCode": "\\ecce",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-internal-storage",
+    "unicode": "&#60622;"
+  },
+  "process-flow-manual-input": {
+    "encodedCode": "\\eccf",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-manual-input",
+    "unicode": "&#60623;"
+  },
+  "process-flow-manual-operation": {
+    "encodedCode": "\\ecd0",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-manual-operation",
+    "unicode": "&#60624;"
+  },
+  "process-flow-merge": {
+    "encodedCode": "\\ecd1",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-merge",
+    "unicode": "&#60625;"
+  },
+  "process-flow-note": {
+    "encodedCode": "\\ecd2",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-note",
+    "unicode": "&#60626;"
+  },
+  "process-flow-off-page-link": {
+    "encodedCode": "\\ecd3",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-off-page-link",
+    "unicode": "&#60627;"
+  },
+  "process-flow-or": {
+    "encodedCode": "\\ecd4",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-or",
+    "unicode": "&#60628;"
+  },
+  "process-flow-paper-tape": {
+    "encodedCode": "\\ecd5",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-paper-tape",
+    "unicode": "&#60629;"
+  },
+  "process-flow-predefined-process": {
+    "encodedCode": "\\ecd6",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-predefined-process",
+    "unicode": "&#60630;"
+  },
+  "process-flow-preperation": {
+    "encodedCode": "\\ecd7",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-preperation",
+    "unicode": "&#60631;"
+  },
+  "process-flow-process": {
+    "encodedCode": "\\ecd8",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-process",
+    "unicode": "&#60632;"
+  },
+  "process-flow-stored-data": {
+    "encodedCode": "\\ecd9",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-stored-data",
+    "unicode": "&#60633;"
+  },
+  "process-flow-summing-junction": {
+    "encodedCode": "\\ecda",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-summing-junction",
+    "unicode": "&#60634;"
+  },
+  "process-flow-terminator": {
+    "encodedCode": "\\ecdb",
+    "prefix": "pfi",
+    "className": "pfi-process-flow-terminator",
+    "unicode": "&#60635;"
+  },
+  "process-map-alt-1": {
+    "encodedCode": "\\ecdc",
+    "prefix": "pfi",
+    "className": "pfi-process-map-alt-1",
+    "unicode": "&#60636;"
+  },
+  "process-map": {
+    "encodedCode": "\\ecdd",
+    "prefix": "pfi",
+    "className": "pfi-process-map",
+    "unicode": "&#60637;"
+  },
+  "process-uml-attribute": {
+    "encodedCode": "\\ecde",
+    "prefix": "pfi",
+    "className": "pfi-process-uml-attribute",
+    "unicode": "&#60638;"
+  },
+  "process-uml-branch-merge": {
+    "encodedCode": "\\ecdf",
+    "prefix": "pfi",
+    "className": "pfi-process-uml-branch-merge",
+    "unicode": "&#60639;"
+  },
+  "process-uml-component": {
+    "encodedCode": "\\ece0",
+    "prefix": "pfi",
+    "className": "pfi-process-uml-component",
+    "unicode": "&#60640;"
+  },
+  "process-uml-end": {
+    "encodedCode": "\\ece1",
+    "prefix": "pfi",
+    "className": "pfi-process-uml-end",
+    "unicode": "&#60641;"
+  },
+  "process-uml-entity": {
+    "encodedCode": "\\ece2",
+    "prefix": "pfi",
+    "className": "pfi-process-uml-entity",
+    "unicode": "&#60642;"
+  },
+  "process-uml-multivalued-attribute": {
+    "encodedCode": "\\ece3",
+    "prefix": "pfi",
+    "className": "pfi-process-uml-multivalued-attribute",
+    "unicode": "&#60643;"
+  },
+  "process-uml-note": {
+    "encodedCode": "\\ece4",
+    "prefix": "pfi",
+    "className": "pfi-process-uml-note",
+    "unicode": "&#60644;"
+  },
+  "process-uml-receive-signal": {
+    "encodedCode": "\\ece5",
+    "prefix": "pfi",
+    "className": "pfi-process-uml-receive-signal",
+    "unicode": "&#60645;"
+  },
+  "process-uml-relationship": {
+    "encodedCode": "\\ece6",
+    "prefix": "pfi",
+    "className": "pfi-process-uml-relationship",
+    "unicode": "&#60646;"
+  },
+  "process-uml-send-signal": {
+    "encodedCode": "\\ece7",
+    "prefix": "pfi",
+    "className": "pfi-process-uml-send-signal",
+    "unicode": "&#60647;"
+  },
+  "process-uml-start": {
+    "encodedCode": "\\ece8",
+    "prefix": "pfi",
+    "className": "pfi-process-uml-start",
+    "unicode": "&#60648;"
+  },
+  "process-uml-weak-entity": {
+    "encodedCode": "\\ece9",
+    "prefix": "pfi",
+    "className": "pfi-process-uml-weak-entity",
+    "unicode": "&#60649;"
+  },
+  "process-uml-weak-relationship": {
+    "encodedCode": "\\ecea",
+    "prefix": "pfi",
+    "className": "pfi-process-uml-weak-relationship",
+    "unicode": "&#60650;"
+  },
+  "produce-apple": {
+    "encodedCode": "\\eceb",
+    "prefix": "pfi",
+    "className": "pfi-produce-apple",
+    "unicode": "&#60651;"
+  },
+  "produce-bean": {
+    "encodedCode": "\\ecec",
+    "prefix": "pfi",
+    "className": "pfi-produce-bean",
+    "unicode": "&#60652;"
+  },
+  "produce-broccoli": {
+    "encodedCode": "\\eced",
+    "prefix": "pfi",
+    "className": "pfi-produce-broccoli",
+    "unicode": "&#60653;"
+  },
+  "produce-carrot": {
+    "encodedCode": "\\ecee",
+    "prefix": "pfi",
+    "className": "pfi-produce-carrot",
+    "unicode": "&#60654;"
+  },
+  "produce-cherries": {
+    "encodedCode": "\\ecef",
+    "prefix": "pfi",
+    "className": "pfi-produce-cherries",
+    "unicode": "&#60655;"
+  },
+  "produce-corn": {
+    "encodedCode": "\\ecf0",
+    "prefix": "pfi",
+    "className": "pfi-produce-corn",
+    "unicode": "&#60656;"
+  },
+  "produce-eggplant": {
+    "encodedCode": "\\ecf1",
+    "prefix": "pfi",
+    "className": "pfi-produce-eggplant",
+    "unicode": "&#60657;"
+  },
+  "produce-grape": {
+    "encodedCode": "\\ecf2",
+    "prefix": "pfi",
+    "className": "pfi-produce-grape",
+    "unicode": "&#60658;"
+  },
+  "produce-orange": {
+    "encodedCode": "\\ecf3",
+    "prefix": "pfi",
+    "className": "pfi-produce-orange",
+    "unicode": "&#60659;"
+  },
+  "produce-pear": {
+    "encodedCode": "\\ecf4",
+    "prefix": "pfi",
+    "className": "pfi-produce-pear",
+    "unicode": "&#60660;"
+  },
+  "produce-pepper-chili": {
+    "encodedCode": "\\ecf5",
+    "prefix": "pfi",
+    "className": "pfi-produce-pepper-chili",
+    "unicode": "&#60661;"
+  },
+  "produce-pepper-jalapeno": {
+    "encodedCode": "\\ecf6",
+    "prefix": "pfi",
+    "className": "pfi-produce-pepper-jalapeno",
+    "unicode": "&#60662;"
+  },
+  "produce-pineapple": {
+    "encodedCode": "\\ecf7",
+    "prefix": "pfi",
+    "className": "pfi-produce-pineapple",
+    "unicode": "&#60663;"
+  },
+  "produce-strawberry": {
+    "encodedCode": "\\ecf8",
+    "prefix": "pfi",
+    "className": "pfi-produce-strawberry",
+    "unicode": "&#60664;"
+  },
+  "produce-watermelon": {
+    "encodedCode": "\\ecf9",
+    "prefix": "pfi",
+    "className": "pfi-produce-watermelon",
+    "unicode": "&#60665;"
+  },
+  "profile-circle": {
+    "encodedCode": "\\ecfa",
+    "prefix": "pfi",
+    "className": "pfi-profile-circle",
+    "unicode": "&#60666;"
+  },
+  "profile": {
+    "encodedCode": "\\ecfb",
+    "prefix": "pfi",
+    "className": "pfi-profile",
+    "unicode": "&#60667;"
+  },
+  "programming-ada": {
+    "encodedCode": "\\ecfc",
+    "prefix": "pfi",
+    "className": "pfi-programming-ada",
+    "unicode": "&#60668;"
+  },
+  "programming-apache-cordova": {
+    "encodedCode": "\\ecfd",
+    "prefix": "pfi",
+    "className": "pfi-programming-apache-cordova",
+    "unicode": "&#60669;"
+  },
+  "programming-apache-couch-db": {
+    "encodedCode": "\\ecfe",
+    "prefix": "pfi",
+    "className": "pfi-programming-apache-couch-db",
+    "unicode": "&#60670;"
+  },
+  "programming-apache-kafka": {
+    "encodedCode": "\\ecff",
+    "prefix": "pfi",
+    "className": "pfi-programming-apache-kafka",
+    "unicode": "&#60671;"
+  },
+  "programming-apache-net-beans": {
+    "encodedCode": "\\ed00",
+    "prefix": "pfi",
+    "className": "pfi-programming-apache-net-beans",
+    "unicode": "&#60672;"
+  },
+  "programming-assembly": {
+    "encodedCode": "\\ed01",
+    "prefix": "pfi",
+    "className": "pfi-programming-assembly",
+    "unicode": "&#60673;"
+  },
+  "programming-bash": {
+    "encodedCode": "\\ed02",
+    "prefix": "pfi",
+    "className": "pfi-programming-bash",
+    "unicode": "&#60674;"
+  },
+  "programming-c-plus-plus": {
+    "encodedCode": "\\ed03",
+    "prefix": "pfi",
+    "className": "pfi-programming-c-plus-plus",
+    "unicode": "&#60675;"
+  },
+  "programming-c-sharp": {
+    "encodedCode": "\\ed04",
+    "prefix": "pfi",
+    "className": "pfi-programming-c-sharp",
+    "unicode": "&#60676;"
+  },
+  "programming-carbon": {
+    "encodedCode": "\\ed05",
+    "prefix": "pfi",
+    "className": "pfi-programming-carbon",
+    "unicode": "&#60677;"
+  },
+  "programming-dart": {
+    "encodedCode": "\\ed06",
+    "prefix": "pfi",
+    "className": "pfi-programming-dart",
+    "unicode": "&#60678;"
+  },
+  "programming-erlang": {
+    "encodedCode": "\\ed07",
+    "prefix": "pfi",
+    "className": "pfi-programming-erlang",
+    "unicode": "&#60679;"
+  },
+  "programming-f-sharp": {
+    "encodedCode": "\\ed08",
+    "prefix": "pfi",
+    "className": "pfi-programming-f-sharp",
+    "unicode": "&#60680;"
+  },
+  "programming-fortran": {
+    "encodedCode": "\\ed09",
+    "prefix": "pfi",
+    "className": "pfi-programming-fortran",
+    "unicode": "&#60681;"
+  },
+  "programming-framework-react": {
+    "encodedCode": "\\ed0a",
+    "prefix": "pfi",
+    "className": "pfi-programming-framework-react",
+    "unicode": "&#60682;"
+  },
+  "programming-go": {
+    "encodedCode": "\\ed0b",
+    "prefix": "pfi",
+    "className": "pfi-programming-go",
+    "unicode": "&#60683;"
+  },
+  "programming-haskell": {
+    "encodedCode": "\\ed0c",
+    "prefix": "pfi",
+    "className": "pfi-programming-haskell",
+    "unicode": "&#60684;"
+  },
+  "programming-java": {
+    "encodedCode": "\\ed0d",
+    "prefix": "pfi",
+    "className": "pfi-programming-java",
+    "unicode": "&#60685;"
+  },
+  "programming-javascript": {
+    "encodedCode": "\\ed0e",
+    "prefix": "pfi",
+    "className": "pfi-programming-javascript",
+    "unicode": "&#60686;"
+  },
+  "programming-kotlin": {
+    "encodedCode": "\\ed0f",
+    "prefix": "pfi",
+    "className": "pfi-programming-kotlin",
+    "unicode": "&#60687;"
+  },
+  "programming-lisp": {
+    "encodedCode": "\\ed10",
+    "prefix": "pfi",
+    "className": "pfi-programming-lisp",
+    "unicode": "&#60688;"
+  },
+  "programming-nodejs-alt": {
+    "encodedCode": "\\ed11",
+    "prefix": "pfi",
+    "className": "pfi-programming-nodejs-alt",
+    "unicode": "&#60689;"
+  },
+  "programming-npm": {
+    "encodedCode": "\\ed12",
+    "prefix": "pfi",
+    "className": "pfi-programming-npm",
+    "unicode": "&#60690;"
+  },
+  "programming-o-caml": {
+    "encodedCode": "\\ed13",
+    "prefix": "pfi",
+    "className": "pfi-programming-o-caml",
+    "unicode": "&#60691;"
+  },
+  "programming-objective-c": {
+    "encodedCode": "\\ed14",
+    "prefix": "pfi",
+    "className": "pfi-programming-objective-c",
+    "unicode": "&#60692;"
+  },
+  "programming-php": {
+    "encodedCode": "\\ed15",
+    "prefix": "pfi",
+    "className": "pfi-programming-php",
+    "unicode": "&#60693;"
+  },
+  "programming-postgresql": {
+    "encodedCode": "\\ed16",
+    "prefix": "pfi",
+    "className": "pfi-programming-postgresql",
+    "unicode": "&#60694;"
+  },
+  "programming-python": {
+    "encodedCode": "\\ed17",
+    "prefix": "pfi",
+    "className": "pfi-programming-python",
+    "unicode": "&#60695;"
+  },
+  "programming-redis": {
+    "encodedCode": "\\ed18",
+    "prefix": "pfi",
+    "className": "pfi-programming-redis",
+    "unicode": "&#60696;"
+  },
+  "programming-rust": {
+    "encodedCode": "\\ed19",
+    "prefix": "pfi",
+    "className": "pfi-programming-rust",
+    "unicode": "&#60697;"
+  },
+  "programming-typescript": {
+    "encodedCode": "\\ed1a",
+    "prefix": "pfi",
+    "className": "pfi-programming-typescript",
+    "unicode": "&#60698;"
+  },
+  "project-cycle": {
+    "encodedCode": "\\ed1b",
+    "prefix": "pfi",
+    "className": "pfi-project-cycle",
+    "unicode": "&#60699;"
+  },
+  "project-mgmt": {
+    "encodedCode": "\\ed1c",
+    "prefix": "pfi",
+    "className": "pfi-project-mgmt",
+    "unicode": "&#60700;"
+  },
+  "project": {
+    "encodedCode": "\\ed1d",
+    "prefix": "pfi",
+    "className": "pfi-project",
+    "unicode": "&#60701;"
+  },
+  "projector-screen": {
+    "encodedCode": "\\ed1e",
+    "prefix": "pfi",
+    "className": "pfi-projector-screen",
+    "unicode": "&#60702;"
+  },
+  "projector": {
+    "encodedCode": "\\ed1f",
+    "prefix": "pfi",
+    "className": "pfi-projector",
+    "unicode": "&#60703;"
+  },
+  "property-book": {
+    "encodedCode": "\\ed20",
+    "prefix": "pfi",
+    "className": "pfi-property-book",
+    "unicode": "&#60704;"
+  },
+  "pulse-circle": {
+    "encodedCode": "\\ed21",
+    "prefix": "pfi",
+    "className": "pfi-pulse-circle",
+    "unicode": "&#60705;"
+  },
+  "pulse": {
+    "encodedCode": "\\ed22",
+    "prefix": "pfi",
+    "className": "pfi-pulse",
+    "unicode": "&#60706;"
+  },
+  "puzzle-piece": {
+    "encodedCode": "\\ed23",
+    "prefix": "pfi",
+    "className": "pfi-puzzle-piece",
+    "unicode": "&#60707;"
+  },
+  "qr-code": {
+    "encodedCode": "\\ed24",
+    "prefix": "pfi",
+    "className": "pfi-qr-code",
+    "unicode": "&#60708;"
+  },
+  "question-circle": {
+    "encodedCode": "\\ed25",
+    "prefix": "pfi",
+    "className": "pfi-question-circle",
+    "unicode": "&#60709;"
+  },
+  "question": {
+    "encodedCode": "\\ed26",
+    "prefix": "pfi",
+    "className": "pfi-question",
+    "unicode": "&#60710;"
+  },
+  "radiation-alt-1": {
+    "encodedCode": "\\ed27",
+    "prefix": "pfi",
+    "className": "pfi-radiation-alt-1",
+    "unicode": "&#60711;"
+  },
+  "radiation": {
+    "encodedCode": "\\ed28",
+    "prefix": "pfi",
+    "className": "pfi-radiation",
+    "unicode": "&#60712;"
+  },
+  "radio-handheld": {
+    "encodedCode": "\\ed29",
+    "prefix": "pfi",
+    "className": "pfi-radio-handheld",
+    "unicode": "&#60713;"
+  },
+  "radio": {
+    "encodedCode": "\\ed2a",
+    "prefix": "pfi",
+    "className": "pfi-radio",
+    "unicode": "&#60714;"
+  },
+  "raspberry-pi": {
+    "encodedCode": "\\ed2b",
+    "prefix": "pfi",
+    "className": "pfi-raspberry-pi",
+    "unicode": "&#60715;"
+  },
+  "record": {
+    "encodedCode": "\\ed2c",
+    "prefix": "pfi",
+    "className": "pfi-record",
+    "unicode": "&#60716;"
+  },
+  "redo": {
+    "encodedCode": "\\ed2d",
+    "prefix": "pfi",
+    "className": "pfi-redo",
+    "unicode": "&#60717;"
+  },
+  "refresh-chunky": {
+    "encodedCode": "\\ed2e",
+    "prefix": "pfi",
+    "className": "pfi-refresh-chunky",
+    "unicode": "&#60718;"
+  },
+  "refresh": {
+    "encodedCode": "\\ed2f",
+    "prefix": "pfi",
+    "className": "pfi-refresh",
+    "unicode": "&#60719;"
+  },
+  "registration-desk": {
+    "encodedCode": "\\ed30",
+    "prefix": "pfi",
+    "className": "pfi-registration-desk",
+    "unicode": "&#60720;"
+  },
+  "religion-akan": {
+    "encodedCode": "\\ed31",
+    "prefix": "pfi",
+    "className": "pfi-religion-akan",
+    "unicode": "&#60721;"
+  },
+  "religion-bahai": {
+    "encodedCode": "\\ed32",
+    "prefix": "pfi",
+    "className": "pfi-religion-bahai",
+    "unicode": "&#60722;"
+  },
+  "religion-buddhism": {
+    "encodedCode": "\\ed33",
+    "prefix": "pfi",
+    "className": "pfi-religion-buddhism",
+    "unicode": "&#60723;"
+  },
+  "religion-celtic-neopaganism": {
+    "encodedCode": "\\ed34",
+    "prefix": "pfi",
+    "className": "pfi-religion-celtic-neopaganism",
+    "unicode": "&#60724;"
+  },
+  "religion-chinese-folk-religion": {
+    "encodedCode": "\\ed35",
+    "prefix": "pfi",
+    "className": "pfi-religion-chinese-folk-religion",
+    "unicode": "&#60725;"
+  },
+  "religion-christianity": {
+    "encodedCode": "\\ed36",
+    "prefix": "pfi",
+    "className": "pfi-religion-christianity",
+    "unicode": "&#60726;"
+  },
+  "religion-hellenism": {
+    "encodedCode": "\\ed37",
+    "prefix": "pfi",
+    "className": "pfi-religion-hellenism",
+    "unicode": "&#60727;"
+  },
+  "religion-hinduism": {
+    "encodedCode": "\\ed38",
+    "prefix": "pfi",
+    "className": "pfi-religion-hinduism",
+    "unicode": "&#60728;"
+  },
+  "religion-isese": {
+    "encodedCode": "\\ed39",
+    "prefix": "pfi",
+    "className": "pfi-religion-isese",
+    "unicode": "&#60729;"
+  },
+  "religion-islam": {
+    "encodedCode": "\\ed3a",
+    "prefix": "pfi",
+    "className": "pfi-religion-islam",
+    "unicode": "&#60730;"
+  },
+  "religion-jainism": {
+    "encodedCode": "\\ed3b",
+    "prefix": "pfi",
+    "className": "pfi-religion-jainism",
+    "unicode": "&#60731;"
+  },
+  "religion-jewitchery": {
+    "encodedCode": "\\ed3c",
+    "prefix": "pfi",
+    "className": "pfi-religion-jewitchery",
+    "unicode": "&#60732;"
+  },
+  "religion-judaism": {
+    "encodedCode": "\\ed3d",
+    "prefix": "pfi",
+    "className": "pfi-religion-judaism",
+    "unicode": "&#60733;"
+  },
+  "religion-kemetism": {
+    "encodedCode": "\\ed3e",
+    "prefix": "pfi",
+    "className": "pfi-religion-kemetism",
+    "unicode": "&#60734;"
+  },
+  "religion-lds": {
+    "encodedCode": "\\ed3f",
+    "prefix": "pfi",
+    "className": "pfi-religion-lds",
+    "unicode": "&#60735;"
+  },
+  "religion-mexicayotl": {
+    "encodedCode": "\\ed40",
+    "prefix": "pfi",
+    "className": "pfi-religion-mexicayotl",
+    "unicode": "&#60736;"
+  },
+  "religion-natib-qadish": {
+    "encodedCode": "\\ed41",
+    "prefix": "pfi",
+    "className": "pfi-religion-natib-qadish",
+    "unicode": "&#60737;"
+  },
+  "religion-native-american-church": {
+    "encodedCode": "\\ed42",
+    "prefix": "pfi",
+    "className": "pfi-religion-native-american-church",
+    "unicode": "&#60738;"
+  },
+  "religion-neo-pagan": {
+    "encodedCode": "\\ed43",
+    "prefix": "pfi",
+    "className": "pfi-religion-neo-pagan",
+    "unicode": "&#60739;"
+  },
+  "religion-norse": {
+    "encodedCode": "\\ed44",
+    "prefix": "pfi",
+    "className": "pfi-religion-norse",
+    "unicode": "&#60740;"
+  },
+  "religion-satanism": {
+    "encodedCode": "\\ed45",
+    "prefix": "pfi",
+    "className": "pfi-religion-satanism",
+    "unicode": "&#60741;"
+  },
+  "religion-serer": {
+    "encodedCode": "\\ed46",
+    "prefix": "pfi",
+    "className": "pfi-religion-serer",
+    "unicode": "&#60742;"
+  },
+  "religion-shinto": {
+    "encodedCode": "\\ed47",
+    "prefix": "pfi",
+    "className": "pfi-religion-shinto",
+    "unicode": "&#60743;"
+  },
+  "religion-sikhism": {
+    "encodedCode": "\\ed48",
+    "prefix": "pfi",
+    "className": "pfi-religion-sikhism",
+    "unicode": "&#60744;"
+  },
+  "religion-slavic-native-faith": {
+    "encodedCode": "\\ed49",
+    "prefix": "pfi",
+    "className": "pfi-religion-slavic-native-faith",
+    "unicode": "&#60745;"
+  },
+  "religion-taoism-alt-1": {
+    "encodedCode": "\\ed4a",
+    "prefix": "pfi",
+    "className": "pfi-religion-taoism-alt-1",
+    "unicode": "&#60746;"
+  },
+  "religion-taoism": {
+    "encodedCode": "\\ed4b",
+    "prefix": "pfi",
+    "className": "pfi-religion-taoism",
+    "unicode": "&#60747;"
+  },
+  "religion-thelema": {
+    "encodedCode": "\\ed4c",
+    "prefix": "pfi",
+    "className": "pfi-religion-thelema",
+    "unicode": "&#60748;"
+  },
+  "religion-unitarian-universalism": {
+    "encodedCode": "\\ed4d",
+    "prefix": "pfi",
+    "className": "pfi-religion-unitarian-universalism",
+    "unicode": "&#60749;"
+  },
+  "religion-wicca": {
+    "encodedCode": "\\ed4e",
+    "prefix": "pfi",
+    "className": "pfi-religion-wicca",
+    "unicode": "&#60750;"
+  },
+  "religion-zoroastrianism": {
+    "encodedCode": "\\ed4f",
+    "prefix": "pfi",
+    "className": "pfi-religion-zoroastrianism",
+    "unicode": "&#60751;"
+  },
+  "reports": {
+    "encodedCode": "\\ed50",
+    "prefix": "pfi",
+    "className": "pfi-reports",
+    "unicode": "&#60752;"
+  },
+  "retro-logo-badge-alt-1": {
+    "encodedCode": "\\ed51",
+    "prefix": "pfi",
+    "className": "pfi-retro-logo-badge-alt-1",
+    "unicode": "&#60753;"
+  },
+  "retro-logo-badge-alt-2": {
+    "encodedCode": "\\ed52",
+    "prefix": "pfi",
+    "className": "pfi-retro-logo-badge-alt-2",
+    "unicode": "&#60754;"
+  },
+  "retro-logo-badge-alt-3": {
+    "encodedCode": "\\ed53",
+    "prefix": "pfi",
+    "className": "pfi-retro-logo-badge-alt-3",
+    "unicode": "&#60755;"
+  },
+  "retro-logo-badge": {
+    "encodedCode": "\\ed54",
+    "prefix": "pfi",
+    "className": "pfi-retro-logo-badge",
+    "unicode": "&#60756;"
+  },
+  "retro-logo-circle": {
+    "encodedCode": "\\ed55",
+    "prefix": "pfi",
+    "className": "pfi-retro-logo-circle",
+    "unicode": "&#60757;"
+  },
+  "retro-logo-ribbon-alt-1": {
+    "encodedCode": "\\ed56",
+    "prefix": "pfi",
+    "className": "pfi-retro-logo-ribbon-alt-1",
+    "unicode": "&#60758;"
+  },
+  "retro-logo-ribbon-alt-2": {
+    "encodedCode": "\\ed57",
+    "prefix": "pfi",
+    "className": "pfi-retro-logo-ribbon-alt-2",
+    "unicode": "&#60759;"
+  },
+  "retro-logo-ribbon-ends": {
+    "encodedCode": "\\ed58",
+    "prefix": "pfi",
+    "className": "pfi-retro-logo-ribbon-ends",
+    "unicode": "&#60760;"
+  },
+  "retro-logo-ribbon": {
+    "encodedCode": "\\ed59",
+    "prefix": "pfi",
+    "className": "pfi-retro-logo-ribbon",
+    "unicode": "&#60761;"
+  },
+  "rfid": {
+    "encodedCode": "\\ed5a",
+    "prefix": "pfi",
+    "className": "pfi-rfid",
+    "unicode": "&#60762;"
+  },
+  "ribbon-alt": {
+    "encodedCode": "\\ed5b",
+    "prefix": "pfi",
+    "className": "pfi-ribbon-alt",
+    "unicode": "&#60763;"
+  },
+  "ribbon": {
+    "encodedCode": "\\ed5c",
+    "prefix": "pfi",
+    "className": "pfi-ribbon",
+    "unicode": "&#60764;"
+  },
+  "river-stream-creek": {
+    "encodedCode": "\\ed5d",
+    "prefix": "pfi",
+    "className": "pfi-river-stream-creek",
+    "unicode": "&#60765;"
+  },
+  "road-cone": {
+    "encodedCode": "\\ed5e",
+    "prefix": "pfi",
+    "className": "pfi-road-cone",
+    "unicode": "&#60766;"
+  },
+  "robotics-arm-automation": {
+    "encodedCode": "\\ed5f",
+    "prefix": "pfi",
+    "className": "pfi-robotics-arm-automation",
+    "unicode": "&#60767;"
+  },
+  "rocket": {
+    "encodedCode": "\\ed60",
+    "prefix": "pfi",
+    "className": "pfi-rocket",
+    "unicode": "&#60768;"
+  },
+  "rss": {
+    "encodedCode": "\\ed61",
+    "prefix": "pfi",
+    "className": "pfi-rss",
+    "unicode": "&#60769;"
+  },
+  "ruck": {
+    "encodedCode": "\\ed62",
+    "prefix": "pfi",
+    "className": "pfi-ruck",
+    "unicode": "&#60770;"
+  },
+  "safe": {
+    "encodedCode": "\\ed63",
+    "prefix": "pfi",
+    "className": "pfi-safe",
+    "unicode": "&#60771;"
+  },
+  "satellite-dish": {
+    "encodedCode": "\\ed64",
+    "prefix": "pfi",
+    "className": "pfi-satellite-dish",
+    "unicode": "&#60772;"
+  },
+  "satellite": {
+    "encodedCode": "\\ed65",
+    "prefix": "pfi",
+    "className": "pfi-satellite",
+    "unicode": "&#60773;"
+  },
+  "sauce": {
+    "encodedCode": "\\ed66",
+    "prefix": "pfi",
+    "className": "pfi-sauce",
+    "unicode": "&#60774;"
+  },
+  "scale": {
+    "encodedCode": "\\ed67",
+    "prefix": "pfi",
+    "className": "pfi-scale",
+    "unicode": "&#60775;"
+  },
+  "scissors": {
+    "encodedCode": "\\ed68",
+    "prefix": "pfi",
+    "className": "pfi-scissors",
+    "unicode": "&#60776;"
+  },
+  "scroll-filled-alt": {
+    "encodedCode": "\\ed69",
+    "prefix": "pfi",
+    "className": "pfi-scroll-filled-alt",
+    "unicode": "&#60777;"
+  },
+  "scroll-filled": {
+    "encodedCode": "\\ed6a",
+    "prefix": "pfi",
+    "className": "pfi-scroll-filled",
+    "unicode": "&#60778;"
+  },
+  "scroll-horizontal": {
+    "encodedCode": "\\ed6b",
+    "prefix": "pfi",
+    "className": "pfi-scroll-horizontal",
+    "unicode": "&#60779;"
+  },
+  "scroll-vertical": {
+    "encodedCode": "\\ed6c",
+    "prefix": "pfi",
+    "className": "pfi-scroll-vertical",
+    "unicode": "&#60780;"
+  },
+  "scroll": {
+    "encodedCode": "\\ed6d",
+    "prefix": "pfi",
+    "className": "pfi-scroll",
+    "unicode": "&#60781;"
+  },
+  "server": {
+    "encodedCode": "\\ed6e",
+    "prefix": "pfi",
+    "className": "pfi-server",
+    "unicode": "&#60782;"
+  },
+  "seven-segment-0": {
+    "encodedCode": "\\ed6f",
+    "prefix": "pfi",
+    "className": "pfi-seven-segment-0",
+    "unicode": "&#60783;"
+  },
+  "seven-segment-1": {
+    "encodedCode": "\\ed70",
+    "prefix": "pfi",
+    "className": "pfi-seven-segment-1",
+    "unicode": "&#60784;"
+  },
+  "seven-segment-2": {
+    "encodedCode": "\\ed71",
+    "prefix": "pfi",
+    "className": "pfi-seven-segment-2",
+    "unicode": "&#60785;"
+  },
+  "seven-segment-3": {
+    "encodedCode": "\\ed72",
+    "prefix": "pfi",
+    "className": "pfi-seven-segment-3",
+    "unicode": "&#60786;"
+  },
+  "seven-segment-4": {
+    "encodedCode": "\\ed73",
+    "prefix": "pfi",
+    "className": "pfi-seven-segment-4",
+    "unicode": "&#60787;"
+  },
+  "seven-segment-5": {
+    "encodedCode": "\\ed74",
+    "prefix": "pfi",
+    "className": "pfi-seven-segment-5",
+    "unicode": "&#60788;"
+  },
+  "seven-segment-6": {
+    "encodedCode": "\\ed75",
+    "prefix": "pfi",
+    "className": "pfi-seven-segment-6",
+    "unicode": "&#60789;"
+  },
+  "seven-segment-7": {
+    "encodedCode": "\\ed76",
+    "prefix": "pfi",
+    "className": "pfi-seven-segment-7",
+    "unicode": "&#60790;"
+  },
+  "seven-segment-8": {
+    "encodedCode": "\\ed77",
+    "prefix": "pfi",
+    "className": "pfi-seven-segment-8",
+    "unicode": "&#60791;"
+  },
+  "seven-segment-9": {
+    "encodedCode": "\\ed78",
+    "prefix": "pfi",
+    "className": "pfi-seven-segment-9",
+    "unicode": "&#60792;"
+  },
+  "seven-segment": {
+    "encodedCode": "\\ed79",
+    "prefix": "pfi",
+    "className": "pfi-seven-segment",
+    "unicode": "&#60793;"
+  },
+  "shape-circle-empty": {
+    "encodedCode": "\\ed7a",
+    "prefix": "pfi",
+    "className": "pfi-shape-circle-empty",
+    "unicode": "&#60794;"
+  },
+  "shape-circle-filled": {
+    "encodedCode": "\\ed7b",
+    "prefix": "pfi",
+    "className": "pfi-shape-circle-filled",
+    "unicode": "&#60795;"
+  },
+  "shape-diamond-empty": {
+    "encodedCode": "\\ed7c",
+    "prefix": "pfi",
+    "className": "pfi-shape-diamond-empty",
+    "unicode": "&#60796;"
+  },
+  "shape-diamond-filled": {
+    "encodedCode": "\\ed7d",
+    "prefix": "pfi",
+    "className": "pfi-shape-diamond-filled",
+    "unicode": "&#60797;"
+  },
+  "shape-oval-empty": {
+    "encodedCode": "\\ed7e",
+    "prefix": "pfi",
+    "className": "pfi-shape-oval-empty",
+    "unicode": "&#60798;"
+  },
+  "shape-oval-filled": {
+    "encodedCode": "\\ed7f",
+    "prefix": "pfi",
+    "className": "pfi-shape-oval-filled",
+    "unicode": "&#60799;"
+  },
+  "shape-parallelogram-solid": {
+    "encodedCode": "\\ed80",
+    "prefix": "pfi",
+    "className": "pfi-shape-parallelogram-solid",
+    "unicode": "&#60800;"
+  },
+  "shape-rectangle-empty": {
+    "encodedCode": "\\ed81",
+    "prefix": "pfi",
+    "className": "pfi-shape-rectangle-empty",
+    "unicode": "&#60801;"
+  },
+  "shape-rectangle-filled": {
+    "encodedCode": "\\ed82",
+    "prefix": "pfi",
+    "className": "pfi-shape-rectangle-filled",
+    "unicode": "&#60802;"
+  },
+  "shape-square-outline": {
+    "encodedCode": "\\ed83",
+    "prefix": "pfi",
+    "className": "pfi-shape-square-outline",
+    "unicode": "&#60803;"
+  },
+  "shape-square": {
+    "encodedCode": "\\ed84",
+    "prefix": "pfi",
+    "className": "pfi-shape-square",
+    "unicode": "&#60804;"
+  },
+  "shape-triangle-down-empty": {
+    "encodedCode": "\\ed85",
+    "prefix": "pfi",
+    "className": "pfi-shape-triangle-down-empty",
+    "unicode": "&#60805;"
+  },
+  "shape-triangle-down-solid": {
+    "encodedCode": "\\ed86",
+    "prefix": "pfi",
+    "className": "pfi-shape-triangle-down-solid",
+    "unicode": "&#60806;"
+  },
+  "shape-triangle-left-empty": {
+    "encodedCode": "\\ed87",
+    "prefix": "pfi",
+    "className": "pfi-shape-triangle-left-empty",
+    "unicode": "&#60807;"
+  },
+  "shape-triangle-left-solid": {
+    "encodedCode": "\\ed88",
+    "prefix": "pfi",
+    "className": "pfi-shape-triangle-left-solid",
+    "unicode": "&#60808;"
+  },
+  "shape-triangle-right-empty": {
+    "encodedCode": "\\ed89",
+    "prefix": "pfi",
+    "className": "pfi-shape-triangle-right-empty",
+    "unicode": "&#60809;"
+  },
+  "shape-triangle-right-solid": {
+    "encodedCode": "\\ed8a",
+    "prefix": "pfi",
+    "className": "pfi-shape-triangle-right-solid",
+    "unicode": "&#60810;"
+  },
+  "shape-triangle-up-empty": {
+    "encodedCode": "\\ed8b",
+    "prefix": "pfi",
+    "className": "pfi-shape-triangle-up-empty",
+    "unicode": "&#60811;"
+  },
+  "shape-triangle-up-solid": {
+    "encodedCode": "\\ed8c",
+    "prefix": "pfi",
+    "className": "pfi-shape-triangle-up-solid",
+    "unicode": "&#60812;"
+  },
+  "shapes-alt-1": {
+    "encodedCode": "\\ed8d",
+    "prefix": "pfi",
+    "className": "pfi-shapes-alt-1",
+    "unicode": "&#60813;"
+  },
+  "shapes-alt-2": {
+    "encodedCode": "\\ed8e",
+    "prefix": "pfi",
+    "className": "pfi-shapes-alt-2",
+    "unicode": "&#60814;"
+  },
+  "shapes": {
+    "encodedCode": "\\ed8f",
+    "prefix": "pfi",
+    "className": "pfi-shapes",
+    "unicode": "&#60815;"
+  },
+  "share": {
+    "encodedCode": "\\ed90",
+    "prefix": "pfi",
+    "className": "pfi-share",
+    "unicode": "&#60816;"
+  },
+  "shield": {
+    "encodedCode": "\\ed91",
+    "prefix": "pfi",
+    "className": "pfi-shield",
+    "unicode": "&#60817;"
+  },
+  "shopping-cart": {
+    "encodedCode": "\\ed92",
+    "prefix": "pfi",
+    "className": "pfi-shopping-cart",
+    "unicode": "&#60818;"
+  },
+  "sights": {
+    "encodedCode": "\\ed93",
+    "prefix": "pfi",
+    "className": "pfi-sights",
+    "unicode": "&#60819;"
+  },
+  "signal": {
+    "encodedCode": "\\ed94",
+    "prefix": "pfi",
+    "className": "pfi-signal",
+    "unicode": "&#60820;"
+  },
+  "signature": {
+    "encodedCode": "\\ed95",
+    "prefix": "pfi",
+    "className": "pfi-signature",
+    "unicode": "&#60821;"
+  },
+  "silo": {
+    "encodedCode": "\\ed96",
+    "prefix": "pfi",
+    "className": "pfi-silo",
+    "unicode": "&#60822;"
+  },
+  "skull-crossbones-alt": {
+    "encodedCode": "\\ed97",
+    "prefix": "pfi",
+    "className": "pfi-skull-crossbones-alt",
+    "unicode": "&#60823;"
+  },
+  "skull-crossbones": {
+    "encodedCode": "\\ed98",
+    "prefix": "pfi",
+    "className": "pfi-skull-crossbones",
+    "unicode": "&#60824;"
+  },
+  "social-facebook": {
+    "encodedCode": "\\ed99",
+    "prefix": "pfi",
+    "className": "pfi-social-facebook",
+    "unicode": "&#60825;"
+  },
+  "social-hacker-news": {
+    "encodedCode": "\\ed9a",
+    "prefix": "pfi",
+    "className": "pfi-social-hacker-news",
+    "unicode": "&#60826;"
+  },
+  "social-instagram": {
+    "encodedCode": "\\ed9b",
+    "prefix": "pfi",
+    "className": "pfi-social-instagram",
+    "unicode": "&#60827;"
+  },
+  "social-linkedin": {
+    "encodedCode": "\\ed9c",
+    "prefix": "pfi",
+    "className": "pfi-social-linkedin",
+    "unicode": "&#60828;"
+  },
+  "social-mastodon": {
+    "encodedCode": "\\ed9d",
+    "prefix": "pfi",
+    "className": "pfi-social-mastodon",
+    "unicode": "&#60829;"
+  },
+  "social-reddit": {
+    "encodedCode": "\\ed9e",
+    "prefix": "pfi",
+    "className": "pfi-social-reddit",
+    "unicode": "&#60830;"
+  },
+  "social-serverfault": {
+    "encodedCode": "\\ed9f",
+    "prefix": "pfi",
+    "className": "pfi-social-serverfault",
+    "unicode": "&#60831;"
+  },
+  "social-snapchat": {
+    "encodedCode": "\\eda0",
+    "prefix": "pfi",
+    "className": "pfi-social-snapchat",
+    "unicode": "&#60832;"
+  },
+  "social-stackoverflow": {
+    "encodedCode": "\\eda1",
+    "prefix": "pfi",
+    "className": "pfi-social-stackoverflow",
+    "unicode": "&#60833;"
+  },
+  "social-tiktok": {
+    "encodedCode": "\\eda2",
+    "prefix": "pfi",
+    "className": "pfi-social-tiktok",
+    "unicode": "&#60834;"
+  },
+  "social-tumbler": {
+    "encodedCode": "\\eda3",
+    "prefix": "pfi",
+    "className": "pfi-social-tumbler",
+    "unicode": "&#60835;"
+  },
+  "social-twitter": {
+    "encodedCode": "\\eda4",
+    "prefix": "pfi",
+    "className": "pfi-social-twitter",
+    "unicode": "&#60836;"
+  },
+  "social-vimeo": {
+    "encodedCode": "\\eda5",
+    "prefix": "pfi",
+    "className": "pfi-social-vimeo",
+    "unicode": "&#60837;"
+  },
+  "social-vine": {
+    "encodedCode": "\\eda6",
+    "prefix": "pfi",
+    "className": "pfi-social-vine",
+    "unicode": "&#60838;"
+  },
+  "social-youtube": {
+    "encodedCode": "\\eda7",
+    "prefix": "pfi",
+    "className": "pfi-social-youtube",
+    "unicode": "&#60839;"
+  },
+  "software-blender": {
+    "encodedCode": "\\eda8",
+    "prefix": "pfi",
+    "className": "pfi-software-blender",
+    "unicode": "&#60840;"
+  },
+  "software-browser-brave": {
+    "encodedCode": "\\eda9",
+    "prefix": "pfi",
+    "className": "pfi-software-browser-brave",
+    "unicode": "&#60841;"
+  },
+  "software-browser-chrome": {
+    "encodedCode": "\\edaa",
+    "prefix": "pfi",
+    "className": "pfi-software-browser-chrome",
+    "unicode": "&#60842;"
+  },
+  "software-browser-edge": {
+    "encodedCode": "\\edab",
+    "prefix": "pfi",
+    "className": "pfi-software-browser-edge",
+    "unicode": "&#60843;"
+  },
+  "software-browser-firefox": {
+    "encodedCode": "\\edac",
+    "prefix": "pfi",
+    "className": "pfi-software-browser-firefox",
+    "unicode": "&#60844;"
+  },
+  "software-browser-safari": {
+    "encodedCode": "\\edad",
+    "prefix": "pfi",
+    "className": "pfi-software-browser-safari",
+    "unicode": "&#60845;"
+  },
+  "software-evernote": {
+    "encodedCode": "\\edae",
+    "prefix": "pfi",
+    "className": "pfi-software-evernote",
+    "unicode": "&#60846;"
+  },
+  "software-gimp": {
+    "encodedCode": "\\edaf",
+    "prefix": "pfi",
+    "className": "pfi-software-gimp",
+    "unicode": "&#60847;"
+  },
+  "software-git": {
+    "encodedCode": "\\edb0",
+    "prefix": "pfi",
+    "className": "pfi-software-git",
+    "unicode": "&#60848;"
+  },
+  "software-gitea": {
+    "encodedCode": "\\edb1",
+    "prefix": "pfi",
+    "className": "pfi-software-gitea",
+    "unicode": "&#60849;"
+  },
+  "software-gnome": {
+    "encodedCode": "\\edb2",
+    "prefix": "pfi",
+    "className": "pfi-software-gnome",
+    "unicode": "&#60850;"
+  },
+  "software-google-drive": {
+    "encodedCode": "\\edb3",
+    "prefix": "pfi",
+    "className": "pfi-software-google-drive",
+    "unicode": "&#60851;"
+  },
+  "software-inkscape": {
+    "encodedCode": "\\edb4",
+    "prefix": "pfi",
+    "className": "pfi-software-inkscape",
+    "unicode": "&#60852;"
+  },
+  "software-leaflet": {
+    "encodedCode": "\\edb5",
+    "prefix": "pfi",
+    "className": "pfi-software-leaflet",
+    "unicode": "&#60853;"
+  },
+  "software-mongodb": {
+    "encodedCode": "\\edb6",
+    "prefix": "pfi",
+    "className": "pfi-software-mongodb",
+    "unicode": "&#60854;"
+  },
+  "software-ms-365": {
+    "encodedCode": "\\edb7",
+    "prefix": "pfi",
+    "className": "pfi-software-ms-365",
+    "unicode": "&#60855;"
+  },
+  "software-ms-excel": {
+    "encodedCode": "\\edb8",
+    "prefix": "pfi",
+    "className": "pfi-software-ms-excel",
+    "unicode": "&#60856;"
+  },
+  "software-ms-one-drive": {
+    "encodedCode": "\\edb9",
+    "prefix": "pfi",
+    "className": "pfi-software-ms-one-drive",
+    "unicode": "&#60857;"
+  },
+  "software-ms-outlook": {
+    "encodedCode": "\\edba",
+    "prefix": "pfi",
+    "className": "pfi-software-ms-outlook",
+    "unicode": "&#60858;"
+  },
+  "software-ms-powerpoint": {
+    "encodedCode": "\\edbb",
+    "prefix": "pfi",
+    "className": "pfi-software-ms-powerpoint",
+    "unicode": "&#60859;"
+  },
+  "software-ms-sharepoint": {
+    "encodedCode": "\\edbc",
+    "prefix": "pfi",
+    "className": "pfi-software-ms-sharepoint",
+    "unicode": "&#60860;"
+  },
+  "software-ms-teams": {
+    "encodedCode": "\\edbd",
+    "prefix": "pfi",
+    "className": "pfi-software-ms-teams",
+    "unicode": "&#60861;"
+  },
+  "software-ms-word": {
+    "encodedCode": "\\edbe",
+    "prefix": "pfi",
+    "className": "pfi-software-ms-word",
+    "unicode": "&#60862;"
+  },
+  "software-nginx": {
+    "encodedCode": "\\edbf",
+    "prefix": "pfi",
+    "className": "pfi-software-nginx",
+    "unicode": "&#60863;"
+  },
+  "software-notepad-plus-plus": {
+    "encodedCode": "\\edc0",
+    "prefix": "pfi",
+    "className": "pfi-software-notepad-plus-plus",
+    "unicode": "&#60864;"
+  },
+  "software-notion": {
+    "encodedCode": "\\edc1",
+    "prefix": "pfi",
+    "className": "pfi-software-notion",
+    "unicode": "&#60865;"
+  },
+  "software-signal-msg": {
+    "encodedCode": "\\edc2",
+    "prefix": "pfi",
+    "className": "pfi-software-signal-msg",
+    "unicode": "&#60866;"
+  },
+  "software-slack": {
+    "encodedCode": "\\edc3",
+    "prefix": "pfi",
+    "className": "pfi-software-slack",
+    "unicode": "&#60867;"
+  },
+  "software-svn-tortoise": {
+    "encodedCode": "\\edc4",
+    "prefix": "pfi",
+    "className": "pfi-software-svn-tortoise",
+    "unicode": "&#60868;"
+  },
+  "software-trello": {
+    "encodedCode": "\\edc5",
+    "prefix": "pfi",
+    "className": "pfi-software-trello",
+    "unicode": "&#60869;"
+  },
+  "software-visual-studio-code": {
+    "encodedCode": "\\edc6",
+    "prefix": "pfi",
+    "className": "pfi-software-visual-studio-code",
+    "unicode": "&#60870;"
+  },
+  "software-vlc": {
+    "encodedCode": "\\edc7",
+    "prefix": "pfi",
+    "className": "pfi-software-vlc",
+    "unicode": "&#60871;"
+  },
+  "software-webpack": {
+    "encodedCode": "\\edc8",
+    "prefix": "pfi",
+    "className": "pfi-software-webpack",
+    "unicode": "&#60872;"
+  },
+  "solar-panel": {
+    "encodedCode": "\\edc9",
+    "prefix": "pfi",
+    "className": "pfi-solar-panel",
+    "unicode": "&#60873;"
+  },
+  "sop": {
+    "encodedCode": "\\edca",
+    "prefix": "pfi",
+    "className": "pfi-sop",
+    "unicode": "&#60874;"
+  },
+  "speaker-off": {
+    "encodedCode": "\\edcb",
+    "prefix": "pfi",
+    "className": "pfi-speaker-off",
+    "unicode": "&#60875;"
+  },
+  "speaker-on": {
+    "encodedCode": "\\edcc",
+    "prefix": "pfi",
+    "className": "pfi-speaker-on",
+    "unicode": "&#60876;"
+  },
+  "spinner-0": {
+    "encodedCode": "\\edcd",
+    "prefix": "pfi",
+    "className": "pfi-spinner-0",
+    "unicode": "&#60877;"
+  },
+  "spinner-1": {
+    "encodedCode": "\\edce",
+    "prefix": "pfi",
+    "className": "pfi-spinner-1",
+    "unicode": "&#60878;"
+  },
+  "spinner-2": {
+    "encodedCode": "\\edcf",
+    "prefix": "pfi",
+    "className": "pfi-spinner-2",
+    "unicode": "&#60879;"
+  },
+  "spinner-3": {
+    "encodedCode": "\\edd0",
+    "prefix": "pfi",
+    "className": "pfi-spinner-3",
+    "unicode": "&#60880;"
+  },
+  "spinner-4": {
+    "encodedCode": "\\edd1",
+    "prefix": "pfi",
+    "className": "pfi-spinner-4",
+    "unicode": "&#60881;"
+  },
+  "spinner-5": {
+    "encodedCode": "\\edd2",
+    "prefix": "pfi",
+    "className": "pfi-spinner-5",
+    "unicode": "&#60882;"
+  },
+  "spinner-6": {
+    "encodedCode": "\\edd3",
+    "prefix": "pfi",
+    "className": "pfi-spinner-6",
+    "unicode": "&#60883;"
+  },
+  "spinner-7": {
+    "encodedCode": "\\edd4",
+    "prefix": "pfi",
+    "className": "pfi-spinner-7",
+    "unicode": "&#60884;"
+  },
+  "sport-baseball": {
+    "encodedCode": "\\edd5",
+    "prefix": "pfi",
+    "className": "pfi-sport-baseball",
+    "unicode": "&#60885;"
+  },
+  "sport-basketball": {
+    "encodedCode": "\\edd6",
+    "prefix": "pfi",
+    "className": "pfi-sport-basketball",
+    "unicode": "&#60886;"
+  },
+  "sport-football": {
+    "encodedCode": "\\edd7",
+    "prefix": "pfi",
+    "className": "pfi-sport-football",
+    "unicode": "&#60887;"
+  },
+  "sport-golf-ball": {
+    "encodedCode": "\\edd8",
+    "prefix": "pfi",
+    "className": "pfi-sport-golf-ball",
+    "unicode": "&#60888;"
+  },
+  "sport-tennis-ball": {
+    "encodedCode": "\\edd9",
+    "prefix": "pfi",
+    "className": "pfi-sport-tennis-ball",
+    "unicode": "&#60889;"
+  },
+  "sport-volleyball": {
+    "encodedCode": "\\edda",
+    "prefix": "pfi",
+    "className": "pfi-sport-volleyball",
+    "unicode": "&#60890;"
+  },
+  "stamp": {
+    "encodedCode": "\\eddb",
+    "prefix": "pfi",
+    "className": "pfi-stamp",
+    "unicode": "&#60891;"
+  },
+  "star-empty": {
+    "encodedCode": "\\eddc",
+    "prefix": "pfi",
+    "className": "pfi-star-empty",
+    "unicode": "&#60892;"
+  },
+  "star-filled": {
+    "encodedCode": "\\eddd",
+    "prefix": "pfi",
+    "className": "pfi-star-filled",
+    "unicode": "&#60893;"
+  },
+  "star-half": {
+    "encodedCode": "\\edde",
+    "prefix": "pfi",
+    "className": "pfi-star-half",
+    "unicode": "&#60894;"
+  },
+  "state-ak": {
+    "encodedCode": "\\eddf",
+    "prefix": "pfi",
+    "className": "pfi-state-ak",
+    "unicode": "&#60895;"
+  },
+  "state-al": {
+    "encodedCode": "\\ede0",
+    "prefix": "pfi",
+    "className": "pfi-state-al",
+    "unicode": "&#60896;"
+  },
+  "state-ar": {
+    "encodedCode": "\\ede1",
+    "prefix": "pfi",
+    "className": "pfi-state-ar",
+    "unicode": "&#60897;"
+  },
+  "state-az": {
+    "encodedCode": "\\ede2",
+    "prefix": "pfi",
+    "className": "pfi-state-az",
+    "unicode": "&#60898;"
+  },
+  "state-ca": {
+    "encodedCode": "\\ede3",
+    "prefix": "pfi",
+    "className": "pfi-state-ca",
+    "unicode": "&#60899;"
+  },
+  "state-co": {
+    "encodedCode": "\\ede4",
+    "prefix": "pfi",
+    "className": "pfi-state-co",
+    "unicode": "&#60900;"
+  },
+  "state-ct": {
+    "encodedCode": "\\ede5",
+    "prefix": "pfi",
+    "className": "pfi-state-ct",
+    "unicode": "&#60901;"
+  },
+  "state-dc": {
+    "encodedCode": "\\ede6",
+    "prefix": "pfi",
+    "className": "pfi-state-dc",
+    "unicode": "&#60902;"
+  },
+  "state-de": {
+    "encodedCode": "\\ede7",
+    "prefix": "pfi",
+    "className": "pfi-state-de",
+    "unicode": "&#60903;"
+  },
+  "state-fl": {
+    "encodedCode": "\\ede8",
+    "prefix": "pfi",
+    "className": "pfi-state-fl",
+    "unicode": "&#60904;"
+  },
+  "state-ga": {
+    "encodedCode": "\\ede9",
+    "prefix": "pfi",
+    "className": "pfi-state-ga",
+    "unicode": "&#60905;"
+  },
+  "state-hi": {
+    "encodedCode": "\\edea",
+    "prefix": "pfi",
+    "className": "pfi-state-hi",
+    "unicode": "&#60906;"
+  },
+  "state-ia": {
+    "encodedCode": "\\edeb",
+    "prefix": "pfi",
+    "className": "pfi-state-ia",
+    "unicode": "&#60907;"
+  },
+  "state-id": {
+    "encodedCode": "\\edec",
+    "prefix": "pfi",
+    "className": "pfi-state-id",
+    "unicode": "&#60908;"
+  },
+  "state-il": {
+    "encodedCode": "\\eded",
+    "prefix": "pfi",
+    "className": "pfi-state-il",
+    "unicode": "&#60909;"
+  },
+  "state-in": {
+    "encodedCode": "\\edee",
+    "prefix": "pfi",
+    "className": "pfi-state-in",
+    "unicode": "&#60910;"
+  },
+  "state-ks": {
+    "encodedCode": "\\edef",
+    "prefix": "pfi",
+    "className": "pfi-state-ks",
+    "unicode": "&#60911;"
+  },
+  "state-ky": {
+    "encodedCode": "\\edf0",
+    "prefix": "pfi",
+    "className": "pfi-state-ky",
+    "unicode": "&#60912;"
+  },
+  "state-la": {
+    "encodedCode": "\\edf1",
+    "prefix": "pfi",
+    "className": "pfi-state-la",
+    "unicode": "&#60913;"
+  },
+  "state-ma": {
+    "encodedCode": "\\edf2",
+    "prefix": "pfi",
+    "className": "pfi-state-ma",
+    "unicode": "&#60914;"
+  },
+  "state-md": {
+    "encodedCode": "\\edf3",
+    "prefix": "pfi",
+    "className": "pfi-state-md",
+    "unicode": "&#60915;"
+  },
+  "state-me": {
+    "encodedCode": "\\edf4",
+    "prefix": "pfi",
+    "className": "pfi-state-me",
+    "unicode": "&#60916;"
+  },
+  "state-mi": {
+    "encodedCode": "\\edf5",
+    "prefix": "pfi",
+    "className": "pfi-state-mi",
+    "unicode": "&#60917;"
+  },
+  "state-mn": {
+    "encodedCode": "\\edf6",
+    "prefix": "pfi",
+    "className": "pfi-state-mn",
+    "unicode": "&#60918;"
+  },
+  "state-mo": {
+    "encodedCode": "\\edf7",
+    "prefix": "pfi",
+    "className": "pfi-state-mo",
+    "unicode": "&#60919;"
+  },
+  "state-ms": {
+    "encodedCode": "\\edf8",
+    "prefix": "pfi",
+    "className": "pfi-state-ms",
+    "unicode": "&#60920;"
+  },
+  "state-mt": {
+    "encodedCode": "\\edf9",
+    "prefix": "pfi",
+    "className": "pfi-state-mt",
+    "unicode": "&#60921;"
+  },
+  "state-nc": {
+    "encodedCode": "\\edfa",
+    "prefix": "pfi",
+    "className": "pfi-state-nc",
+    "unicode": "&#60922;"
+  },
+  "state-nd": {
+    "encodedCode": "\\edfb",
+    "prefix": "pfi",
+    "className": "pfi-state-nd",
+    "unicode": "&#60923;"
+  },
+  "state-ne": {
+    "encodedCode": "\\edfc",
+    "prefix": "pfi",
+    "className": "pfi-state-ne",
+    "unicode": "&#60924;"
+  },
+  "state-nh": {
+    "encodedCode": "\\edfd",
+    "prefix": "pfi",
+    "className": "pfi-state-nh",
+    "unicode": "&#60925;"
+  },
+  "state-nj": {
+    "encodedCode": "\\edfe",
+    "prefix": "pfi",
+    "className": "pfi-state-nj",
+    "unicode": "&#60926;"
+  },
+  "state-nm": {
+    "encodedCode": "\\edff",
+    "prefix": "pfi",
+    "className": "pfi-state-nm",
+    "unicode": "&#60927;"
+  },
+  "state-nv": {
+    "encodedCode": "\\ee00",
+    "prefix": "pfi",
+    "className": "pfi-state-nv",
+    "unicode": "&#60928;"
+  },
+  "state-ny": {
+    "encodedCode": "\\ee01",
+    "prefix": "pfi",
+    "className": "pfi-state-ny",
+    "unicode": "&#60929;"
+  },
+  "state-oh": {
+    "encodedCode": "\\ee02",
+    "prefix": "pfi",
+    "className": "pfi-state-oh",
+    "unicode": "&#60930;"
+  },
+  "state-ok": {
+    "encodedCode": "\\ee03",
+    "prefix": "pfi",
+    "className": "pfi-state-ok",
+    "unicode": "&#60931;"
+  },
+  "state-or": {
+    "encodedCode": "\\ee04",
+    "prefix": "pfi",
+    "className": "pfi-state-or",
+    "unicode": "&#60932;"
+  },
+  "state-pa": {
+    "encodedCode": "\\ee05",
+    "prefix": "pfi",
+    "className": "pfi-state-pa",
+    "unicode": "&#60933;"
+  },
+  "state-pr": {
+    "encodedCode": "\\ee06",
+    "prefix": "pfi",
+    "className": "pfi-state-pr",
+    "unicode": "&#60934;"
+  },
+  "state-ri": {
+    "encodedCode": "\\ee07",
+    "prefix": "pfi",
+    "className": "pfi-state-ri",
+    "unicode": "&#60935;"
+  },
+  "state-sc": {
+    "encodedCode": "\\ee08",
+    "prefix": "pfi",
+    "className": "pfi-state-sc",
+    "unicode": "&#60936;"
+  },
+  "state-sd": {
+    "encodedCode": "\\ee09",
+    "prefix": "pfi",
+    "className": "pfi-state-sd",
+    "unicode": "&#60937;"
+  },
+  "state-tn": {
+    "encodedCode": "\\ee0a",
+    "prefix": "pfi",
+    "className": "pfi-state-tn",
+    "unicode": "&#60938;"
+  },
+  "state-tx": {
+    "encodedCode": "\\ee0b",
+    "prefix": "pfi",
+    "className": "pfi-state-tx",
+    "unicode": "&#60939;"
+  },
+  "state-ut": {
+    "encodedCode": "\\ee0c",
+    "prefix": "pfi",
+    "className": "pfi-state-ut",
+    "unicode": "&#60940;"
+  },
+  "state-va": {
+    "encodedCode": "\\ee0d",
+    "prefix": "pfi",
+    "className": "pfi-state-va",
+    "unicode": "&#60941;"
+  },
+  "state-vt": {
+    "encodedCode": "\\ee0e",
+    "prefix": "pfi",
+    "className": "pfi-state-vt",
+    "unicode": "&#60942;"
+  },
+  "state-wa": {
+    "encodedCode": "\\ee0f",
+    "prefix": "pfi",
+    "className": "pfi-state-wa",
+    "unicode": "&#60943;"
+  },
+  "state-wi": {
+    "encodedCode": "\\ee10",
+    "prefix": "pfi",
+    "className": "pfi-state-wi",
+    "unicode": "&#60944;"
+  },
+  "state-wv": {
+    "encodedCode": "\\ee11",
+    "prefix": "pfi",
+    "className": "pfi-state-wv",
+    "unicode": "&#60945;"
+  },
+  "state-wy": {
+    "encodedCode": "\\ee12",
+    "prefix": "pfi",
+    "className": "pfi-state-wy",
+    "unicode": "&#60946;"
+  },
+  "sticky-note": {
+    "encodedCode": "\\ee13",
+    "prefix": "pfi",
+    "className": "pfi-sticky-note",
+    "unicode": "&#60947;"
+  },
+  "stop-light": {
+    "encodedCode": "\\ee14",
+    "prefix": "pfi",
+    "className": "pfi-stop-light",
+    "unicode": "&#60948;"
+  },
+  "stop-sign": {
+    "encodedCode": "\\ee15",
+    "prefix": "pfi",
+    "className": "pfi-stop-sign",
+    "unicode": "&#60949;"
+  },
+  "store-marketplace": {
+    "encodedCode": "\\ee16",
+    "prefix": "pfi",
+    "className": "pfi-store-marketplace",
+    "unicode": "&#60950;"
+  },
+  "strategy": {
+    "encodedCode": "\\ee17",
+    "prefix": "pfi",
+    "className": "pfi-strategy",
+    "unicode": "&#60951;"
+  },
+  "strikethrough": {
+    "encodedCode": "\\ee18",
+    "prefix": "pfi",
+    "className": "pfi-strikethrough",
+    "unicode": "&#60952;"
+  },
+  "subscript": {
+    "encodedCode": "\\ee19",
+    "prefix": "pfi",
+    "className": "pfi-subscript",
+    "unicode": "&#60953;"
+  },
+  "superscript": {
+    "encodedCode": "\\ee1a",
+    "prefix": "pfi",
+    "className": "pfi-superscript",
+    "unicode": "&#60954;"
+  },
+  "support": {
+    "encodedCode": "\\ee1b",
+    "prefix": "pfi",
+    "className": "pfi-support",
+    "unicode": "&#60955;"
+  },
+  "survey-benchmark-perm": {
+    "encodedCode": "\\ee1c",
+    "prefix": "pfi",
+    "className": "pfi-survey-benchmark-perm",
+    "unicode": "&#60956;"
+  },
+  "survey-benchmark": {
+    "encodedCode": "\\ee1d",
+    "prefix": "pfi",
+    "className": "pfi-survey-benchmark",
+    "unicode": "&#60957;"
+  },
+  "survey-borehole": {
+    "encodedCode": "\\ee1e",
+    "prefix": "pfi",
+    "className": "pfi-survey-borehole",
+    "unicode": "&#60958;"
+  },
+  "survey-electrical-box": {
+    "encodedCode": "\\ee1f",
+    "prefix": "pfi",
+    "className": "pfi-survey-electrical-box",
+    "unicode": "&#60959;"
+  },
+  "survey-electrical-cable-marker": {
+    "encodedCode": "\\ee20",
+    "prefix": "pfi",
+    "className": "pfi-survey-electrical-cable-marker",
+    "unicode": "&#60960;"
+  },
+  "survey-electrical-pit": {
+    "encodedCode": "\\ee21",
+    "prefix": "pfi",
+    "className": "pfi-survey-electrical-pit",
+    "unicode": "&#60961;"
+  },
+  "survey-electrical-pole": {
+    "encodedCode": "\\ee22",
+    "prefix": "pfi",
+    "className": "pfi-survey-electrical-pole",
+    "unicode": "&#60962;"
+  },
+  "survey-electrical-stay-pole": {
+    "encodedCode": "\\ee23",
+    "prefix": "pfi",
+    "className": "pfi-survey-electrical-stay-pole",
+    "unicode": "&#60963;"
+  },
+  "survey-fire-hydrant-manhole": {
+    "encodedCode": "\\ee24",
+    "prefix": "pfi",
+    "className": "pfi-survey-fire-hydrant-manhole",
+    "unicode": "&#60964;"
+  },
+  "survey-fire-hydrant-pillar": {
+    "encodedCode": "\\ee25",
+    "prefix": "pfi",
+    "className": "pfi-survey-fire-hydrant-pillar",
+    "unicode": "&#60965;"
+  },
+  "survey-flag-pole": {
+    "encodedCode": "\\ee26",
+    "prefix": "pfi",
+    "className": "pfi-survey-flag-pole",
+    "unicode": "&#60966;"
+  },
+  "survey-gas-manhole": {
+    "encodedCode": "\\ee27",
+    "prefix": "pfi",
+    "className": "pfi-survey-gas-manhole",
+    "unicode": "&#60967;"
+  },
+  "survey-gas-marker": {
+    "encodedCode": "\\ee28",
+    "prefix": "pfi",
+    "className": "pfi-survey-gas-marker",
+    "unicode": "&#60968;"
+  },
+  "survey-gas-valve": {
+    "encodedCode": "\\ee29",
+    "prefix": "pfi",
+    "className": "pfi-survey-gas-valve",
+    "unicode": "&#60969;"
+  },
+  "survey-guide-post": {
+    "encodedCode": "\\ee2a",
+    "prefix": "pfi",
+    "className": "pfi-survey-guide-post",
+    "unicode": "&#60970;"
+  },
+  "survey-guide-sign": {
+    "encodedCode": "\\ee2b",
+    "prefix": "pfi",
+    "className": "pfi-survey-guide-sign",
+    "unicode": "&#60971;"
+  },
+  "survey-gully-trap": {
+    "encodedCode": "\\ee2c",
+    "prefix": "pfi",
+    "className": "pfi-survey-gully-trap",
+    "unicode": "&#60972;"
+  },
+  "survey-hose-box-reel": {
+    "encodedCode": "\\ee2d",
+    "prefix": "pfi",
+    "className": "pfi-survey-hose-box-reel",
+    "unicode": "&#60973;"
+  },
+  "survey-hydrant-marker": {
+    "encodedCode": "\\ee2e",
+    "prefix": "pfi",
+    "className": "pfi-survey-hydrant-marker",
+    "unicode": "&#60974;"
+  },
+  "survey-inspection-opening": {
+    "encodedCode": "\\ee2f",
+    "prefix": "pfi",
+    "className": "pfi-survey-inspection-opening",
+    "unicode": "&#60975;"
+  },
+  "survey-parking-meter": {
+    "encodedCode": "\\ee30",
+    "prefix": "pfi",
+    "className": "pfi-survey-parking-meter",
+    "unicode": "&#60976;"
+  },
+  "survey-post": {
+    "encodedCode": "\\ee31",
+    "prefix": "pfi",
+    "className": "pfi-survey-post",
+    "unicode": "&#60977;"
+  },
+  "survey-sewer-manhole": {
+    "encodedCode": "\\ee32",
+    "prefix": "pfi",
+    "className": "pfi-survey-sewer-manhole",
+    "unicode": "&#60978;"
+  },
+  "survey-sewer-vent": {
+    "encodedCode": "\\ee33",
+    "prefix": "pfi",
+    "className": "pfi-survey-sewer-vent",
+    "unicode": "&#60979;"
+  },
+  "survey-shrub": {
+    "encodedCode": "\\ee34",
+    "prefix": "pfi",
+    "className": "pfi-survey-shrub",
+    "unicode": "&#60980;"
+  },
+  "survey-signs": {
+    "encodedCode": "\\ee35",
+    "prefix": "pfi",
+    "className": "pfi-survey-signs",
+    "unicode": "&#60981;"
+  },
+  "survey-sprinkler": {
+    "encodedCode": "\\ee36",
+    "prefix": "pfi",
+    "className": "pfi-survey-sprinkler",
+    "unicode": "&#60982;"
+  },
+  "survey-stop-sluice-valve": {
+    "encodedCode": "\\ee37",
+    "prefix": "pfi",
+    "className": "pfi-survey-stop-sluice-valve",
+    "unicode": "&#60983;"
+  },
+  "survey-storm-manhole": {
+    "encodedCode": "\\ee38",
+    "prefix": "pfi",
+    "className": "pfi-survey-storm-manhole",
+    "unicode": "&#60984;"
+  },
+  "survey-street-name-sign": {
+    "encodedCode": "\\ee39",
+    "prefix": "pfi",
+    "className": "pfi-survey-street-name-sign",
+    "unicode": "&#60985;"
+  },
+  "survey-survey-station": {
+    "encodedCode": "\\ee3a",
+    "prefix": "pfi",
+    "className": "pfi-survey-survey-station",
+    "unicode": "&#60986;"
+  },
+  "survey-tap": {
+    "encodedCode": "\\ee3b",
+    "prefix": "pfi",
+    "className": "pfi-survey-tap",
+    "unicode": "&#60987;"
+  },
+  "survey-telcom-manhole": {
+    "encodedCode": "\\ee3c",
+    "prefix": "pfi",
+    "className": "pfi-survey-telcom-manhole",
+    "unicode": "&#60988;"
+  },
+  "survey-telcom-pillar": {
+    "encodedCode": "\\ee3d",
+    "prefix": "pfi",
+    "className": "pfi-survey-telcom-pillar",
+    "unicode": "&#60989;"
+  },
+  "survey-telcom-pit": {
+    "encodedCode": "\\ee3e",
+    "prefix": "pfi",
+    "className": "pfi-survey-telcom-pit",
+    "unicode": "&#60990;"
+  },
+  "survey-telephone-pole": {
+    "encodedCode": "\\ee3f",
+    "prefix": "pfi",
+    "className": "pfi-survey-telephone-pole",
+    "unicode": "&#60991;"
+  },
+  "survey-traffic-lights": {
+    "encodedCode": "\\ee40",
+    "prefix": "pfi",
+    "className": "pfi-survey-traffic-lights",
+    "unicode": "&#60992;"
+  },
+  "survey-traffic-pit": {
+    "encodedCode": "\\ee41",
+    "prefix": "pfi",
+    "className": "pfi-survey-traffic-pit",
+    "unicode": "&#60993;"
+  },
+  "survey-transformer-overhead": {
+    "encodedCode": "\\ee42",
+    "prefix": "pfi",
+    "className": "pfi-survey-transformer-overhead",
+    "unicode": "&#60994;"
+  },
+  "survey-tree": {
+    "encodedCode": "\\ee43",
+    "prefix": "pfi",
+    "className": "pfi-survey-tree",
+    "unicode": "&#60995;"
+  },
+  "survey-unknown-manhole": {
+    "encodedCode": "\\ee44",
+    "prefix": "pfi",
+    "className": "pfi-survey-unknown-manhole",
+    "unicode": "&#60996;"
+  },
+  "survey-water-air-valve": {
+    "encodedCode": "\\ee45",
+    "prefix": "pfi",
+    "className": "pfi-survey-water-air-valve",
+    "unicode": "&#60997;"
+  },
+  "survey-water-end-cap": {
+    "encodedCode": "\\ee46",
+    "prefix": "pfi",
+    "className": "pfi-survey-water-end-cap",
+    "unicode": "&#60998;"
+  },
+  "survey-water-manhole": {
+    "encodedCode": "\\ee47",
+    "prefix": "pfi",
+    "className": "pfi-survey-water-manhole",
+    "unicode": "&#60999;"
+  },
+  "survey-water-meter": {
+    "encodedCode": "\\ee48",
+    "prefix": "pfi",
+    "className": "pfi-survey-water-meter",
+    "unicode": "&#61000;"
+  },
+  "survey-water-reducer": {
+    "encodedCode": "\\ee49",
+    "prefix": "pfi",
+    "className": "pfi-survey-water-reducer",
+    "unicode": "&#61001;"
+  },
+  "survey-water-reflux-valve": {
+    "encodedCode": "\\ee4a",
+    "prefix": "pfi",
+    "className": "pfi-survey-water-reflux-valve",
+    "unicode": "&#61002;"
+  },
+  "survey-water-sample-point": {
+    "encodedCode": "\\ee4b",
+    "prefix": "pfi",
+    "className": "pfi-survey-water-sample-point",
+    "unicode": "&#61003;"
+  },
+  "survey-water-scour-valve": {
+    "encodedCode": "\\ee4c",
+    "prefix": "pfi",
+    "className": "pfi-survey-water-scour-valve",
+    "unicode": "&#61004;"
+  },
+  "survey-water-tee-junction": {
+    "encodedCode": "\\ee4d",
+    "prefix": "pfi",
+    "className": "pfi-survey-water-tee-junction",
+    "unicode": "&#61005;"
+  },
+  "survey-water-valve-marker": {
+    "encodedCode": "\\ee4e",
+    "prefix": "pfi",
+    "className": "pfi-survey-water-valve-marker",
+    "unicode": "&#61006;"
+  },
+  "survey-water-valve": {
+    "encodedCode": "\\ee4f",
+    "prefix": "pfi",
+    "className": "pfi-survey-water-valve",
+    "unicode": "&#61007;"
+  },
+  "survey": {
+    "encodedCode": "\\ee50",
+    "prefix": "pfi",
+    "className": "pfi-survey",
+    "unicode": "&#61008;"
+  },
+  "sw-rebel-alliance": {
+    "encodedCode": "\\ee51",
+    "prefix": "pfi",
+    "className": "pfi-sw-rebel-alliance",
+    "unicode": "&#61009;"
+  },
+  "sw-republic": {
+    "encodedCode": "\\ee52",
+    "prefix": "pfi",
+    "className": "pfi-sw-republic",
+    "unicode": "&#61010;"
+  },
+  "tag": {
+    "encodedCode": "\\ee53",
+    "prefix": "pfi",
+    "className": "pfi-tag",
+    "unicode": "&#61011;"
+  },
+  "tags": {
+    "encodedCode": "\\ee54",
+    "prefix": "pfi",
+    "className": "pfi-tags",
+    "unicode": "&#61012;"
+  },
+  "target": {
+    "encodedCode": "\\ee55",
+    "prefix": "pfi",
+    "className": "pfi-target",
+    "unicode": "&#61013;"
+  },
+  "task-assign": {
+    "encodedCode": "\\ee56",
+    "prefix": "pfi",
+    "className": "pfi-task-assign",
+    "unicode": "&#61014;"
+  },
+  "task-mgmt": {
+    "encodedCode": "\\ee57",
+    "prefix": "pfi",
+    "className": "pfi-task-mgmt",
+    "unicode": "&#61015;"
+  },
+  "task": {
+    "encodedCode": "\\ee58",
+    "prefix": "pfi",
+    "className": "pfi-task",
+    "unicode": "&#61016;"
+  },
+  "tattoo-gun": {
+    "encodedCode": "\\ee59",
+    "prefix": "pfi",
+    "className": "pfi-tattoo-gun",
+    "unicode": "&#61017;"
+  },
+  "template": {
+    "encodedCode": "\\ee5a",
+    "prefix": "pfi",
+    "className": "pfi-template",
+    "unicode": "&#61018;"
+  },
+  "terminal": {
+    "encodedCode": "\\ee5b",
+    "prefix": "pfi",
+    "className": "pfi-terminal",
+    "unicode": "&#61019;"
+  },
+  "testing": {
+    "encodedCode": "\\ee5c",
+    "prefix": "pfi",
+    "className": "pfi-testing",
+    "unicode": "&#61020;"
+  },
+  "thumb-down-empty": {
+    "encodedCode": "\\ee5d",
+    "prefix": "pfi",
+    "className": "pfi-thumb-down-empty",
+    "unicode": "&#61021;"
+  },
+  "thumb-down-filled": {
+    "encodedCode": "\\ee5e",
+    "prefix": "pfi",
+    "className": "pfi-thumb-down-filled",
+    "unicode": "&#61022;"
+  },
+  "thumb-up-empty": {
+    "encodedCode": "\\ee5f",
+    "prefix": "pfi",
+    "className": "pfi-thumb-up-empty",
+    "unicode": "&#61023;"
+  },
+  "thumb-up-filled": {
+    "encodedCode": "\\ee60",
+    "prefix": "pfi",
+    "className": "pfi-thumb-up-filled",
+    "unicode": "&#61024;"
+  },
+  "thumbtack": {
+    "encodedCode": "\\ee61",
+    "prefix": "pfi",
+    "className": "pfi-thumbtack",
+    "unicode": "&#61025;"
+  },
+  "tie": {
+    "encodedCode": "\\ee62",
+    "prefix": "pfi",
+    "className": "pfi-tie",
+    "unicode": "&#61026;"
+  },
+  "timeline-alt-1": {
+    "encodedCode": "\\ee63",
+    "prefix": "pfi",
+    "className": "pfi-timeline-alt-1",
+    "unicode": "&#61027;"
+  },
+  "timeline-alt-2": {
+    "encodedCode": "\\ee64",
+    "prefix": "pfi",
+    "className": "pfi-timeline-alt-2",
+    "unicode": "&#61028;"
+  },
+  "timeline": {
+    "encodedCode": "\\ee65",
+    "prefix": "pfi",
+    "className": "pfi-timeline",
+    "unicode": "&#61029;"
+  },
+  "toggle-off": {
+    "encodedCode": "\\ee66",
+    "prefix": "pfi",
+    "className": "pfi-toggle-off",
+    "unicode": "&#61030;"
+  },
+  "toggle-on": {
+    "encodedCode": "\\ee67",
+    "prefix": "pfi",
+    "className": "pfi-toggle-on",
+    "unicode": "&#61031;"
+  },
+  "toilet": {
+    "encodedCode": "\\ee68",
+    "prefix": "pfi",
+    "className": "pfi-toilet",
+    "unicode": "&#61032;"
+  },
+  "tool-broom": {
+    "encodedCode": "\\ee69",
+    "prefix": "pfi",
+    "className": "pfi-tool-broom",
+    "unicode": "&#61033;"
+  },
+  "tool-hammer": {
+    "encodedCode": "\\ee6a",
+    "prefix": "pfi",
+    "className": "pfi-tool-hammer",
+    "unicode": "&#61034;"
+  },
+  "tool-knife": {
+    "encodedCode": "\\ee6b",
+    "prefix": "pfi",
+    "className": "pfi-tool-knife",
+    "unicode": "&#61035;"
+  },
+  "tool-pick-axe": {
+    "encodedCode": "\\ee6c",
+    "prefix": "pfi",
+    "className": "pfi-tool-pick-axe",
+    "unicode": "&#61036;"
+  },
+  "tool-saw": {
+    "encodedCode": "\\ee6d",
+    "prefix": "pfi",
+    "className": "pfi-tool-saw",
+    "unicode": "&#61037;"
+  },
+  "tool-screw-driver": {
+    "encodedCode": "\\ee6e",
+    "prefix": "pfi",
+    "className": "pfi-tool-screw-driver",
+    "unicode": "&#61038;"
+  },
+  "tool-shovel": {
+    "encodedCode": "\\ee6f",
+    "prefix": "pfi",
+    "className": "pfi-tool-shovel",
+    "unicode": "&#61039;"
+  },
+  "tool-square": {
+    "encodedCode": "\\ee70",
+    "prefix": "pfi",
+    "className": "pfi-tool-square",
+    "unicode": "&#61040;"
+  },
+  "tool-weld-helmet": {
+    "encodedCode": "\\ee71",
+    "prefix": "pfi",
+    "className": "pfi-tool-weld-helmet",
+    "unicode": "&#61041;"
+  },
+  "tool-wrench": {
+    "encodedCode": "\\ee72",
+    "prefix": "pfi",
+    "className": "pfi-tool-wrench",
+    "unicode": "&#61042;"
+  },
+  "torch": {
+    "encodedCode": "\\ee73",
+    "prefix": "pfi",
+    "className": "pfi-torch",
+    "unicode": "&#61043;"
+  },
+  "training-mgmt": {
+    "encodedCode": "\\ee74",
+    "prefix": "pfi",
+    "className": "pfi-training-mgmt",
+    "unicode": "&#61044;"
+  },
+  "translation": {
+    "encodedCode": "\\ee75",
+    "prefix": "pfi",
+    "className": "pfi-translation",
+    "unicode": "&#61045;"
+  },
+  "trash": {
+    "encodedCode": "\\ee76",
+    "prefix": "pfi",
+    "className": "pfi-trash",
+    "unicode": "&#61046;"
+  },
+  "trogdor": {
+    "encodedCode": "\\ee77",
+    "prefix": "pfi",
+    "className": "pfi-trogdor",
+    "unicode": "&#61047;"
+  },
+  "trophy": {
+    "encodedCode": "\\ee78",
+    "prefix": "pfi",
+    "className": "pfi-trophy",
+    "unicode": "&#61048;"
+  },
+  "undo": {
+    "encodedCode": "\\ee79",
+    "prefix": "pfi",
+    "className": "pfi-undo",
+    "unicode": "&#61049;"
+  },
+  "usage-stats": {
+    "encodedCode": "\\ee7a",
+    "prefix": "pfi",
+    "className": "pfi-usage-stats",
+    "unicode": "&#61050;"
+  },
+  "usb": {
+    "encodedCode": "\\ee7b",
+    "prefix": "pfi",
+    "className": "pfi-usb",
+    "unicode": "&#61051;"
+  },
+  "valve": {
+    "encodedCode": "\\ee7c",
+    "prefix": "pfi",
+    "className": "pfi-valve",
+    "unicode": "&#61052;"
+  },
+  "version": {
+    "encodedCode": "\\ee7d",
+    "prefix": "pfi",
+    "className": "pfi-version",
+    "unicode": "&#61053;"
+  },
+  "versions": {
+    "encodedCode": "\\ee7e",
+    "prefix": "pfi",
+    "className": "pfi-versions",
+    "unicode": "&#61054;"
+  },
+  "vr": {
+    "encodedCode": "\\ee7f",
+    "prefix": "pfi",
+    "className": "pfi-vr",
+    "unicode": "&#61055;"
+  },
+  "waveform-saw-tooth": {
+    "encodedCode": "\\ee80",
+    "prefix": "pfi",
+    "className": "pfi-waveform-saw-tooth",
+    "unicode": "&#61056;"
+  },
+  "waveform-sine": {
+    "encodedCode": "\\ee81",
+    "prefix": "pfi",
+    "className": "pfi-waveform-sine",
+    "unicode": "&#61057;"
+  },
+  "waveform-square": {
+    "encodedCode": "\\ee82",
+    "prefix": "pfi",
+    "className": "pfi-waveform-square",
+    "unicode": "&#61058;"
+  },
+  "waveform-triangle": {
+    "encodedCode": "\\ee83",
+    "prefix": "pfi",
+    "className": "pfi-waveform-triangle",
+    "unicode": "&#61059;"
+  },
+  "welcome-letter-alt-1": {
+    "encodedCode": "\\ee84",
+    "prefix": "pfi",
+    "className": "pfi-welcome-letter-alt-1",
+    "unicode": "&#61060;"
+  },
+  "welcome-letter": {
+    "encodedCode": "\\ee85",
+    "prefix": "pfi",
+    "className": "pfi-welcome-letter",
+    "unicode": "&#61061;"
+  },
+  "wifi-router": {
+    "encodedCode": "\\ee86",
+    "prefix": "pfi",
+    "className": "pfi-wifi-router",
+    "unicode": "&#61062;"
+  },
+  "wifi": {
+    "encodedCode": "\\ee87",
+    "prefix": "pfi",
+    "className": "pfi-wifi",
+    "unicode": "&#61063;"
+  },
+  "window-close": {
+    "encodedCode": "\\ee88",
+    "prefix": "pfi",
+    "className": "pfi-window-close",
+    "unicode": "&#61064;"
+  },
+  "window-maximize-alt": {
+    "encodedCode": "\\ee89",
+    "prefix": "pfi",
+    "className": "pfi-window-maximize-alt",
+    "unicode": "&#61065;"
+  },
+  "window-maximize": {
+    "encodedCode": "\\ee8a",
+    "prefix": "pfi",
+    "className": "pfi-window-maximize",
+    "unicode": "&#61066;"
+  },
+  "window-minimize-alt": {
+    "encodedCode": "\\ee8b",
+    "prefix": "pfi",
+    "className": "pfi-window-minimize-alt",
+    "unicode": "&#61067;"
+  },
+  "window-minimize": {
+    "encodedCode": "\\ee8c",
+    "prefix": "pfi",
+    "className": "pfi-window-minimize",
+    "unicode": "&#61068;"
+  },
+  "window-restore-alt": {
+    "encodedCode": "\\ee8d",
+    "prefix": "pfi",
+    "className": "pfi-window-restore-alt",
+    "unicode": "&#61069;"
+  },
+  "window-restore": {
+    "encodedCode": "\\ee8e",
+    "prefix": "pfi",
+    "className": "pfi-window-restore",
+    "unicode": "&#61070;"
+  },
+  "world-globe-alt-1": {
+    "encodedCode": "\\ee8f",
+    "prefix": "pfi",
+    "className": "pfi-world-globe-alt-1",
+    "unicode": "&#61071;"
+  },
+  "world-globe-alt-2": {
+    "encodedCode": "\\ee90",
+    "prefix": "pfi",
+    "className": "pfi-world-globe-alt-2",
+    "unicode": "&#61072;"
+  },
+  "world-globe": {
+    "encodedCode": "\\ee91",
+    "prefix": "pfi",
+    "className": "pfi-world-globe",
+    "unicode": "&#61073;"
+  },
+  "wx-cloud-alt": {
+    "encodedCode": "\\ee92",
+    "prefix": "pfi",
+    "className": "pfi-wx-cloud-alt",
+    "unicode": "&#61074;"
+  },
+  "wx-cloud": {
+    "encodedCode": "\\ee93",
+    "prefix": "pfi",
+    "className": "pfi-wx-cloud",
+    "unicode": "&#61075;"
+  },
+  "wx-clouds-alt": {
+    "encodedCode": "\\ee94",
+    "prefix": "pfi",
+    "className": "pfi-wx-clouds-alt",
+    "unicode": "&#61076;"
+  },
+  "wx-clouds": {
+    "encodedCode": "\\ee95",
+    "prefix": "pfi",
+    "className": "pfi-wx-clouds",
+    "unicode": "&#61077;"
+  },
+  "wx-cold": {
+    "encodedCode": "\\ee96",
+    "prefix": "pfi",
+    "className": "pfi-wx-cold",
+    "unicode": "&#61078;"
+  },
+  "wx-dust-storm": {
+    "encodedCode": "\\ee97",
+    "prefix": "pfi",
+    "className": "pfi-wx-dust-storm",
+    "unicode": "&#61079;"
+  },
+  "wx-fog": {
+    "encodedCode": "\\ee98",
+    "prefix": "pfi",
+    "className": "pfi-wx-fog",
+    "unicode": "&#61080;"
+  },
+  "wx-freezing-rain": {
+    "encodedCode": "\\ee99",
+    "prefix": "pfi",
+    "className": "pfi-wx-freezing-rain",
+    "unicode": "&#61081;"
+  },
+  "wx-frost": {
+    "encodedCode": "\\ee9a",
+    "prefix": "pfi",
+    "className": "pfi-wx-frost",
+    "unicode": "&#61082;"
+  },
+  "wx-funnel": {
+    "encodedCode": "\\ee9b",
+    "prefix": "pfi",
+    "className": "pfi-wx-funnel",
+    "unicode": "&#61083;"
+  },
+  "wx-hail": {
+    "encodedCode": "\\ee9c",
+    "prefix": "pfi",
+    "className": "pfi-wx-hail",
+    "unicode": "&#61084;"
+  },
+  "wx-haze": {
+    "encodedCode": "\\ee9d",
+    "prefix": "pfi",
+    "className": "pfi-wx-haze",
+    "unicode": "&#61085;"
+  },
+  "wx-hot": {
+    "encodedCode": "\\ee9e",
+    "prefix": "pfi",
+    "className": "pfi-wx-hot",
+    "unicode": "&#61086;"
+  },
+  "wx-humidity": {
+    "encodedCode": "\\ee9f",
+    "prefix": "pfi",
+    "className": "pfi-wx-humidity",
+    "unicode": "&#61087;"
+  },
+  "wx-hurricane-warn": {
+    "encodedCode": "\\eea0",
+    "prefix": "pfi",
+    "className": "pfi-wx-hurricane-warn",
+    "unicode": "&#61088;"
+  },
+  "wx-hurricane": {
+    "encodedCode": "\\eea1",
+    "prefix": "pfi",
+    "className": "pfi-wx-hurricane",
+    "unicode": "&#61089;"
+  },
+  "wx-lightning-alt": {
+    "encodedCode": "\\eea2",
+    "prefix": "pfi",
+    "className": "pfi-wx-lightning-alt",
+    "unicode": "&#61090;"
+  },
+  "wx-lightning": {
+    "encodedCode": "\\eea3",
+    "prefix": "pfi",
+    "className": "pfi-wx-lightning",
+    "unicode": "&#61091;"
+  },
+  "wx-moon-crescent-left": {
+    "encodedCode": "\\eea4",
+    "prefix": "pfi",
+    "className": "pfi-wx-moon-crescent-left",
+    "unicode": "&#61092;"
+  },
+  "wx-moon-crescent-right": {
+    "encodedCode": "\\eea5",
+    "prefix": "pfi",
+    "className": "pfi-wx-moon-crescent-right",
+    "unicode": "&#61093;"
+  },
+  "wx-moon-first-quarter-alt": {
+    "encodedCode": "\\eea6",
+    "prefix": "pfi",
+    "className": "pfi-wx-moon-first-quarter-alt",
+    "unicode": "&#61094;"
+  },
+  "wx-moon-first-quarter": {
+    "encodedCode": "\\eea7",
+    "prefix": "pfi",
+    "className": "pfi-wx-moon-first-quarter",
+    "unicode": "&#61095;"
+  },
+  "wx-moon-full-moon": {
+    "encodedCode": "\\eea8",
+    "prefix": "pfi",
+    "className": "pfi-wx-moon-full-moon",
+    "unicode": "&#61096;"
+  },
+  "wx-moon-new-moon": {
+    "encodedCode": "\\eea9",
+    "prefix": "pfi",
+    "className": "pfi-wx-moon-new-moon",
+    "unicode": "&#61097;"
+  },
+  "wx-moon-third-quarter-alt": {
+    "encodedCode": "\\eeaa",
+    "prefix": "pfi",
+    "className": "pfi-wx-moon-third-quarter-alt",
+    "unicode": "&#61098;"
+  },
+  "wx-moon-third-quarter": {
+    "encodedCode": "\\eeab",
+    "prefix": "pfi",
+    "className": "pfi-wx-moon-third-quarter",
+    "unicode": "&#61099;"
+  },
+  "wx-moon-waning-crescent": {
+    "encodedCode": "\\eeac",
+    "prefix": "pfi",
+    "className": "pfi-wx-moon-waning-crescent",
+    "unicode": "&#61100;"
+  },
+  "wx-moon-waning-gibbus": {
+    "encodedCode": "\\eead",
+    "prefix": "pfi",
+    "className": "pfi-wx-moon-waning-gibbus",
+    "unicode": "&#61101;"
+  },
+  "wx-moon-waxing-crescent": {
+    "encodedCode": "\\eeae",
+    "prefix": "pfi",
+    "className": "pfi-wx-moon-waxing-crescent",
+    "unicode": "&#61102;"
+  },
+  "wx-moon-waxing-gibbus": {
+    "encodedCode": "\\eeaf",
+    "prefix": "pfi",
+    "className": "pfi-wx-moon-waxing-gibbus",
+    "unicode": "&#61103;"
+  },
+  "wx-rain-hail-mix": {
+    "encodedCode": "\\eeb0",
+    "prefix": "pfi",
+    "className": "pfi-wx-rain-hail-mix",
+    "unicode": "&#61104;"
+  },
+  "wx-rain-showers": {
+    "encodedCode": "\\eeb1",
+    "prefix": "pfi",
+    "className": "pfi-wx-rain-showers",
+    "unicode": "&#61105;"
+  },
+  "wx-rain-snow-mix": {
+    "encodedCode": "\\eeb2",
+    "prefix": "pfi",
+    "className": "pfi-wx-rain-snow-mix",
+    "unicode": "&#61106;"
+  },
+  "wx-rain-sprinkle": {
+    "encodedCode": "\\eeb3",
+    "prefix": "pfi",
+    "className": "pfi-wx-rain-sprinkle",
+    "unicode": "&#61107;"
+  },
+  "wx-rain": {
+    "encodedCode": "\\eeb4",
+    "prefix": "pfi",
+    "className": "pfi-wx-rain",
+    "unicode": "&#61108;"
+  },
+  "wx-sleet": {
+    "encodedCode": "\\eeb5",
+    "prefix": "pfi",
+    "className": "pfi-wx-sleet",
+    "unicode": "&#61109;"
+  },
+  "wx-smoke-smog": {
+    "encodedCode": "\\eeb6",
+    "prefix": "pfi",
+    "className": "pfi-wx-smoke-smog",
+    "unicode": "&#61110;"
+  },
+  "wx-snow-wind-blizzard": {
+    "encodedCode": "\\eeb7",
+    "prefix": "pfi",
+    "className": "pfi-wx-snow-wind-blizzard",
+    "unicode": "&#61111;"
+  },
+  "wx-snow": {
+    "encodedCode": "\\eeb8",
+    "prefix": "pfi",
+    "className": "pfi-wx-snow",
+    "unicode": "&#61112;"
+  },
+  "wx-solar-eclipse": {
+    "encodedCode": "\\eeb9",
+    "prefix": "pfi",
+    "className": "pfi-wx-solar-eclipse",
+    "unicode": "&#61113;"
+  },
+  "wx-starry": {
+    "encodedCode": "\\eeba",
+    "prefix": "pfi",
+    "className": "pfi-wx-starry",
+    "unicode": "&#61114;"
+  },
+  "wx-sunny-alt": {
+    "encodedCode": "\\eebb",
+    "prefix": "pfi",
+    "className": "pfi-wx-sunny-alt",
+    "unicode": "&#61115;"
+  },
+  "wx-sunny": {
+    "encodedCode": "\\eebc",
+    "prefix": "pfi",
+    "className": "pfi-wx-sunny",
+    "unicode": "&#61116;"
+  },
+  "wx-sunrise": {
+    "encodedCode": "\\eebd",
+    "prefix": "pfi",
+    "className": "pfi-wx-sunrise",
+    "unicode": "&#61117;"
+  },
+  "wx-sunset": {
+    "encodedCode": "\\eebe",
+    "prefix": "pfi",
+    "className": "pfi-wx-sunset",
+    "unicode": "&#61118;"
+  },
+  "wx-thermometer-0": {
+    "encodedCode": "\\eebf",
+    "prefix": "pfi",
+    "className": "pfi-wx-thermometer-0",
+    "unicode": "&#61119;"
+  },
+  "wx-thermometer-100": {
+    "encodedCode": "\\eec0",
+    "prefix": "pfi",
+    "className": "pfi-wx-thermometer-100",
+    "unicode": "&#61120;"
+  },
+  "wx-thermometer-25": {
+    "encodedCode": "\\eec1",
+    "prefix": "pfi",
+    "className": "pfi-wx-thermometer-25",
+    "unicode": "&#61121;"
+  },
+  "wx-thermometer-50": {
+    "encodedCode": "\\eec2",
+    "prefix": "pfi",
+    "className": "pfi-wx-thermometer-50",
+    "unicode": "&#61122;"
+  },
+  "wx-thermometer-75": {
+    "encodedCode": "\\eec3",
+    "prefix": "pfi",
+    "className": "pfi-wx-thermometer-75",
+    "unicode": "&#61123;"
+  },
+  "wx-thunderstorm": {
+    "encodedCode": "\\eec4",
+    "prefix": "pfi",
+    "className": "pfi-wx-thunderstorm",
+    "unicode": "&#61124;"
+  },
+  "wx-tornado": {
+    "encodedCode": "\\eec5",
+    "prefix": "pfi",
+    "className": "pfi-wx-tornado",
+    "unicode": "&#61125;"
+  },
+  "wx-tsunami": {
+    "encodedCode": "\\eec6",
+    "prefix": "pfi",
+    "className": "pfi-wx-tsunami",
+    "unicode": "&#61126;"
+  },
+  "wx-wild-fire": {
+    "encodedCode": "\\eec7",
+    "prefix": "pfi",
+    "className": "pfi-wx-wild-fire",
+    "unicode": "&#61127;"
+  },
+  "wx-wind-cloud-alt-2": {
+    "encodedCode": "\\eec8",
+    "prefix": "pfi",
+    "className": "pfi-wx-wind-cloud-alt-2",
+    "unicode": "&#61128;"
+  },
+  "wx-wind-cloud-alt-3": {
+    "encodedCode": "\\eec9",
+    "prefix": "pfi",
+    "className": "pfi-wx-wind-cloud-alt-3",
+    "unicode": "&#61129;"
+  },
+  "wx-wind-cloud-alt": {
+    "encodedCode": "\\eeca",
+    "prefix": "pfi",
+    "className": "pfi-wx-wind-cloud-alt",
+    "unicode": "&#61130;"
+  },
+  "wx-wind-cloud": {
+    "encodedCode": "\\eecb",
+    "prefix": "pfi",
+    "className": "pfi-wx-wind-cloud",
+    "unicode": "&#61131;"
+  },
+  "wx-wind-deg": {
+    "encodedCode": "\\eecc",
+    "prefix": "pfi",
+    "className": "pfi-wx-wind-deg",
+    "unicode": "&#61132;"
+  },
+  "wx-wind": {
+    "encodedCode": "\\eecd",
+    "prefix": "pfi",
+    "className": "pfi-wx-wind",
+    "unicode": "&#61133;"
+  }
+}

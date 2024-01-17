@@ -7,15 +7,14 @@ These icons were built for and by the National Guard Professional Education Cent
 
 ## Update Icons
 ```
-node index.js
+npm run build
 ```
 Outputs to /fonts
 
 ## Use
-Go to the fonts folder in the repo or in the root of the release version. Example html in index.html. pfi.js is not required but is a useful key value pair to get the hex values by icon name for use on things like an html5 canvas.
+Go to the fonts folder in the repo or in the root of the release version. Example html in index.html.
 ```
    <link rel="stylesheet" href="pfi.css" />
-   <link rel="stylesheet" href="pfi.js" />
    
    <i class="pfi-badge"></i>
 ```
@@ -35,8 +34,6 @@ Create a pull request. Please only original or open source art work. Only submit
 ![Sample 1](./screen-shots/sample1.png)
 ![Sample 2](./screen-shots/sample2.png)
 
-## pfi.js
-pfi.js is an optional js file with a key value pair of hex values for each icon for use on things like HTML5 canvas.
 
 ## From The Repo Instructions
    - npm install
